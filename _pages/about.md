@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/500x300.png)
-<img src="https://github.com/ycu-iil/testpage.github.io/images/500x300.png" alt="sample">
+![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/500x300.png?raw=true)
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/masterimages/500x300.png?raw=true" alt="sample">
 
 
 
