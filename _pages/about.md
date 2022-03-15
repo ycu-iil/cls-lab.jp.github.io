@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![image](3953273590_704e3899d5_m.jpg)
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/500x300.png" alt="sample">
+
 
 
 生命情報科学研究室では、計算機を用いて、物理化学的分子シミュレーションとバイオインフォマティクスを融合し、タンパク質や核酸 (DNA・RNA) などの生体高分子の立体構造と機能についての理論的研究をしています。また、機械学習や画像処理等の情報科学手法を用いて、創薬・構造生物学を推進する研究、および広く生物・生命現象を解析する研究を行っています。
