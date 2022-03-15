@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/500x300.png" alt="sample">
+<img src="https://github.com/ycu-iil/testpage.github.io/images/500x300.png" alt="sample">
 
 
 
