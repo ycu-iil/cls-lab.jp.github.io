@@ -39,6 +39,8 @@ English page is here.
 
 - AMED BINDS
 
+- 新学術領域 発動分子
+
 - AMED DAIIA
   - 産学連携による次世代創薬AI開発
 
