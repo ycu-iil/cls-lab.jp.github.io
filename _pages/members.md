@@ -23,7 +23,7 @@ author_profile: true
 
 - 特任准教授	佐藤朋広
 
--特任助教 [石田祥一](https://sishida21.github.io/about/)
+- 特任助教 [石田祥一](https://sishida21.github.io/about/)
 
 - 博士研究員 井上雅郎
 
