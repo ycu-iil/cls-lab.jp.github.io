@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "日本語"
-title                    : "Life science and informatics group"
+title                    : "横浜市大 生命情報科学研究室"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
