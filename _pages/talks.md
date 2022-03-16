@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+<span style="font-size: 50%;">
+
 # ポスター賞/口頭発表賞
 
 
@@ -16,35 +18,36 @@ author_profile: true
   - 受賞コメント(リンク)
 
 1. 11月　第49回構造活性相関シンポジウム　SAR Poster Award　武富啓
-発表演題:「硬質コルチコイド受容体の活性型変異S810Lに対する水分子の効果」
-著者：武富啓、大田雅照、浴本亨、池口満徳
-受賞コメント(リンク)
+  - 発表演題:「硬質コルチコイド受容体の活性型変異S810Lに対する水分子の効果」
+  - 著者：武富啓、大田雅照、浴本亨、池口満徳
+  - 受賞コメント(リンク)
 
 1. 11月　第49回構造活性相関シンポジウム　SAR Poster Award　柴橋佑希
-発表演題:「維持メチル化因子UHRF1の阻害剤探索：MDを組み合わせたインシリコスクリーニング」
-著者：柴橋佑希、浴本亨、郡聡実、山根努、有田恭平、池口満徳
-受賞コメント(リンク)
+  - 発表演題:「維持メチル化因子UHRF1の阻害剤探索：MDを組み合わせたインシリコスクリーニング」
+  - 著者：柴橋佑希、浴本亨、郡聡実、山根努、有田恭平、池口満徳
+  - 受賞コメント(リンク)
 
 1. 11月　第49回構造活性相関シンポジウム　SAR Poster Award　伊藤朱里
-発表演題:「中分子シクロスポリンAとシクロスポリンEの分子ダイナミクスの比較」
-著者：伊藤朱里、浴本亨、山根努、池口満徳
-受賞コメント(リンク)
+  - 発表演題:「中分子シクロスポリンAとシクロスポリンEの分子ダイナミクスの比較」
+  - 著者：伊藤朱里、浴本亨、山根努、池口満徳
+  - 受賞コメント(リンク)
 
 1. 10月　情報計算科学生物（CBI）学会　ベストポスター賞　伊藤朱里
-発表演題:「Comparison of molecular dynamics of cyclosporin A and cycrosporin E」
-著者：伊藤朱里、浴本亨、山根努、池口満徳
-受賞コメント(リンク)
+  - 発表演題:「Comparison of molecular dynamics of cyclosporin A and cycrosporin E」
+  - 著者：伊藤朱里、浴本亨、山根努、池口満徳
+  - 受賞コメント(リンク)
 
 1. 10月　情報計算科学生物（CBI）学会　ポスター賞　柴橋佑希
-発表演題:「Inhibitor discovery targeting UHRF1 by MD simulations and biochemical analyses」
-著者：柴橋佑希、浴本亨、郡聡実、山根努、有田恭平、池口満徳
-受賞コメント(リンク)
+  - 発表演題:「Inhibitor discovery targeting UHRF1 by MD simulations and biochemical analyses」
+  - 著者：柴橋佑希、浴本亨、郡聡実、山根努、有田恭平、池口満徳
+  - 受賞コメント(リンク)
 
 1. 10月　情報計算科学生物（CBI）学会　ポスター賞　中居雪菜
 発表演題:「Activation Pathway of IL-2-inducible T-cell kinase Explored by Tree-Search Molecular Dynamics」
 著者：中居雪菜、浴本亨、山根努、小川直樹、寺山慧、池口満徳
 受賞コメント(リンク)
 
+</span>
 
 ## 2020
 
