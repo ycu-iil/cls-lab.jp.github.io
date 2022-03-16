@@ -7,12 +7,12 @@ author_profile: true
 
 # 2022
 1. M. Sumita, K. Terayama, N. Suzuki, S. Ishihara, R. Tamura, M. K. Chahal, D. T. Payne, K. Yoshizoe, K. Tsuda,  ["De novo creation of a naked eye–detectable fluorescent molecule based on quantum chemical computation and machine learning,"](https://www.science.org/doi/10.1126/sciadv.abj3906) *Science Advances*, Vol.8, No.10, eabj3906, 2022. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html))
-1. S. Ishida, K. Terayama, R. Kojima, K. Takasu, Y. Okuno, "AI-Driven Synthetic Route Design Incorporated with Retrosynthesis Knowledge," *Journal of Chemical Information and Modeling*, 2022.
-1. G. Deffrennes, K. Terayama, T. Abe, R. Tamura, "A machine learning–based classification approach for phase diagram prediction," *Materials & Design*, Vol.215, 110497, 2022.
-1. N. Ienaga, A. Cravotta, A., K. Terayama,  B. W. Scotney, H. Saito, M. G. Busà, "Semi-automation of gesture annotation by machine learning and human collaboration." *Language Resources and Evaluation*, 2022.
-1. Wei-Hsun Hu, Ta-Te Chen, Ryo Tamura, Kei Terayama, Siqian Wang, Ikumu Watanabe, Masanobu Naito*, "Topological alternation from structurally adaptable to mechanically stable crosslinked polymer," *Science and Technology of Advanced Materials*, Vol.23, No.1, pp.66-75, 2022.
-1. K. Terayama, K. Mizuno*, S. Tabeta, S. Sakamoto, Y. Sugimoto, K. Sugimoto, H. Fukami, M. Sakagami, L. A. Jimenez, "Cost-effective seafloor habitat mapping using a portable speedy sea scanner and deep-learning-based segmentation: A sea trial at Pujada Bay, Philippines," *Methods in Ecology and Evolution*, Vol.13, No.2, pp.339-345, 2022.
-1. K. Terayama*, K. Han, R. Katsube, I. Ohnuma, T. Abe, Y. Nose, R. Tamura*, "Acceleration of phase diagram construction by machine learning incorporating Gibbs' phase rule," *Scripta Materialia*, Vol. 28, 114335, 2022.
+1. S. Ishida, K. Terayama, R. Kojima, K. Takasu, Y. Okuno, ["AI-Driven Synthetic Route Design Incorporated with Retrosynthesis Knowledge,"](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01074) *Journal of Chemical Information and Modeling*, 2022.
+1. G. Deffrennes, K. Terayama, T. Abe, R. Tamura, ["A machine learning–based classification approach for phase diagram prediction,"](https://doi.org/10.1016/j.matdes.2022.110497) *Materials & Design*, Vol.215, 110497, 2022.
+1. N. Ienaga, A. Cravotta, A., K. Terayama,  B. W. Scotney, H. Saito, M. G. Busà, ["Semi-automation of gesture annotation by machine learning and human collaboration."](https://link.springer.com/article/10.1007/s10579-022-09586-4) *Language Resources and Evaluation*, 2022.
+1. Wei-Hsun Hu, Ta-Te Chen, Ryo Tamura, Kei Terayama, Siqian Wang, Ikumu Watanabe, Masanobu Naito*, ["Topological alternation from structurally adaptable to mechanically stable crosslinked polymer,"](https://www.tandfonline.com/doi/full/10.1080/14686996.2021.2025426) *Science and Technology of Advanced Materials*, Vol.23, No.1, pp.66-75, 2022.
+1. K. Terayama, K. Mizuno*, S. Tabeta, S. Sakamoto, Y. Sugimoto, K. Sugimoto, H. Fukami, M. Sakagami, L. A. Jimenez, ["Cost-effective seafloor habitat mapping using a portable speedy sea scanner and deep-learning-based segmentation: A sea trial at Pujada Bay, Philippines,"](https://doi.org/10.1111/2041-210X.13744) *Methods in Ecology and Evolution*, Vol.13, No.2, pp.339-345, 2022.
+1. K. Terayama*, K. Han, R. Katsube, I. Ohnuma, T. Abe, Y. Nose, R. Tamura*, ["Acceleration of phase diagram construction by machine learning incorporating Gibbs' phase rule,"](https://doi.org/10.1016/j.scriptamat.2021.11433) *Scripta Materialia*, Vol. 28, 114335, 2022.
 
 
 # 2021
