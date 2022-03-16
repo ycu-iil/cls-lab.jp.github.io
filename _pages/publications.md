@@ -5,9 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2022
+1. M. Sumita, K. Terayama, N. Suzuki, S. Ishihara, R. Tamura, M. K. Chahal, D. T. Payne, K. Yoshizoe, K. Tsuda,  "De novo creation of a naked eye–detectable fluorescent molecule based on quantum chemical computation and machine learning," *Science Advances*, Vol.8, No.10, eabj3906, 2022. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html))
+1. S. Ishida, K. Terayama, R. Kojima, K. Takasu, Y. Okuno, "AI-Driven Synthetic Route Design Incorporated with Retrosynthesis Knowledge," *Journal of Chemical Information and Modeling*, 2022.
+1. G. Deffrennes, K. Terayama, T. Abe, R. Tamura, "A machine learning–based classification approach for phase diagram prediction," *Materials & Design*, Vol.215, 110497, 2022.
+1. N. Ienaga, A. Cravotta, A., K. Terayama,  B. W. Scotney, H. Saito, M. G. Busà, "Semi-automation of gesture annotation by machine learning and human collaboration." *Language Resources and Evaluation*, 2022.
+1. Wei-Hsun Hu, Ta-Te Chen, Ryo Tamura, Kei Terayama, Siqian Wang, Ikumu Watanabe, Masanobu Naito*, "Topological alternation from structurally adaptable to mechanically stable crosslinked polymer," *Science and Technology of Advanced Materials*, Vol.23, No.1, pp.66-75, 2022.
+1. K. Terayama, K. Mizuno*, S. Tabeta, S. Sakamoto, Y. Sugimoto, K. Sugimoto, H. Fukami, M. Sakagami, L. A. Jimenez, "Cost-effective seafloor habitat mapping using a portable speedy sea scanner and deep-learning-based segmentation: A sea trial at Pujada Bay, Philippines," *Methods in Ecology and Evolution*, Vol.13, No.2, pp.339-345, 2022.
+1. K. Terayama*, K. Han, R. Katsube, I. Ohnuma, T. Abe, Y. Nose, R. Tamura*, "Acceleration of phase diagram construction by machine learning incorporating Gibbs' phase rule," *Scripta Materialia*, Vol. 28, 114335, 2022.
+
+
 # 2021
-1. Xiaolin Sun, Ryo Tamura, Masato Sumita, Kenichi Mori, Kei Terayama, and Koji Tsuda*, "Integrating Incompatible Assay Data Sets with Deep Preference Learning," ACS Medicinal Chemistry Letters, Vol.13, No.1, pp.70-75, 2021. 
-1. Y. Amamoto*, H. Kikutake, K. Kojio, A. Takahara, and K. Terayama, "Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters," Polymer Journal, Vol.53, pp.1269-1279, 2021
+1. Xiaolin Sun, Ryo Tamura, Masato Sumita, Kenichi Mori, Kei Terayama, and Koji Tsuda, "Integrating Incompatible Assay Data Sets with Deep Preference Learning," *ACS Medicinal Chemistry Letters*, 13(1): 70-75, (2021). 
+1. Y. Amamoto*, H. Kikutake, K. Kojio, A. Takahara, and K. Terayama, "Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters," *Polymer Journal*, 53:1269-1279, (2021).
 1. S. Kori#, Y. Shibahashi#, T. Ekimoto#, A. Nishiyama, S. Yoshimi, K. Yamaguchi, S. Nagatoishi, M. Ohta, K. Tsumoto, M. Nakanishi, P. Defossez, M. Ikeguchi, and K. Arita, "Structure-based screening combined with computational and biochemical analyses identified the inhibitor targeting the binding of DNA ligase 1 to UHRF1." Bioorganic Med. Chem. 52, 116500 (2021). # equal contribution
 1. K. Moritsugu, "Multiscale Enhanced Sampling Using Machine Learning." Life (Basel). 11(10):1076 (2021).
 1. K. Kakihara, K. Asamizu, K. Moritsugu, M. Kubo, T. Kitaguchi, A.Endo, A. Kidera, M. Ikeguchi, A. Kato, M. Komada, T. Fukushima, "Molecular basis of ubiquitin-specific protease 8 autoinhibition by the WW-like domain." Commun Biol. 4(1):1272 (2021).
