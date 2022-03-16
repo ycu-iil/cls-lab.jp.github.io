@@ -4,7 +4,7 @@ main:
     url: /members/    
 
   - title: "研究概要"
-    url: /reserch/
+    url: /research/
     
   - title: "論文"
     url: /publications/
