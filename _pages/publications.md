@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 2022
-1. M. Sumita, K. Terayama, N. Suzuki, S. Ishihara, R. Tamura, M. K. Chahal, D. T. Payne, K. Yoshizoe, K. Tsuda,  "De novo creation of a naked eye–detectable fluorescent molecule based on quantum chemical computation and machine learning," *Science Advances*, Vol.8, No.10, eabj3906, 2022. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html))
+1. M. Sumita, K. Terayama, N. Suzuki, S. Ishihara, R. Tamura, M. K. Chahal, D. T. Payne, K. Yoshizoe, K. Tsuda,  ["De novo creation of a naked eye–detectable fluorescent molecule based on quantum chemical computation and machine learning,"](https://www.science.org/doi/10.1126/sciadv.abj3906) *Science Advances*, Vol.8, No.10, eabj3906, 2022. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html))
 1. S. Ishida, K. Terayama, R. Kojima, K. Takasu, Y. Okuno, "AI-Driven Synthetic Route Design Incorporated with Retrosynthesis Knowledge," *Journal of Chemical Information and Modeling*, 2022.
 1. G. Deffrennes, K. Terayama, T. Abe, R. Tamura, "A machine learning–based classification approach for phase diagram prediction," *Materials & Design*, Vol.215, 110497, 2022.
 1. N. Ienaga, A. Cravotta, A., K. Terayama,  B. W. Scotney, H. Saito, M. G. Busà, "Semi-automation of gesture annotation by machine learning and human collaboration." *Language Resources and Evaluation*, 2022.
