@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-<span style="font-size: 50%;">
 
 # ポスター賞/口頭発表賞
 
@@ -47,7 +46,6 @@ author_profile: true
   - 著者：中居雪菜、浴本亨、山根努、小川直樹、寺山慧、池口満徳
   - 受賞コメント(リンク)
 
-</span>
 
 ## 2020
 
