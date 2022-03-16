@@ -12,7 +12,7 @@ author_profile: true
 1. N. Ienaga, A. Cravotta, A., K. Terayama,  B. W. Scotney, H. Saito, M. G. Busà, ["Semi-automation of gesture annotation by machine learning and human collaboration."](https://link.springer.com/article/10.1007/s10579-022-09586-4) *Language Resources and Evaluation*, 2022.
 1. Wei-Hsun Hu, Ta-Te Chen, Ryo Tamura, Kei Terayama, Siqian Wang, Ikumu Watanabe, Masanobu Naito*, ["Topological alternation from structurally adaptable to mechanically stable crosslinked polymer,"](https://www.tandfonline.com/doi/full/10.1080/14686996.2021.2025426) *Science and Technology of Advanced Materials*, Vol.23, No.1, pp.66-75, 2022.
 1. K. Terayama, K. Mizuno*, S. Tabeta, S. Sakamoto, Y. Sugimoto, K. Sugimoto, H. Fukami, M. Sakagami, L. A. Jimenez, ["Cost-effective seafloor habitat mapping using a portable speedy sea scanner and deep-learning-based segmentation: A sea trial at Pujada Bay, Philippines,"](https://doi.org/10.1111/2041-210X.13744) *Methods in Ecology and Evolution*, Vol.13, No.2, pp.339-345, 2022.
-1. K. Terayama*, K. Han, R. Katsube, I. Ohnuma, T. Abe, Y. Nose, R. Tamura*, ["Acceleration of phase diagram construction by machine learning incorporating Gibbs' phase rule,"](https://doi.org/10.1016/j.scriptamat.2021.11433) *Scripta Materialia*, Vol. 28, 114335, 2022.
+1. K. Terayama*, K. Han, R. Katsube, I. Ohnuma, T. Abe, Y. Nose, R. Tamura*, ["Acceleration of phase diagram construction by machine learning incorporating Gibbs' phase rule,"](https://www.sciencedirect.com/science/article/pii/S1359646221006151) *Scripta Materialia*, Vol. 28, 114335, 2022.
 
 
 # 2021
