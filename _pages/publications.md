@@ -55,7 +55,7 @@ author_profile: true
 1.　T. Yamada, T. Hayashi, S. Hikiri, N. Kobayashi, H. Yanagawa, M. Ikeguchi, M. Katahira, T. Nagata, M. Kinoshita, "How Does the Recently Discovered Peptide MIP Exhibit Much Higher Binding Affinity than an Anticancer Protein p53 for an Oncoprotein MDM2?" J. Chem. Inf. Model., 59, 8, 3533-3544 (2019).
 
 # 2018
-1.　Y. Matsunaga, T. Yamane, T. Terada, K. Moritsugu, H. Fujisaki, S. Murakami, M. Ikeguchi, and A. Kidera, "Energetics and conformational pathways of functional rotation in the multidrug transporter AcrB." eLIFE (2018) 7: e31715. DOI: 10.7554/eLife.31715.001 (2018).
+1. Y. Matsunaga, T. Yamane, T. Terada, K. Moritsugu, H. Fujisaki, S. Murakami, M. Ikeguchi, and A. Kidera, "Energetics and conformational pathways of functional rotation in the multidrug transporter AcrB." eLIFE (2018) 7: e31715. DOI: 10.7554/eLife.31715.001 (2018).
 1. K. Moritsugu, T. Terada, H. Kokubo, S. Endo, T. Tanaka and A. Kidera, "Multiscale enhanced sampling of glucokinase: Regulation of the enzymatic reaction via a large scale domain motion." Journal of Chemical Physics 149, 072314. DOI: 10.1063/1.5027444 (2018).
 1. H. Fujisaki, K. Moritsugu, A. Mitsutake, and H. Suetani, "Conformational change of a biomolecule studied by the weighted ensemble method: Use of the diffusion map method to extract reaction coordinates." Journal of Chemical Physics 149, 134112. DOI: 10.1063/1.5049420 (2018).
 1. K. Moritsugu, H. Nishi, K. Inariyama, M. Kobayashi and A. Kidera, "Dynamic recognition and linkage specificity in K63 di-ubiquitin and TAB2 NZF domain complex." Scientific Reports, 8, 16478. DOI: 10.1038/s41598-018-34605-2 (2018).
