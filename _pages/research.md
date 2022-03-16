@@ -13,7 +13,8 @@ author_profile: true
 - 物理化学的方法論の開発：　分子動力学法、モンテカルロ法、統計力学理論、拡張アンサンブル法（マルチカノニカル法）、基準振動解析、積分方程式法
 
 ## 機械学習(探索)とシミュレーション・実験の融合
-- <details><summary>すごく長い文章とかプログラムとか</summary><div>
+<details><summary>
+- すごく長い文章とかプログラムとか</summary><div>
 
 abced
 </div></details>
