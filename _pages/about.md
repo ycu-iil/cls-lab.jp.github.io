@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+[](
 ![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/about_image.jpg?raw=true)
+)
 
 English page is here.
 
