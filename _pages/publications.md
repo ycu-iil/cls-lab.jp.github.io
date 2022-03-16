@@ -40,11 +40,11 @@ author_profile: true
 1. K. Terayama, M. Sumita, R. Tamura, D. T. Payne, M. K. Chahal, S. Ishihara, K. Tsuda, "Pushing property limits in materials discovery via boundless objective-free exploration." Chem Sci., 11(23):5959-5968 (2020).
 1. K. Mizuno, K. Terayama, S. Hagino, S. Tabeta, S. Sakamoto, T. Ogawa, K. Sugimoto, H. Fukami, "An efficient coral survey method based on a large-scale 3-D structure model obtained by Speedy Sea Scanner and U-Net segmentation." Sci Rep 31;10(1):12416 (2020).
 1. K. Moritsugu, Y. Nishino, A. Kidera, "Inter-lobe Motions Allosterically Regulate the Structure and Function of EGFR Kinase." J Mol Biol. 24;432(16):4561-4575 (2020).
-1.　I. Fukuda and K. Moritsugu, "Temperature-Energy-space Sampling Molecular Dynamics: Deterministic, Iteration-free, and Single-replica Method utilizing Continuous Temperature System." J. Phys. 53: 375004 (2020).
-1.　R. Katsube, K. Terayama, R. Tamura, and Y. Nose, "Experimental establishment of phase diagram guided by uncertainty sampling: an application to the deposition of Zn-Sn-P films by molecular beam epitaxy." ACS Materials Letters, Vol. 2, 571-575 (2020).
-1.　H. Hagihara, N. Ienaga, D. Enomoto, S. Takahata, H. Ishihara, H. Noda, K. Tsuda, and K. Terayama, "Computer Vision-Based Approach for Quantifying Occupational Therapists' Qualitative Evaluations of Postural Control." Occup Ther Int, vol.2020, Article ID 8542191, 9 pages (2020).
-1.　R. Kanada, A. Tokuhisa, K. Tsuda, Y. Okuno, K. Terayama, "Exploring Successful Parameter Region for Coarse-Grained Simulation of Biomolecules by Bayesian Optimization and Active Learning." Biomolecules, 10(3), 482, (2020).
-1.　浴本亨, 小甲裕一, 苙口友隆, 池口満徳 "X線小角散乱と分子動力学シミュレーションを組み合わせた生体分子の溶液構造解析" 分子シミュレーション学会誌"アンサンブル", 22, 3, 239-251 (2020).
+1. I. Fukuda and K. Moritsugu, "Temperature-Energy-space Sampling Molecular Dynamics: Deterministic, Iteration-free, and Single-replica Method utilizing Continuous Temperature System." J. Phys. 53: 375004 (2020).
+1. R. Katsube, K. Terayama, R. Tamura, and Y. Nose, "Experimental establishment of phase diagram guided by uncertainty sampling: an application to the deposition of Zn-Sn-P films by molecular beam epitaxy." ACS Materials Letters, Vol. 2, 571-575 (2020).
+1. H. Hagihara, N. Ienaga, D. Enomoto, S. Takahata, H. Ishihara, H. Noda, K. Tsuda, and K. Terayama, "Computer Vision-Based Approach for Quantifying Occupational Therapists' Qualitative Evaluations of Postural Control." Occup Ther Int, vol.2020, Article ID 8542191, 9 pages (2020).
+1. R. Kanada, A. Tokuhisa, K. Tsuda, Y. Okuno, K. Terayama, "Exploring Successful Parameter Region for Coarse-Grained Simulation of Biomolecules by Bayesian Optimization and Active Learning." Biomolecules, 10(3), 482, (2020).
+1. 浴本亨, 小甲裕一, 苙口友隆, 池口満徳 "X線小角散乱と分子動力学シミュレーションを組み合わせた生体分子の溶液構造解析" 分子シミュレーション学会誌"アンサンブル", 22, 3, 239-251 (2020).
 
 # 2019
 1. K. Moritsugu, T. Ito and A. Kidera, "Allosteric response to ligand binding: Molecular dynamics study of the N-terminal domains in IP3 receptor." Biophys Physicobiol. 16, 232-239 (2019).
