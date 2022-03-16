@@ -64,20 +64,17 @@ author_profile: true
 
 ## 2019
 1. 9月　第57回日本生物物理学会年会　学生発表賞　工藤崇文　（M2）
-  - 発表演題：「拡張アンサンブル法によるビタミンD受容体のアゴニスト/アンタゴニスト
-　　　　　　活性調節機構の研究」
+  - 発表演題：「拡張アンサンブル法によるビタミンD受容体のアゴニスト/アンタゴニスト活性調節機構の研究」
   - 著者：工藤崇文、浴本亨、山根努、池口満徳
   - 受賞コメント([リンク](http://www.tsurumi.yokohama-cu.ac.jp/news/20191010kudou.html))
 
 1. 10月　情報計算科学生物（CBI）学会　ベストポスター賞　大崎和　（M1）
-  - 発表演題：「3D-RISM-AI: A machine learning approach to predict protein-ligand 
-　　　　　　binding affinity using 3D-RISM」
+  - 発表演題：「3D-RISM-AI: A machine learning approach to predict protein-ligand binding affinity using 3D-RISM」
   - 著者：大崎和、山根努、浴本亨、池口満徳
   - 受賞コメント([リンク](http://www.tsurumi.yokohama-cu.ac.jp/news/20191031osaki.html))
 
 1. 12月　第47回構造活性相関シンポジウム　SAR presentation award （ポスター）　工藤崇文　（M2）
-  - 発表演題：「Regulation mechanism of agonistic/antagonistic activities of vitamin D
-　　　　　　receptor using generalized ensemble method」
+  - 発表演題：「Regulation mechanism of agonistic/antagonistic activities of vitamin D receptor using generalized ensemble method」
   - 著者：工藤崇文、浴本亨、山根努、池口満徳
   - 受賞コメント([リンク](http://www.tsurumi.yokohama-cu.ac.jp/news/20191218kudou.html))
 
