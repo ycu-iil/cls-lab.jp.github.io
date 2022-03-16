@@ -8,18 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/500x300.png?raw=true)
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/500x300.png?raw=true" alt="sample">
+![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/about_image.jpg?raw=true)
+
+# 研究室News
+
+- AIとシミュレーションを組み合わせることで、新規有機蛍光分子の自動設計と合成に成功しました! [***Science Advances***](https://www.science.org/doi/10.1126/sciadv.abj3906)誌に掲載されました. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html)) 
+
+
+# 研究室概要
+- 横浜市立大学 生命医科学研究科/理学部 生命情報科学研究室では、計算機を用いて、物理化学的分子シミュレーションとバイオインフォマティクスを融合し、タンパク質や核酸 (DNA・RNA) などの生体高分子の立体構造と機能についての理論的研究をしています。また、機械学習や画像処理等の情報科学手法を用いて、創薬・構造生物学を推進する研究、および広く生物・生命現象を解析する研究を行っています。
+
+- 生命情報科学研究室は、池口グループ及び寺山グループからなり、両グループが協力しながら研究室の教育・研究・運営を行っています。
+  - 池口グループのページはこちら
+  - 寺山グループのページはこちら
+
+- 本研究室は、横浜市立大学 理学部の学部生、及び大学院生命医科学研究科の院生を受け入れています。大学院からの進学も可能です。入試情報はこちらから。
 
 
 
-生命情報科学研究室では、計算機を用いて、物理化学的分子シミュレーションとバイオインフォマティクスを融合し、タンパク質や核酸 (DNA・RNA) などの生体高分子の立体構造と機能についての理論的研究をしています。また、機械学習や画像処理等の情報科学手法を用いて、創薬・構造生物学を推進する研究、および広く生物・生命現象を解析する研究を行っています。
-
-生命情報科学研究室は、池口グループ及び寺山グループからなり、両グループが協力しながら研究室の教育・研究・運営を行っています。
-
-池口グループのページはこちら
-
-寺山グループのページはこちら
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
