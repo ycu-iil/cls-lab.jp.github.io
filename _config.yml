@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "生命情報科学研究室"
   avatar           : "members.jpg"
-  bio              : "横浜市立大学 生命医科学研究科"
+  bio              : "本研究室ではタンパク質、核酸、その複合体などの立体構造形成や機能発現のメカニズムを原子レベルで明らかにするために、スーパーコンピュータを用いた分子シミュレーションによる研究や、生命医科学分野に人工知能関連技術を適用する研究を行っています。さらに、それらの方法をドラッグデザインに応用する計算創薬研究を行っています。"
   location         : "アクセス"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
