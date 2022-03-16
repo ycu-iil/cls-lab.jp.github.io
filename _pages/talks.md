@@ -47,7 +47,7 @@ author_profile: true
   - 受賞コメント([リンク](https://www.yokohama-cu.ac.jp/news/2021/2021130nakaiyukina.html))
 
 1. 6月 海洋理工学会春季大会 ベストプレゼンテーション賞 阪本真吾
-  - 発表演題: 高効率な海底マッピングシステム Speedy Sea Scanner－実用化に向けて－
+  - 発表演題: 「高効率な海底マッピングシステム Speedy Sea Scanner－実用化に向けて－」
   - 著者: 阪本真吾，杉本裕介，水野勝紀，多部田茂，寺山慧，深見裕伸
 
 ## 2020
