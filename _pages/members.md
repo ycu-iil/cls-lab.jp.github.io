@@ -8,14 +8,14 @@ author_profile: true
 2022年03月16日現在  
 
 # Staff
-- 教授 [池口満徳](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Ikeguchi/index.html)
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ikeguchi.jpg?raw=true" width="150">
+- 教授 [池口満徳](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Ikeguchi/index.html)<br>
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ikeguchi.jpg?raw=true" width="100">
 
-- 准教授 [寺山慧](https://sites.google.com/site/terayamaweb)
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/terayama.jpg?raw=true" width="150">
+- 准教授 [寺山慧](https://sites.google.com/site/terayamaweb)<br>
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/terayama.jpg?raw=true" width="100">
 
-- 助教 [浴本亨](https://researchmap.jp/toru_ekimoto)
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ekimoto.jpg?raw=true" width="150">
+- 助教 [浴本亨](https://researchmap.jp/toru_ekimoto)<br>
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ekimoto.jpg?raw=true" width="100">
 
 - 特任教授 [木寺詔紀](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Kidera/index.html)
 
