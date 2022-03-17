@@ -5,6 +5,8 @@ permalink: /old/
 author_profile: true
 ---
 
+- [過去のNews](#過去のNews)
+- [過去のプロジェクト](#過去のプロジェクト)
 
 # 過去のNews
 
