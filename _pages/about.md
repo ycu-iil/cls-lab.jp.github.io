@@ -34,7 +34,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
   - 研究概要は[こちら](research.md)
 
-- 生命情報科学研究室は、[池口](members.md# スタッフ)グループ及び[寺山](members.md# スタッフ)グループからなり、両グループが協力しながら研究室の教育・研究・運営を行っています。
+- 生命情報科学研究室は、[池口](members.md)グループ及び[寺山](members.md)グループからなり、両グループが協力しながら研究室の教育・研究・運営を行っています。
 
 - 本研究室は、横浜市立大学 理学部の学部生、及び大学院生命医科学研究科の院生を受け入れています。外部から大学院(本研究室)への進学・社会人学生の受け入れも可能です。大学院の入試情報は[こちら](http://www.tsurumi.yokohama-cu.ac.jp/admis/index.html)。
 
