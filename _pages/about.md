@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/about_image.jpg?raw=true)
+![test](https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/about_image.jpg?raw=true)
 
 
-English page is here.
+English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
 - 【研究】AIとシミュレーションを組み合わせることで、新規有機蛍光分子の自動設計と合成に成功しました! [*Science Advances*](https://www.science.org/doi/10.1126/sciadv.abj3906)誌に掲載されました. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html)) <br>
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/Sci_Adv_2022.jpg?raw=true" width="200">
+<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/Sci_Adv_2022.jpg?raw=true" width="200">
 
 - 【学生の活躍・研究】生命情報研究室4名(伊藤朱里(M2), 武富啓(D3), 柴橋佑希特任助手, 佐藤朋広特任准教授)が第49回構造活性相関シンポジウムにて SAR Award ポスター賞を受賞しました！ ([プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20220114_ito_taketomi_shibahashi_sato.html))<br>
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/qsar2021_4.jpg?raw=true" width="200">
+<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/qsar2021_4.jpg?raw=true" width="200">
 
 - 【研究】機械学習を用いてタンパク質立体構造を評価する構造生物学AI技術を構築 [*Scientific Reports*](https://www.nature.com/articles/s41598-021-02948-y)誌に掲載されました. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/202112ikeguchi_scirep.html))
 
@@ -40,7 +40,7 @@ English page is here.
 
 
 
-# 主な研究プロジェクト
+# 主な研究プロジェクト(詳細はこちら)
 
 - AMED BINDS
 
@@ -60,4 +60,4 @@ English page is here.
 
 #  Contact
 
-  - 共同研究や講演等のご依頼・ご相談はXXXまでご連絡ください。
+  - 共同研究や講演等のご依頼・ご相談は池口()あるいは寺山(terayama/at/yokohama-cu.ac.jp)までご連絡ください。
