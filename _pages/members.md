@@ -7,7 +7,7 @@ author_profile: true
 
 2022年03月16日現在  
 
-# Staff
+# スタッフ
 - 教授 池口満徳 [(個人ページ)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Ikeguchi/index.html)<br>
 <img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ikeguchi.jpg?raw=true" width="100">
    - 略歴: 東京大学大学院農学系研究科応用生命工学専攻博士課程修了（1994年）博士(農学)。1996年から東京大学大学院農学生命科学研究科助手。2001年4月から横浜市立大学大学院助教授。2007年より同大学院准教授。2015年より同大学院教授。
