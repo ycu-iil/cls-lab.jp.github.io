@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[2022](#2022), [2021](#2021), 
+[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010), [2009](#2009), [2008](#2008), [2007](#2007), [2006](#2006), [2005](#2005), [2004](#2004), [2003](#2003), [2002](#2002), [2001](#2001), [2000](#2000), [1999](#1999), [1998](#1998), [1997](#1997), [1999](#1996), [1995](#1995) 
 
 # 2022
 1. M. Sumita, K. Terayama, N. Suzuki, S. Ishihara, R. Tamura, M. K. Chahal, D. T. Payne, K. Yoshizoe, K. Tsuda,  ["De novo creation of a naked eye–detectable fluorescent molecule based on quantum chemical computation and machine learning,"](https://www.science.org/doi/10.1126/sciadv.abj3906) *Science Advances*, Vol.8, No.10, eabj3906, 2022. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html))
