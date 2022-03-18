@@ -6,6 +6,9 @@ main:
   - title: "研究概要"
     url: /research/
     
+  - title: "プロジェクト"
+    url: /projects/
+    
   - title: "論文"
     url: /publications/
 
@@ -14,6 +17,9 @@ main:
 
   - title: "アクセス"
     url: /access/
+    
+  - title: "過去情報"
+    url: /old/
 
     
 
