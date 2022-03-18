@@ -5,9 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [受賞等](# ポスター賞口頭発表賞)
 
-# ポスター賞/口頭発表賞
+- [口頭発表・ポスター発表等](口頭発表・ポスター発表)
 
+
+# 口頭発表賞・ポスター賞
 
 ## 2021
 
@@ -78,4 +81,4 @@ author_profile: true
   - 著者：工藤崇文、浴本亨、山根努、池口満徳
   - 受賞コメント([リンク](http://www.tsurumi.yokohama-cu.ac.jp/news/20191218kudou.html))
 
-#  口頭発表/ポスター発表
+#  口頭発表・ポスター発表
