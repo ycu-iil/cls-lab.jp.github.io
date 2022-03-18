@@ -25,7 +25,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 - 【学生の活躍・研究】中居雪菜(B4)、伊藤朱里(M2)、柴橋佑希特任助手が情報計算科学生物(CBI)学会2021年大会でポスター賞を受賞しました! ([プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20211126_ito_nakai_shibahashi.html)) [2022/11]
 
-- 過去のNewsは[こちら](/old/)
+- 過去のNewsは[こちら](/about/)
 
 # 研究室概要
 - [横浜市立大学](https://www.yokohama-cu.ac.jp) [生命医科学研究科](http://www.tsurumi.yokohama-cu.ac.jp/index.html)/[理学部](https://www.yokohama-cu.ac.jp/academics/science/index.html) 生命情報科学研究室では、計算機を用いて、物理化学的分子シミュレーションとバイオインフォマティクスを融合し、タンパク質や核酸 (DNA・RNA) などの生体高分子の立体構造と機能についての理論的研究をしています。また、機械学習や画像処理等の情報科学手法を用いて、創薬・構造生物学を推進する研究、および広く生物・生命現象を解析する研究を行っています。
