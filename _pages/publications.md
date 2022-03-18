@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[2022](#2022), [2021](#2021), 
+
 # 2022
 1. M. Sumita, K. Terayama, N. Suzuki, S. Ishihara, R. Tamura, M. K. Chahal, D. T. Payne, K. Yoshizoe, K. Tsuda,  ["De novo creation of a naked eye–detectable fluorescent molecule based on quantum chemical computation and machine learning,"](https://www.science.org/doi/10.1126/sciadv.abj3906) *Science Advances*, Vol.8, No.10, eabj3906, 2022. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html))
 1. S. Ishida, K. Terayama, R. Kojima, K. Takasu, Y. Okuno, ["AI-Driven Synthetic Route Design Incorporated with Retrosynthesis Knowledge,"](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01074) *Journal of Chemical Information and Modeling*, 2022.
