@@ -9,7 +9,7 @@
 locale                   : "日本語"
 title                    : "横浜市大 生命情報科学研究室"
 title_separator          : "-"
-name                     : &name "CLS Lab."
+name                     : &name "Computational Life Science Laboratory"
 description              : &description "personal description"
 url                      : https://ycu-iil.github.io/cls-lab.jp.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
