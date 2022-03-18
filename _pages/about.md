@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-横浜市大 生命情報科学研究室へようこそ!
 ![test](https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/about_image.jpg?raw=true)
 
 
