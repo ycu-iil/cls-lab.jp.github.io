@@ -128,15 +128,15 @@ author_profile: true
 1. T. Amemiya, R. Koike, A. Kidera, M. Ota, "PSCDB: a database for protein structural change upon ligand binding", Nucleic Acids Res., 40, D554-558 (2012).
 1. T. Terada, A. Kidera, "Comparative molecular dynamics simulation study of crystal environment effect on protein structure", J. Phys. Chem. B, 116, 6810-6818 (2012).
 1. N. Kuwabara, Y. Murayama, H. Hashimoto, Y. Kokabu, M. Ikeguchi, M. Sato, K. Mayanagi, Y. Tsutsui, H. Iwasaki, T. Shimizu, "Mechanistic insights into the activation of Rad51-mediated strand exchange from the structure of a recombination activator, the Swi5-Sfr1 complex", Structure, 20, 440-449 (2012).
-1.　K. Moritsugu, T. Terada, A. Kidera, "Disorder-to-order transition of an intrinsically disordered region of sortase revealed by multiscale enhanced sampling", J. Am. Chem. Soc., 134, 7094-7101 (2012).
-1.　S. Hayashi, H. Ueno, A. R. Shaikh, M. Umemura, M. Kamiya, Y. Ito, M. Ikeguchi, Y. Komoriya, R. Iino, H. Noji, "Molecular mechanism of ATP hydrolysis in F1-ATPase revealed by molecular simulations and single-molecule observations", J. Am. Chem. Soc., 134, 8447-8454 (2012).
-1.　Y. Matsunaga, H. Fujisaki, T. Terada, T. Furuta, K. Moritsugu, A. Kidera, "Minimum free energy path of ligand-induced transition in adenylate kinase", PLoS Comput. Biol., 8, e1002555 (2012).
-1.　H. Mishima, S. Yasuda, T. Yoshidome, H. Oshima, Y. Harano, M. Ikeguchi, M. Kinoshita, "Characterization of experimentally determined native-structure models of a protein using energetic and entropic components of free-energy function", J. Phys. Chem. B, 116, 7776-7786 (2012).
-1.　K. Nishikata, M. Ikeguchi, A. Kidera, "Comparative simulations of the ground state and the M-intermediate state of the sensory rhodopsin II-transducer complex with a HAMP domain model", Biochemistry, 51, 5958-5966 (2012).
-1.　T. Yoshidome, Y. Ito, N. Matubayasi, M. Ikeguchi, M. Kinoshita, "Structural characteristics of yeast F1-ATPase before and after 16-degree rotation of the γ subunit: theoretical analysis focused on the water-entropy effect", J. Chem. Phys., 137, 035102 (2012).
-1.　M. Tanigawara, K. V. Tabata, Y. Ito, J. Ito, R. Watanabe, H. Ueno, M. Ikeguchi, H. Noji, "Role of the DELSEED loop in torque transmission of F1-ATPase", Biophys. J., 103, 970-978 (2012).
-1.　Y. Matsunaga, R. Koike, M. Ota, J. R. Tame, A. Kidera, "Influence of structural symmetry on protein dynamics", PLoS One, 7, e50011 (2012).
-1.　森次 圭 "粗視化モデルを用いたマルチスケールシミュレーションシステムの構築" 生物物理学会誌 52, 26-27 (2012).
+1. K. Moritsugu, T. Terada, A. Kidera, "Disorder-to-order transition of an intrinsically disordered region of sortase revealed by multiscale enhanced sampling", J. Am. Chem. Soc., 134, 7094-7101 (2012).
+1. S. Hayashi, H. Ueno, A. R. Shaikh, M. Umemura, M. Kamiya, Y. Ito, M. Ikeguchi, Y. Komoriya, R. Iino, H. Noji, "Molecular mechanism of ATP hydrolysis in F1-ATPase revealed by molecular simulations and single-molecule observations", J. Am. Chem. Soc., 134, 8447-8454 (2012).
+1. Y. Matsunaga, H. Fujisaki, T. Terada, T. Furuta, K. Moritsugu, A. Kidera, "Minimum free energy path of ligand-induced transition in adenylate kinase", PLoS Comput. Biol., 8, e1002555 (2012).
+1. H. Mishima, S. Yasuda, T. Yoshidome, H. Oshima, Y. Harano, M. Ikeguchi, M. Kinoshita, "Characterization of experimentally determined native-structure models of a protein using energetic and entropic components of free-energy function", J. Phys. Chem. B, 116, 7776-7786 (2012).
+1. K. Nishikata, M. Ikeguchi, A. Kidera, "Comparative simulations of the ground state and the M-intermediate state of the sensory rhodopsin II-transducer complex with a HAMP domain model", Biochemistry, 51, 5958-5966 (2012).
+1. T. Yoshidome, Y. Ito, N. Matubayasi, M. Ikeguchi, M. Kinoshita, "Structural characteristics of yeast F1-ATPase before and after 16-degree rotation of the γ subunit: theoretical analysis focused on the water-entropy effect", J. Chem. Phys., 137, 035102 (2012).
+1. M. Tanigawara, K. V. Tabata, Y. Ito, J. Ito, R. Watanabe, H. Ueno, M. Ikeguchi, H. Noji, "Role of the DELSEED loop in torque transmission of F1-ATPase", Biophys. J., 103, 970-978 (2012).
+1. Y. Matsunaga, R. Koike, M. Ota, J. R. Tame, A. Kidera, "Influence of structural symmetry on protein dynamics", PLoS One, 7, e50011 (2012).
+1. 森次 圭 "粗視化モデルを用いたマルチスケールシミュレーションシステムの構築" 生物物理学会誌 52, 26-27 (2012).
 
 # 2011
 1. C. Motono, J. Nakata, R. Koike, K. Shimizu, M. Shirota, T. Amemiya, K. Tomii, N. Nagano, N. Sakaya, K. Misoo, M. Sato, A. Kidera, H. Hiroaki, T. Shirai, K. Kinoshita, T. Noguchi, M. Ota, "SAHG, a comprehensive database of predicted structures of all human proteins.", Nucleic Acids Res., 39, D487-493 (2011).
