@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "大型研究プロジェクト"
+title: "現在進行中の主な研究プロジェクト"
 permalink: /projects/
 author_profile: true
 ---
@@ -16,4 +16,7 @@ author_profile: true
   - [AI・シミュレーション融合](https://mddpm.riken.jp/research/4_AIDATA.html)
 
 - 堆積物中の時空間的環境動態評価基盤の構築 (JSPS国際共同研究加速B)
+
+
+#過去の研究プロジェクトは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
