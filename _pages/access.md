@@ -5,8 +5,6 @@ permalink: /access/
 author_profile: true
 ---
 
-[about](/about/)
-
 ## 所在地
 〒230-0045
 神奈川県横浜市鶴見区末広町1-7-29　研究棟4階
