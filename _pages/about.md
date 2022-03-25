@@ -15,7 +15,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
-- 【研究】大きな構造変化サンプリングが可能な新しい疎視化分子シミュレーション手法を開発しました. [*Journal of Chemical Theory and Computation*](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01074)誌に掲載されました. <br>
+- 【研究】大きな構造変化サンプリングが可能な新しい疎視化分子シミュレーション手法を開発しました. [*Journal of Chemical Theory and Computation*](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01074)誌に掲載されました. [2022/3/25] <br>
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/toc_jctc2022.jpeg?raw=true" width="200"> 
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/integrin.gif?raw=true" width="200"> 
 
