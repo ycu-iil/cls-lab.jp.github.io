@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test](https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/about_image.jpg?raw=true)
+![test](https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/top_test_large.gif?raw=true)
 
 
 English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
