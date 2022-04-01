@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【学生】令和3年度修了・卒業式が行われ、本研究室から学部生4名、修士課程2名、博士後期課程1名が卒業されました。ご卒業された皆様おめでとうございます! [2022/3/25]
+
 - 【研究】大きな構造変化サンプリングが可能な新しい疎視化分子シミュレーション手法を開発しました. [*Journal of Chemical Theory and Computation*](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01074)誌に掲載されました. [2022/3/25] <br>
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/toc_jctc2022.jpeg?raw=true" width="200"> 
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/integrin.gif?raw=true" width="200"> 
@@ -34,7 +36,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 # 研究室概要
 - [横浜市立大学](https://www.yokohama-cu.ac.jp) [生命医科学研究科](http://www.tsurumi.yokohama-cu.ac.jp/index.html)/[理学部](https://www.yokohama-cu.ac.jp/academics/science/index.html) 生命情報科学研究室では、計算機を用いて、物理化学的分子シミュレーションとバイオインフォマティクスを融合し、タンパク質や核酸 (DNA・RNA) などの生体高分子の立体構造と機能についての理論的研究をしています。また、機械学習や画像処理等の情報科学手法を用いて、創薬・構造生物学を推進する研究、および広く生物・生命現象を解析する研究を行っています。
 
-  - 研究概要は[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/research/)。研究室へのアクセスは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/accesss/)。
+  - 研究概要は[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/research/)。研究室へのアクセスは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/access/)。
 
 - 生命情報科学研究室は、[池口教授](https://ycu-iil.github.io/cls-lab.jp.github.io/members/)グループ及び[寺山准教授](https://ycu-iil.github.io/cls-lab.jp.github.io/members/)グループからなり、両グループが協力しながら研究室の教育・研究・運営を行っています。
 
@@ -61,4 +63,4 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 #  Contact
 
-  - 共同研究や講演等のご依頼・ご相談は池口()あるいは寺山(terayama/at/yokohama-cu.ac.jp)までご連絡ください。
+  - 共同研究や講演等のご依頼・ご相談は[池口](https://ycu-iil.github.io/cls-lab.jp.github.io/members/)あるいは寺山(terayama/at/yokohama-cu.ac.jp)までご連絡ください。
