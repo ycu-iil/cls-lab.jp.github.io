@@ -9,17 +9,17 @@ author_profile: true
 
 # スタッフ
 - 教授 池口満徳 [(個人ページ)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Ikeguchi/index.html)<br>
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ikeguchi.jpg?raw=true" width="100">
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ikeguchi.jpg?raw=true" width="100"><br>
    - 略歴: 東京大学大学院農学系研究科応用生命工学専攻博士課程修了（1994年）博士(農学)。1996年から東京大学大学院農学生命科学研究科助手。2001年4月から横浜市立大学大学院助教授。2007年より同大学院准教授。2015年より同大学院教授。
    - メッセージ: タンパク質の機能発現やリガンド結合のメカニズムを分子動力学シミュレーションを主に用いて研究を進めています。製薬企業との連携やスーパーコンピュータ ポスト「京」のプロジェクトにおいて、計算創薬研究を推進しています。
 
 - 准教授 寺山慧 [(個人ページ)](https://sites.google.com/site/terayamaweb)<br>
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/terayama.jpg?raw=true" width="100">
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/terayama.jpg?raw=true" width="100"><br>
    - 略歴: 京都大学大学院人間・環境学研究科共生人間学専攻博士課程修了（2016年）博士（人間・環境学）。2016年4月から東京大学大学新領域創成科学研究科特任研究員、2018年4月から理化学研究所革新知能統合研究センター特別研究員および京都大学大学院医学研究科特定助教、2018年6月から理化学研究所メディカルイノベーションハブ特別研究員(兼任)。2020年4月より横浜市立大学大学院准教授。
    - メッセージ: 機械学習・最適化・コンピュータビジョン等情報科学の手法とそれらを創薬・材料科学・化学・水産業・海洋工学等の現実的な課題に応用する研究を行なっています。特に、分子動力学シミュレーションや量子化学シミュレーションと強化学習・深層学習を組み合わせることで創薬を加速したりタンパク質の性質を解析する研究を進めています。
 
 - 助教 浴本亨 [(個人ページ)](https://researchmap.jp/toru_ekimoto)<br>
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ekimoto.jpg?raw=true" width="100">
+<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ekimoto.jpg?raw=true" width="100"><br>
    - 略歴: 九州大学大学院理学府物理学専攻博士課程修了（2011年）博士（理学）。2011年4月から京都大学化学研究所博士研究員、2013年4月より横浜市立大学大学院博士研究員、特任助教。2018年4月より同大学院助教。
    - メッセージ: 疾患や感染病関連タンパク質の機能発現メカニズムを、分子動力学シミュレーションを用いて研究しています。タンパク質の動的構造変化を、スーパーコンピュータによる大規模計算や実験と連携した手法により解析し、動的機能を制御する創薬へ貢献したいと考えています。
 
