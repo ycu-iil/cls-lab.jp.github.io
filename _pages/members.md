@@ -39,7 +39,7 @@ author_profile: true
 # 学生 (寺山グループ)
 - D1 高畑脩平 [(藍野大学 医療保健学部 助教, 個人ページ)](https://researchmap.jp/takahatashuhei)
 - M2 陳佳盈
-- M1 吉澤竜哉, 村上優貴
+- M1 村上優貴, 吉澤竜哉
 - B3 門井辰夢, 星野小百合
 
 # 過去の所属者(敬称略, 年号は年度)
