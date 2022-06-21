@@ -6,13 +6,19 @@ author_profile: true
 ---
 
 - [**受賞等**](#口頭発表賞ポスター賞)
-  - [2021](#2021受賞), [2020](#2020受賞), [2019](#2019受賞)
+  - [2022](#2022受賞), [2021](#2021受賞), [2020](#2020受賞), [2019](#2019受賞)
 
 - [**口頭発表・ポスター発表等**](#口頭発表ポスター発表)
-  - [2021](#2021), [2020](#2020), [2019](#2019), 2018, 
+  - [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), 2018, 
 
 
 # 口頭発表賞・ポスター賞
+
+## 2022受賞
+
+1. 6月　第22回日本蛋白質科学会年会　若手奨励賞　石田祥一
+  - 発表演題：Deep Learning Extracts Protein Dynamics Information from Cryo-EM map
+  - 著者：松本篤幸、石田祥一、荒木望嗣、加藤貴之、寺山慧、奥野恭史
 
 ## 2021受賞
 
@@ -84,6 +90,16 @@ author_profile: true
   - 受賞コメント([リンク](http://www.tsurumi.yokohama-cu.ac.jp/news/20191218kudou.html))
 
 #  口頭発表・ポスター発表
+
+## 2022
+
+- 全原子分子動力学シミュレーションによるヒトL型アミノ酸トランスポーター LAT1-CD98hc 複合体の基質輸送メカニズムの解析（Substrate transport mechanism of human LAT1-CD98hc complex studied by all-atom MD simulations）
+  - 〇吉田夏海、浴本亨、山根努、池口満徳
+  - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
+
+- 木探索分子動力学法による Interleukin-2-inducible T-cell kinase 活性化経路の探索（Activation Pathway of Interleukin-2-inducible T-cell kinase Explored by Tree-Search Molecular Dynamics）
+  - ○中居雪菜、浴本亨、山根努、小川直樹、井上雅郎、寺山慧、池口満徳
+  - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
 
 ## 2021
 
