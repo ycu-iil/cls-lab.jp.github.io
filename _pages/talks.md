@@ -263,3 +263,134 @@ author_profile: true
 
 ## 2019
 
+- 人工イオンチャネルの分子動力学シミュレーション
+  - ○長村隆大、浴本亨、山根努、金原数（東京工業大）、池口満徳
+  - 新学術領域　発動分子科学　領域会議、九州大学、2019年5月24日-25日
+
+- Phosphodiesterase阻害薬のファミリー蛋白質選択性に関するin silico解析
+  - 湯浅千紗、〇浴本亨、山根努、池口満徳
+  - 第18回日本蛋白質科学会年会、神戸国際会議場、2019年6月24日-26日
+
+- シクロスポリンAのCHARMM力場開発と膜-水系の分子シミュレーションへの応用
+  - 〇山根努、高橋遼、浴本亨、池口満徳
+  - 第18回日本蛋白質科学会年会、神戸国際会議場、2019年6月24日-26日
+
+- Ligand-bound forms of drug discovery target protein in solution studied by molecular dynamics simulations
+  - 〇浴本亨、工藤崇文、山根努、池口満徳
+  - 第57回日本生物物理学会年会、宮崎、 2019年9月24日-26日
+
+- Regulation mechanism of agonistic/antagonistic activities of vitamin D receptor studied by generalized ensemble method
+  - 〇工藤崇文、浴本亨、山根努、池口満徳
+  - 第57回日本生物物理学会年会、宮崎、 2019年9月24日-26日
+  - 工藤崇文さん、学生ポスター賞受賞
+
+- All-atom molecular dynamics simulations of artificial ion channels
+  - 〇長村隆大、浴本亨、山根努、村岡高宏（東京農工大）、金原数（東京工業大）、池口満徳
+  - 第57回日本生物物理学会年会、宮崎、 2019年9月24日-26日
+
+- Development of the CHARMM force field for Cyclosporine A and application to molecular dynamics simulations using a membrane-water system
+  - 〇山根努、浴本亨、池口満徳
+  - 第57回日本生物物理学会年会、宮崎、 2019年9月24日-26日
+
+- Selectivity of phosphodiesterase-10A inhibitor for phosphodiesterase family elucidated by free energy perturbation approach (ポスター＋口頭)
+  - 〇浴本亨、湯浅千紗、山根努、池口満徳
+  - 情報計算科学生物学会2019年大会、タワーホール船堀、2019年10月22日-24日
+
+- Development of the CHARMM force field for Cyclosporine A and application to molecular dynamics simulations using a membrane-water system (ポスター＋口頭)
+  - 〇山根努、高橋遼、伊藤朱里、浴本亨、池口満徳
+  - 情報計算科学生物学会2019年大会、タワーホール船堀、 2019年10月22日-24日
+
+- Regulation mechanism of agonistic/antagonistic activities of vitamin D receptor analyzed by generalized ensemble method (ポスター＋口頭)
+  - 〇工藤崇文、浴本亨、山根努、池口満徳
+  - 情報計算科学生物学会2019年大会、タワーホール船堀、 2019年10月22日-24日
+
+- Artificial ion channels studied by All-atom molecular dynamics simulations (ポスター)
+  - 〇長村隆大、浴本亨、山根努、村岡高宏（東京農工大）、金原数（東京工業大）、池口満徳
+  - 情報計算科学生物学会2019年大会、タワーホール船堀、 2019年10月22日-24日
+
+- 3D-RISM-AI: A machine learning approach to predict protein-ligand binding affinity using 3D-RISM (ポスター)
+  - 〇大崎和、山根努、浴本亨、池口満徳
+  - 情報計算科学生物学会2019年大会、タワーホール船堀、 2019年10月22日-24日
+  - 大崎和さん、Bestポスター賞受賞
+
+- 異なる分子パラメータを持つ複数分子系のシミュレーションプロトコルの構築 (ポスター)
+  - 佐藤美和(三井情報)、〇佐藤昂人(三井情報)、鈴木南美、浴本亨、山根努、池口満徳
+  - 第33会分子シミュレーション討論会、名古屋市公会堂、 2019年12月9日-11日
+
+- Dynamic structural biology of vitamin D receptor elucidated by MD simulations and experimental data (口頭)
+  - 〇浴本亨、池口満徳
+  - 第３回DSB研究成果報告会、横浜理研、 2019年11月13日-14日
+  
+- ホスホジエステラーゼファミリータンパク質における選択性のインシリコ研究
+  - 〇浴本亨、湯浅千紗、山根努、池口満徳
+  - 第47回構造活性相関シンポジウム、熊本、 2019年12月12日-13日
+
+- 拡張アンサンブル法を用いたビタミンD受容体のアゴニスト/アンタゴニスト活性調節機構の研究
+  - 〇工藤崇文、浴本亨、山根努、池口満徳
+  - 第47回構造活性相関シンポジウム、熊本、 2019年12月12日-13日
+  - 工藤崇文さん、SAR presentation award (Poster)受賞
+
+## 2018
+
+- 新規アルケミカル結合自由エネルギー計算手法ワープドライブ法の開発と有限サイズ効果
+  - 〇浴本亨、山根努、池口満徳
+  - 第18回日本蛋白質科学会年会、朱鷺メッセ、 2018年6月26日-28日
+
+- シクロスポリンAのCHARMM力場の開発
+  - 〇山根努、渡邊裕太、浴本亨、池口満徳
+  - 第18回日本蛋白質科学会年会、朱鷺メッセ、 2018年6月26日-28日
+
+- ファーマコフォア解析によるビタミンD受容体アゴニスト/アンタゴニスト活性調節機構の研究
+  - 〇工藤崇文、浴本亨、山根努、池口満徳
+  - 第18回日本蛋白質科学会年会、朱鷺メッセ、 2018年6月26日-28日
+
+- An effective alchemical perturbation method eliminating finite-size effect on binding free energies
+  - 〇浴本亨、山根努、池口満徳
+  - 第56回日本生物物理学会年会、岡山大学、 2018年9月15日-17日
+
+- Regulation mechanism of agonistic/antagonistic activities of vitamin D receptor studied by pharmacophore analysis
+  - 〇工藤崇文、浴本亨、池口満徳
+  - 第56回日本生物物理学会年会、岡山大学、 2018年9月15日-17日
+
+- Development of the CHARMM force field for Cyclosporine A
+  - 〇山根努、渡邊裕太、浴本亨、池口満徳
+  - 第56回日本生物物理学会年会、岡山大学、 2018年9月15日-17日
+
+- Protein-ligand binding process studied by Markov state model (ポスター＋口頭)
+  - 〇浴本亨、荒木望嗣、井阪悠太、山根努、奥野恭史、池口満徳
+  - 情報計算科学生物学会2018年大会、タワーホール船堀、 2018年10月9日-11日
+
+- Development of the CHARMM force field for Cyclosporine A
+  - 〇山根努、高橋遼、浴本亨、池口満徳
+  - 情報計算科学生物学会2018年大会、タワーホール船堀、 2018年10月9日-11日
+
+- Study of regulation mechanism of agonistic/antagonistic activities of viramin D receptor ligand-binding domain
+  - 〇工藤崇文、浴本亨、山根努、池口満徳
+  - 情報計算科学生物学会2018年大会、タワーホール船堀、 2018年10月9日-11日
+
+- In silico binding affinity analysis for phosphodiesterase-10A inhibitors
+  <!-- - 著者不明 -->
+  - 情報計算科学生物学会2018年大会、タワーホール船堀、 2018年10月9日-11日
+
+- In silico protein-protein interaction analysis of axon guidance molecule semaphorin and receptor plexin
+  - 〇下地恵令奈、山根努、浴本亨、永友芽里、禾晃和、池口満徳
+  - 情報計算科学生物学会2018年大会、タワーホール船堀、 2018年10月9日-11日
+
+- ヒト疾患モデルと分子動力学によるGPCRのリガンド結合ーシグナル活性化の新たな連関機構の解明
+  - 〇栗原由紀子（東大・院医・代謝生理科学）、浴本亨、北沢太郎、杉山諒、小谷理沙、内島恭信、池口満徳、栗原裕基
+  - 第41回日本分子生物学会年会、パシフィコ横浜、 2018年11月28日-30日
+
+- シグナル分子セマフォリンと受容体プレキシンの結合特異性に関する構造生物学的解析
+  - 〇田中翼、永友芽里、根谷崎牧子、大井里香、下地恵令奈、山根努、浴本亨、池口満徳、禾晃和
+  - 第41回日本分子生物学会年会、パシフィコ横浜、 2018年11月28日-30日
+  
+- 分子動力学シミュレーションを用いたビタミンD受容体リガンド結合ドメインの溶液構造解析
+  - 〇浴本亨、工藤崇文、山根努、池口満徳
+  - 第46回構造活性相関シンポジウム、大阪大学、 2018年12月5日-6日
+  - 浴本亨、第46回構造活性相関シンポジウム SAR Presentation Award (Poster Presentation)受賞
+
+**＜海外発表＞**
+
+- FINITE-SIZE EFFECT ON THE CHARGING FREE ENERGY IN THE ALCHEMICAL PERTURBATION AND ``WARP DRIVE" METHOD.
+- 〇浴本亨、山根努、池口満徳
+- Biophysical society 62th Annual Meeting, サンフランシスコ、2018年2月17日-21日
