@@ -15,7 +15,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
-- 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022.6.22]
+- 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022/6/22]
 
 - 【学生】本研究室に新たに修士課程3名、博士後期課程1名が配属されました。本年度も宜しくお願い致します. [2022/4/6]
 
