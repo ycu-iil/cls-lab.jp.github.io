@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022.6.22]
+
 - 【学生】本研究室に新たに修士課程3名、博士後期課程1名が配属されました。本年度も宜しくお願い致します. [2022/4/6]
 
 - 【学生】令和3年度修了・卒業式が行われ、本研究室から学部生4名、修士課程2名、博士後期課程1名が卒業されました。ご卒業された皆様おめでとうございます! [2022/3/25]
@@ -30,8 +32,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/qsar2021_4.jpg?raw=true" width="200"> 
 
 - 【研究】機械学習を用いてタンパク質立体構造を評価する構造生物学AI技術を構築しました。[*Scientific Reports*](https://www.nature.com/articles/s41598-021-02948-y)誌に掲載されました。([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/202112ikeguchi_scirep.html)) [2022/12]
-
-- 【学生の活躍・研究】中居雪菜(B4)、伊藤朱里(M2)、柴橋佑希特任助手が情報計算科学生物(CBI)学会2021年大会でポスター賞を受賞しました! ([プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20211126_ito_nakai_shibahashi.html)) [2022/11]
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
