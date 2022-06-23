@@ -11,6 +11,7 @@ author_profile: true
 - [**口頭発表・ポスター発表等**](#口頭発表ポスター発表)
   - [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018) 
 
+- [**他大学のセミナーでの発表**](#他大学のセミナーでの発表)
 
 # 口頭発表賞・ポスター賞
 
@@ -92,6 +93,22 @@ author_profile: true
 #  口頭発表・ポスター発表
 
 ## 2022
+
+- 計算蛋白質科学の現在と未来 (Present and Future of Computational Protein Science)
+  - 〇池口満徳
+  - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
+ 
+- 強化学習による分子シミュレーションの効率化と分子設計 (Acceleration of molecular simulation and molecular design enhanced by reinforcement learning)
+  - 〇寺山 慧 (Kei Terayama)
+  - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
+
+- 拡張アンサンブル手法を用いた中分子シクロスポリン A と E の動的構造探索 (Conformational search of cyclosporin A and E using enhanced sampling method)
+  - 〇浴本亨、伊藤朱里、山根努、池口満徳
+  - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
+
+- Deep Learning Extracts Protein Dynamics Information from Cryo-EM map
+  - 松本篤幸、〇石田祥一、荒木望嗣、加藤貴之、寺山慧、奥野恭史
+  - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
 
 - 全原子分子動力学シミュレーションによるヒトL型アミノ酸トランスポーター LAT1-CD98hc 複合体の基質輸送メカニズムの解析（Substrate transport mechanism of human LAT1-CD98hc complex studied by all-atom MD simulations）
   - 〇吉田夏海、浴本亨、山根努、池口満徳
@@ -391,6 +408,12 @@ author_profile: true
 
 **＜海外発表＞**
 
-- FINITE-SIZE EFFECT ON THE CHARGING FREE ENERGY IN THE ALCHEMICAL PERTURBATION AND ``WARP DRIVE" METHOD.
-- 〇浴本亨、山根努、池口満徳
-- Biophysical society 62th Annual Meeting, サンフランシスコ、2018年2月17日-21日
+- FINITE-SIZE EFFECT ON THE CHARGING FREE ENERGY IN THE ALCHEMICAL PERTURBATION AND "WARP DRIVE" METHOD.
+  - 〇浴本亨、山根努、池口満徳
+  - Biophysical society 62th Annual Meeting, サンフランシスコ、2018年2月17日-21日
+
+# 他大学のセミナーでの発表
+
+- 創薬標的蛋白質の分子動力学シミュレーション
+  - 〇浴本亨
+  - 新潟大学物性理論研究室セミナー、新潟大学、 2018年6月25日
