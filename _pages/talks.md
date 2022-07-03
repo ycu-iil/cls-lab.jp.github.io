@@ -99,7 +99,7 @@ author_profile: true
   - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
  
 - 強化学習による分子シミュレーションの効率化と分子設計 (Acceleration of molecular simulation and molecular design enhanced by reinforcement learning)
-  - 〇寺山 慧 (Kei Terayama)
+  - 〇寺山 慧
   - 第22回日本蛋白質科学会年会、つくば国際会議場、2022年6月7日-9日
 
 - 拡張アンサンブル手法を用いた中分子シクロスポリン A と E の動的構造探索 (Conformational search of cyclosporin A and E using enhanced sampling method)
