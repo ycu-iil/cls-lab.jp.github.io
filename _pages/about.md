@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【研究】卒業生 大崎和さんの修士論文研究が 「3D-RISM-AI: Machine learning approach to predict protein-ligand binding affinity using 3D-RISM」として[*The Journal of Physical Chemistry B*](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03384)誌に掲載されました！ [2022/8/17]
+
 - 【研究】清水研（東大）との共同研究「Structure of SARS-CoV-2 membrane protein essential for virus assembly」が[*Nature communications*](https://www.nature.com/articles/s41467-022-32019-3)誌に掲載されました。[2022/8/5]
 
 - 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022/6/22]
@@ -29,9 +31,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 - 【研究】AIとシミュレーションを組み合わせることで、新規有機蛍光分子の自動設計と合成に成功しました! [*Science Advances*](https://www.science.org/doi/10.1126/sciadv.abj3906)誌に掲載されました. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html)) [2022/3/10] <br>
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/Sci_Adv_2022.jpg?raw=true" width="200"> 
-
-- 【学生の活躍・研究】生命情報研究室4名(伊藤朱里(M2), 武富啓(D3), 柴橋佑希特任助手, 佐藤朋広特任准教授)が第49回構造活性相関シンポジウムにて SAR Award ポスター賞を受賞しました！ ([プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20220114_ito_taketomi_shibahashi_sato.html)) [2022/1] <br>
-<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/qsar2021_4.jpg?raw=true" width="200"> 
 
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
