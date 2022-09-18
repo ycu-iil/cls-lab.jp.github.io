@@ -93,6 +93,13 @@ author_profile: true
 #  口頭発表・ポスター発表
 
 ## 2022
+- 非天然アミノ酸を加味した低毒性抗菌ペプチド設計に向けた多目的ベイズ最適化の検討 (Multi-objective Bayesian optimization for AMP design using non-proteinogenic amino acids)
+  - 〇村上優貴、石田祥一、出水庸介、寺山慧
+  - 第11回生命医薬情報学連合大会、千里ライフサイエンスセンター、2022年9月13日-15日
+
+- 強化学習に基づく分子生成手法を用いた選択的阻害剤の設計 (Selective Inhibitor Design Using _De Novo_ Molecule Generator Based on Reinforcement Learning)
+  - 〇吉澤竜哉、石田祥一、佐藤朋広、大田雅照、本間光貴、寺山慧
+  - 第11回生命医薬情報学連合大会、千里ライフサイエンスセンター、2022年9月13日-15日
 
 - 計算蛋白質科学の現在と未来 (Present and Future of Computational Protein Science)
   - 〇池口満徳
