@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【研究】禾研（横浜市大）との共同研究で、卒業生の 下地恵令奈 さんの卒業・修士論文研究が、「Hybrid in vitro/in silico analysis of low-affinity protein-protein interactions that regulate signal transduction by Sema6D」として[*Protein Science*](https://onlinelibrary.wiley.com/doi/10.1002/pro.4452)誌に掲載されました！[2022/9/26]
+  
 - 【研究】卒業生 大崎和さんの修士論文研究が 「3D-RISM-AI: Machine learning approach to predict protein-ligand binding affinity using 3D-RISM」として[*The Journal of Physical Chemistry B*](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03384)誌に掲載されました！ [2022/8/17]
 
 - 【研究】清水研（東大）との共同研究「Structure of SARS-CoV-2 membrane protein essential for virus assembly」が[*Nature communications*](https://www.nature.com/articles/s41467-022-32019-3)誌に掲載されました。[2022/8/5]
@@ -29,11 +31,9 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/toc_jctc2022.jpeg?raw=true" width="200"> 
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/integrin.gif?raw=true" width="200"> 
 
-- 【研究】AIとシミュレーションを組み合わせることで、新規有機蛍光分子の自動設計と合成に成功しました! [*Science Advances*](https://www.science.org/doi/10.1126/sciadv.abj3906)誌に掲載されました. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html)) [2022/3/10] <br>
-<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/Sci_Adv_2022.jpg?raw=true" width="200"> 
-
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
+
 
 # 研究室概要
 - [横浜市立大学](https://www.yokohama-cu.ac.jp) [生命医科学研究科](http://www.tsurumi.yokohama-cu.ac.jp/index.html)/[理学部](https://www.yokohama-cu.ac.jp/academics/science/index.html) 生命情報科学研究室では、計算機を用いて、物理化学的分子シミュレーションとバイオインフォマティクスを融合し、タンパク質や核酸 (DNA・RNA) などの生体高分子の立体構造と機能についての理論的研究をしています。また、機械学習や画像処理等の情報科学手法を用いて、創薬・構造生物学を推進する研究、および広く生物・生命現象を解析する研究を行っています。
