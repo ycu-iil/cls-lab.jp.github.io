@@ -93,13 +93,58 @@ author_profile: true
 #  口頭発表・ポスター発表
 
 ## 2022
-- 非天然アミノ酸を加味した低毒性抗菌ペプチド設計に向けた多目的ベイズ最適化の検討 (Multi-objective Bayesian optimization for AMP design using non-proteinogenic amino acids)
-  - 〇村上優貴、石田祥一、出水庸介、寺山慧
-  - 第11回生命医薬情報学連合大会、千里ライフサイエンスセンター、2022年9月13日-15日
 
-- 強化学習に基づく分子生成手法を用いた選択的阻害剤の設計 (Selective Inhibitor Design Using _De Novo_ Molecule Generator Based on Reinforcement Learning)
-  - 〇吉澤竜哉、石田祥一、佐藤朋広、大田雅照、本間光貴、寺山慧
-  - 第11回生命医薬情報学連合大会、千里ライフサイエンスセンター、2022年9月13日-15日
+- 大規模分子動力学シミュレーションを用いた上皮成長因子受容体キナーゼの活性化メカニズムの研究（A study of activation mechanism of epidermal growth factor receptor kinase using large-scale molecular dynamics simulations）
+  - 〇井上雅郎、浴本亨、山根努、池口満徳
+  - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (口頭)
+
+- RESTシミュレーションによるタンパク質やペプチドリガンドの活性制御機構の解析（Applications of REST simulation to understanding regulation mechanism of protein activation and peptide ligands.）
+  - 〇浴本亨、山根努、池口満徳
+  - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (口頭)
+
+- 分子動力学シミュレーションによるタンパク質の構造ダイナミクス研究（Structural dynamics of proteins studied using molecular dynamics simulations.）
+  - 〇池口満徳
+  - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (口頭)
+
+- 膜水系における環状人工イオンチャネルの QM/MM シミュレーション （QM/MM simulations of cyclic artificial ion channel in membrane-water system）
+  - 〇M. Nakagawa, T. Ekimoto, T. Yamane, K. Sato, K. Kinbara, M. Ikeguchi
+  - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (ポスター)
+
+- ヒト L 型アミノ酸トランスポーター LAT1-CD98hc 複合体の基質輸送シミュレーション （Substrate transport simulations of human L-type amino acid transporter LAT1-CD98hc complex coupled with conformational changes）
+  - 〇N. Yoahida, T. Ekimoto, T. Yamane, M. Ikeguchi
+  - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (ポスター)
+
+- 深層学習を用いたタンパク質ドメインの予測研究 （A deep-learning model for the prediction of protein domains）
+  - 〇R. Sato, T. Ekimoto, T. Yoshidome
+  - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (ポスター)
+
+- 木探索分子動力学法による Interleukin-2-inducible T-cell kinase 活性化経路の探索 （Activation Pathway of Interleukin-2-inducible T-cell kinase Explored by Tree-Search Molecular Dynamics）
+  - 〇Y. Nakai, T. Ekimoto, T. Yamane, N. Ogawa, M. Inoue, K. Terayama, M. Ikeguchi
+  - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (ポスター)
+
+- Development of machine learning models to predict liquid-liquid phase separation of biomolecules and its environmental factors
+  - 〇K. Chin, S. Ishida, K. Terayama
+  - 第60回生物物理学会年会, 3Pos083, 函館アリーナ, 2022年9月28-30日. (ポスター)
+  
+- Efficient Conformational Sampling with an Adaptive Coarse-Grained Elastic Network Model using Dynamic Cross-Correlation Coefficient
+  - R. Kanada, K. Terayama, A. Tokuhisa, S. Matsumoto, Y. Okuno
+  - 第60回生物物理学会年会, 3Pos019, 函館アリーナ, 2022年9月28-30日. (ポスター)
+
+- 非天然アミノ酸を加味した低毒性抗菌ペプチド設計に向けた多目的ベイズ最適化の検討
+  - 〇Y. Murakami, S. Ishida, Y. Demizu, K. Terayama
+  - 第11回生命医薬情報学連合大会(IIBMP2022), P-72, 大阪, 2022年9月14日. (ポスター)
+
+- 強化学習に基づく分子生成手法を用いた選択的阻害剤の設計
+  - 〇T. Yoshizawa, S. Ishida, T. Sato, M. Ohta, T. Honma, K. Terayama
+  - 第11回生命医薬情報学連合大会(IIBMP2022), P-74, 大阪, 2022年9月14日. (ポスター)
+
+- A semi-automated tablet-based assessment tool for handwriting ability
+  - H. Ishihara, H.Hagihara, N. Ienaga, D. Enomoto, H. Noda, K. Terayama, S. Takahata
+  - 18th WFOT International Congress, 2022/8/28.
+   
+- 海水循環型ハタ類陸上養殖における環境代謝分析
+  - 〇丸橋 愛美, 横山 大稀, 坂田 研二, 寺山 慧, 菊地 淳
+  - 第11回JACI/GSCシンポジウム, E-44, 2022年6月15-16日. (ポスター)
 
 - 計算蛋白質科学の現在と未来 (Present and Future of Computational Protein Science)
   - 〇池口満徳
