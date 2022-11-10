@@ -94,6 +94,22 @@ author_profile: true
 
 ## 2022
 
+- 構造生物学データを活用しAIと連携した分子動力学シミュレーション研究
+-   〇池口満徳
+-   情報計算科学生物学会2022年大会(CBI2022)、S-02、タワーホール船堀、2022年10月25-27日
+
+- 分子動力学シミュレーションの創薬応用とFMO法への期待
+  - 池口満徳
+  - 情報計算科学生物学会2022年大会(CBI2022)、SP-03、タワーホール船堀、2022年10月25-27日
+
+- QM/MM simulations of artificial ion channel in membrane-water system
+  - M. Nakagawa, T.Ekimoto, T. Yamane, K. Sato, K. Kinbara, M. Ikeguchi
+  - 情報計算科学生物学会2022年大会(CBI2022)、P01-05、タワーホール船堀、2022年10月25-27日（ポスター）
+
+- Multi-objective Bayesian optimization for antimicrobial peptides design using non-natural amino acids
+  - Y. Murakami, S. Ishida, Y. Demizu, K. Terayama
+  - 情報計算科学生物学会2022年大会(CBI2022)、P08-17、タワーホール船堀、2022年10月25-27日（ポスター）
+
 - 大規模分子動力学シミュレーションを用いた上皮成長因子受容体キナーゼの活性化メカニズムの研究（A study of activation mechanism of epidermal growth factor receptor kinase using large-scale molecular dynamics simulations）
   - 〇井上雅郎、浴本亨、山根努、池口満徳
   - 第60回生物物理学会年会, 函館アリーナ, 2022年9月28-30日. (口頭)
