@@ -17,7 +17,11 @@ author_profile: true
 
 ## 2022受賞
 
-1. 6月　第22回日本蛋白質科学会年会　若手奨励賞　石田祥一
+1.　10月　情報計算化学生物学会(CBI学会) 2022年大会 Excellent Poster Awards 中川真由子
+  - 発表演題：QM/MM simulations of artificial ion channel in membrane-water system
+  - 著者：中川真由子、浴本亨、山根努、佐藤浩平、金原数、池口満徳
+
+2.  6月　第22回日本蛋白質科学会年会　若手奨励賞　石田祥一
   - 発表演題：Deep Learning Extracts Protein Dynamics Information from Cryo-EM map
   - 著者：松本篤幸、石田祥一、荒木望嗣、加藤貴之、寺山慧、奥野恭史
 
