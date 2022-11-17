@@ -98,20 +98,36 @@ author_profile: true
 
 ## 2022
 
+- 強化学習に基づく分子生成手法を用いたキナーゼ選択的阻害剤の設計
+  - 〇吉澤竜哉、石田祥一、佐藤朋広、大田雅照、本間光貴、寺山慧
+  - 第50回構造活性相関シンポジウム、KO-03、オンライン、2022年11月10日-11日
+
+- 短時間MDシミュレーションによるリガンド-タンパク質間結合親和性推定手法の検討
+  - 〇星野小百合、石田祥一、河東田道夫、隅田真人、奥野恭史、寺山慧
+  - 第50回構造活性相関シンポジウム、KP-09、オンライン、2022年11月10日-11日
+
+- 膜水系における人工イオンチャネルのQM/MMシミュレーション
+  - 〇中川真由子、浴本亨、山根努、佐藤浩平、金原数、池口満徳
+  - 第50回構造活性相関シンポジウム、KP-12、オンライン、2022年11月10日-11日
+
+- アミノ酸トランスポーターLAT1の基質輸送シミュレーション
+  - 〇吉田夏海、浴本亨、山根努、池口満徳
+  - 第50回構造活性相関シンポジウム、KP-13、オンライン、2022年11月10日-11日
+
 - 構造生物学データを活用しAIと連携した分子動力学シミュレーション研究
--   〇池口満徳
--   情報計算科学生物学会2022年大会(CBI2022)、S-02、タワーホール船堀、2022年10月25-27日
+  - 〇池口満徳
+  - 情報計算科学生物学会2022年大会(CBI2022)、S-02、タワーホール船堀、2022年10月25-27日
 
 - 分子動力学シミュレーションの創薬応用とFMO法への期待
-  - 池口満徳
+  - 〇池口満徳
   - 情報計算科学生物学会2022年大会(CBI2022)、SP-03、タワーホール船堀、2022年10月25-27日
 
 - QM/MM simulations of artificial ion channel in membrane-water system
-  - M. Nakagawa, T.Ekimoto, T. Yamane, K. Sato, K. Kinbara, M. Ikeguchi
+  - 〇M. Nakagawa, T.Ekimoto, T. Yamane, K. Sato, K. Kinbara, M. Ikeguchi
   - 情報計算科学生物学会2022年大会(CBI2022)、P01-05、タワーホール船堀、2022年10月25-27日（ポスター）
 
 - Multi-objective Bayesian optimization for antimicrobial peptides design using non-natural amino acids
-  - Y. Murakami, S. Ishida, Y. Demizu, K. Terayama
+  - 〇Y. Murakami, S. Ishida, Y. Demizu, K. Terayama
   - 情報計算科学生物学会2022年大会(CBI2022)、P08-17、タワーホール船堀、2022年10月25-27日（ポスター）
 
 - 大規模分子動力学シミュレーションを用いた上皮成長因子受容体キナーゼの活性化メカニズムの研究（A study of activation mechanism of epidermal growth factor receptor kinase using large-scale molecular dynamics simulations）
