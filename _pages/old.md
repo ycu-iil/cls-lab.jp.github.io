@@ -10,6 +10,10 @@ author_profile: true
 
 # 過去のNews
 
+- 【研究】大きな構造変化サンプリングが可能な新しい疎視化分子シミュレーション手法を開発しました. [*Journal of Chemical Theory and Computation*](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01074)誌に掲載されました. [2022/3/25] <br>
+<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/toc_jctc2022.jpeg?raw=true" width="200"> 
+<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/integrin.gif?raw=true" width="200"> 
+
 - 【研究】AIとシミュレーションを組み合わせることで、新規有機蛍光分子の自動設計と合成に成功しました! [*Science Advances*](https://www.science.org/doi/10.1126/sciadv.abj3906)誌に掲載されました. ([プレスリリース](https://www.yokohama-cu.ac.jp/news/2021/20220310terayama.html)) [2022/3/10] <br>
 <img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/Sci_Adv_2022.jpg?raw=true" width="200"> 
 
