@@ -29,10 +29,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 - 【学生】令和3年度修了・卒業式が行われ、本研究室から学部生4名、修士課程2名、博士後期課程1名が卒業されました。ご卒業された皆様おめでとうございます! [2022/3/25]
 
-- 【研究】大きな構造変化サンプリングが可能な新しい疎視化分子シミュレーション手法を開発しました. [*Journal of Chemical Theory and Computation*](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01074)誌に掲載されました. [2022/3/25] <br>
-<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/toc_jctc2022.jpeg?raw=true" width="200"> 
-<img src="https://github.com/ycu-iil/cls-lab.jp.github.io/blob/master/images/integrin.gif?raw=true" width="200"> 
-
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
