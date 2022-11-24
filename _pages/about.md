@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【学生の活躍・研究】中川真由子さん(M2)が情報計算科学生物(CBI)学会2022年大会でエクセレントポスター賞を受賞しました! [プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20221116nakagawa.html) [2022/11/16]
+
 - 【研究】禾研（横浜市大）との共同研究で、卒業生の 下地恵令奈 さんの卒業・修士論文研究が、「Hybrid in vitro/in silico analysis of low-affinity protein-protein interactions that regulate signal transduction by Sema6D」として[*Protein Science*](https://onlinelibrary.wiley.com/doi/10.1002/pro.4452)誌に掲載されました！[2022/10/3]
   
 - 【研究】卒業生 大崎和さんの修士論文研究が 「3D-RISM-AI: Machine learning approach to predict protein-ligand binding affinity using 3D-RISM」として[*The Journal of Physical Chemistry B*](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03384)誌に掲載されました！ [2022/8/17]
