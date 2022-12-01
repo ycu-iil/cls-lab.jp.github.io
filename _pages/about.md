@@ -29,8 +29,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 - 【学生】本研究室に新たに修士課程3名、博士後期課程1名が配属されました。本年度も宜しくお願い致します. [2022/4/6]
 
-- 【学生】令和3年度修了・卒業式が行われ、本研究室から学部生4名、修士課程2名、博士後期課程1名が卒業されました。ご卒業された皆様おめでとうございます! [2022/3/25]
-
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
