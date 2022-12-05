@@ -15,7 +15,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
-- 吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！（[プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)）[2022/11/24]
+- 【学生の活躍・研究】吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！（[プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)）[2022/11/24]
 
 - 【学生の活躍・研究】中川真由子さん(M2)が情報計算科学生物(CBI)学会2022年大会でエクセレントポスター賞を受賞しました! ([プレスリリース](http://www.tsurumi.yokohama-cu.ac.jp/news/20221116nakagawa.html)) [2022/11/16]
 
