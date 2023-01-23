@@ -25,10 +25,12 @@ author_profile: true
 1. 11月　第50回構造活性相関シンポジウム SAR Presentation Award　吉澤竜哉
   - 発表演題：強化学習に基づく分子生成手法を用いたキナーゼ選択的阻害剤の設計
   - 著者：吉澤竜哉、石田祥一、佐藤朋広、大田雅照、本間光貴、寺山慧
+  - 受賞コメント([リンク](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html))
 
 1. 11月　第50回構造活性相関シンポジウム SAR Presentation Award　星野小百合
   - 発表演題：短時間MDシミュレーションによるリガンド-タンパク質間結合親和性推定手法の検討
   - 著者：星野小百合、石田祥一、河東田道夫、隅田真人、奥野恭史、寺山慧
+  - 受賞コメント([リンク](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html))
 
 1. 10月　情報計算化学生物学会(CBI学会) 2022年大会 Excellent Poster Awards 中川真由子
   - 発表演題：QM/MM simulations of artificial ion channel in membrane-water system
