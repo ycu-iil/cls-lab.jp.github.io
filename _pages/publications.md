@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010), [2009](#2009), [2008](#2008), [2007](#2007), [2006](#2006), [2005](#2005), [2004](#2004), [2003](#2003), [2002](#2002), [2001](#2001), [2000](#2000), [1999](#1999), [1998](#1998), [1997](#1997), [1999](#1996), [1995](#1995) 
+[2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010), [2009](#2009), [2008](#2008), [2007](#2007), [2006](#2006), [2005](#2005), [2004](#2004), [2003](#2003), [2002](#2002), [2001](#2001), [2000](#2000), [1999](#1999), [1998](#1998), [1997](#1997), [1999](#1996), [1995](#1995) 
+
+# 2023
+1. Y. Kurihara, <u>T. Ekimoto</u>, C. T. Gordon, Y. Uchijima, R. Sugiyama, T. Kitazawa, A. Iwase, R. Kotani, R. Asai, V. Pingault, <u>M. Ikeguchi</u>, J. Amiel, H. Kurihara, ["Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding,"](https://doi.org/10.1172/JCI151536) _The Journal of Clinical Investigation_, 2023.
+2. K. Sakaniwa, A. Fujimura, T. Shibata, H. Shigematsu, <u>T. Ekimoto</u>, M. Yamamoto, <u>M. Ikeguchi</u>, K. Miyake, U. Ohto, T. Shimizu, ["TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction,"](https://doi.org/10.1038/s41467-023-35844-2) _Nature Communications_ 14, 164, 2023.
 
 # 2022
 1. <u>A. Kidera</u>, K. Moritsugu, <u>T. Ekimoto</u>, <u>M. Ikeguchi</u>, ["Functional dynamics of SARS-CoV-2 3C-like protease as a member of clan PA,"](https://doi.org/10.1007/s12551-022-01020-x) *Biophysical Reviews*, 2022.
