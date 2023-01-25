@@ -147,6 +147,10 @@ author_profile: true
   - 〇池口満徳
   - 情報計算科学生物学会2022年大会(CBI2022)、SP-03、タワーホール船堀、2022年10月25-27日
 
+- Complex model of the bile acid transporter NTCP and binding peptides involved in the HBV infection explored by molecular dynamics simulation
+  - 〇T. Ekimoto, K. Yamamoto, T. Yamane, S. Y. Park, M. Ikeguchi
+  - 情報計算科学生物学会2022年大会(CBI2022)、O3-4、タワーホール船堀、2022年10月25-27日（口頭）
+
 - QM/MM simulations of artificial ion channel in membrane-water system
   - 〇M. Nakagawa, T.Ekimoto, T. Yamane, K. Sato, K. Kinbara, M. Ikeguchi
   - 情報計算科学生物学会2022年大会(CBI2022)、P01-05、タワーホール船堀、2022年10月25-27日（ポスター）
