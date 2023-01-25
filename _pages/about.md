@@ -14,6 +14,7 @@ redirect_from:
 English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
+- 【学生の活躍・研究】星野小百合さん(B4)、吉澤竜哉さん(M1)が第50回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（[受賞コメント](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html)）[2023/1/11]
 
 - 【学生の活躍・研究】吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！[研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)で紹介されました。[2022/11/24]
 
@@ -26,8 +27,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【研究】清水研（東大）との共同研究「Structure of SARS-CoV-2 membrane protein essential for virus assembly」が[*Nature communications*](https://www.nature.com/articles/s41467-022-32019-3)誌に掲載されました。[2022/8/5]
 
 - 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022/6/22]
-
-- 【学生】本研究室に新たに修士課程3名、博士後期課程1名が配属されました。本年度も宜しくお願い致します. [2022/4/6]
 
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
