@@ -10,6 +10,10 @@ author_profile: true
 
 # 過去のNews
 
+- 【研究】清水研（東大）との共同研究「Structure of SARS-CoV-2 membrane protein essential for virus assembly」が[*Nature communications*](https://www.nature.com/articles/s41467-022-32019-3)誌に掲載されました。[2022/8/5]
+
+- 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022/6/22]
+
 - 【学生】本研究室に新たに修士課程3名、博士後期課程1名が配属されました。本年度も宜しくお願い致します. [2022/4/6]
 
 - 【学生】令和3年度修了・卒業式が行われ、本研究室から学部生4名、修士課程2名、博士後期課程1名が卒業されました。ご卒業された皆様おめでとうございます! [2022/3/25]
