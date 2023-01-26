@@ -14,6 +14,11 @@ redirect_from:
 English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
+
+- 【研究】清水研（東大）との共同研究「TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction」が[*Nature communications*](https://doi.org/10.1038/s41467-023-35844-2)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi_NC.html)） [2023/1/17]
+
+- 【研究】栗原研（東大）との共同研究「Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding」が[*The Journal of Clinical Investigation*](https://doi.org/10.1172/JCI151536)誌に掲載されました！[2023/1/13]
+
 - 【学生の活躍・研究】星野小百合さん(B4)、吉澤竜哉さん(M1)が第50回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（[受賞コメント](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html)）[2023/1/11]
 
 - 【学生の活躍・研究】吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！[研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)で紹介されました。[2022/11/24]
@@ -23,10 +28,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【研究】禾研（横浜市大）との共同研究で、卒業生の 下地恵令奈 さんの卒業・修士論文研究が、「Hybrid in vitro/in silico analysis of low-affinity protein-protein interactions that regulate signal transduction by Sema6D」として[*Protein Science*](https://onlinelibrary.wiley.com/doi/10.1002/pro.4452)誌に掲載されました！[2022/10/3]
   
 - 【研究】卒業生 大崎和さんの修士論文研究が 「3D-RISM-AI: Machine learning approach to predict protein-ligand binding affinity using 3D-RISM」として[*The Journal of Physical Chemistry B*](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03384)誌に掲載されました！ [2022/8/17]
-
-- 【研究】清水研（東大）との共同研究「Structure of SARS-CoV-2 membrane protein essential for virus assembly」が[*Nature communications*](https://www.nature.com/articles/s41467-022-32019-3)誌に掲載されました。[2022/8/5]
-
-- 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022/6/22]
 
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
