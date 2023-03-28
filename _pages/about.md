@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【学生】令和4年度修了・卒業式が行われ、本研究室から学部生4名、修士課程3名が卒業されました。ご卒業された皆様おめでとうございます! [2023/3/24]
+
 - 【研究】清水研（東大）との共同研究「TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction」が[*Nature communications*](https://doi.org/10.1038/s41467-023-35844-2)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi_NC.html)） [2023/1/17]
 
 - 【研究】栗原研（東大）との共同研究「Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding」が[*Journal of Clinical Investigation*](https://doi.org/10.1172/JCI151536)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi.html)）[2023/1/13]
@@ -26,8 +28,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【学生の活躍・研究】中川真由子さん(M2)が情報計算科学生物(CBI)学会2022年大会でエクセレントポスター賞を受賞しました! [研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221116nakagawa.html)で紹介されました。 [2022/11/16]
 
 - 【研究】禾研（横浜市大）との共同研究で、卒業生の 下地恵令奈 さんの卒業・修士論文研究が、「Hybrid in vitro/in silico analysis of low-affinity protein-protein interactions that regulate signal transduction by Sema6D」として[*Protein Science*](https://onlinelibrary.wiley.com/doi/10.1002/pro.4452)誌に掲載されました！[2022/10/3]
-  
-- 【研究】卒業生 大崎和さんの修士論文研究が 「3D-RISM-AI: Machine learning approach to predict protein-ligand binding affinity using 3D-RISM」として[*The Journal of Physical Chemistry B*](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03384)誌に掲載されました！ [2022/8/17]
 
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
