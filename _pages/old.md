@@ -10,6 +10,8 @@ author_profile: true
 
 # 過去のNews
 
+- 【研究】卒業生 大崎和さんの修士論文研究が 「3D-RISM-AI: Machine learning approach to predict protein-ligand binding affinity using 3D-RISM」として[*The Journal of Physical Chemistry B*](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03384)誌に掲載されました！ [2022/8/17]
+
 - 【研究】清水研（東大）との共同研究「Structure of SARS-CoV-2 membrane protein essential for virus assembly」が[*Nature communications*](https://www.nature.com/articles/s41467-022-32019-3)誌に掲載されました。[2022/8/5]
 
 - 【研究】金原研（東工大）との共同研究「Supramolecular Mechanosensitive Potassium Channel Formed by Fluorinated Amphiphilic Cyclophane」が論文になりました！ [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.2c04118)誌に掲載されました. [2022/6/22]
