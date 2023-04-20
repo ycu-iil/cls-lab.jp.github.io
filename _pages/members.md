@@ -25,7 +25,7 @@ author_profile: true
 
 - 特任教授 木寺詔紀 [(個人ページ)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Kidera/index.html)
 - 特任助教 石田祥一 [(個人ページ)](https://sishida21.github.io/about/)
-- 博士研究員 井上雅郎
+- 特任助教 井上雅郎
 - 秘書 宮原優子
 
 # 学生 (池口グループ)
