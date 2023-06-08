@@ -11,6 +11,7 @@ author_profile: true
 # 2023
 <details open>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li><u>高畑 脩平</u>, 榎本 大貴, 田村 亮太, 野田 遥, <u>石田 祥一</u>, <u>寺山 慧</u>. 読み書き困難児の包括的・網羅的スクリーニング検査の開発にむけた予備的研究. 日本発達系作業療法学会誌 10(1), 15-23, 2023.</li>
     <li>T. Yoshida, J. Zhou, <u>K. Terayama</u>, D. Kitazawa, <a href="https://doi.org/10.1016/j.atech.2022.100087">"Monitoring of cage-cultured sea cucumbers using an underwater time-lapse camera and deep learning-based image analysis,"</a> <em>Smart Agricultural Technology</em>, 3, 100087, 2023.</li>
@@ -19,11 +20,11 @@ author_profile: true
     <li>K. Moritsugu, <u>T. Ekimoto</u>, <u>M. Ikeguchi</u>, <u>A. Kidera</u>, <a href="https://doi.org/10.1021/acs.jcim.2c00946">"Binding and Unbinding Pathways of Peptide Substrates on the SARS-CoV-2 3CL Protease,"</a> <em>Journal of Chemical Information and Modeling</em>, 63, 1, 240-250, 2023.</li>
    </ol>
 </details>
-<br>
 
 # 2022
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li><u>A. Kidera</u>, K. Moritsugu, <u>T. Ekimoto</u>, <u>M. Ikeguchi</u>, <a href="https://doi.org/10.1007/s12551-022-01020-x">"Functional dynamics of SARS-CoV-2 3C-like protease as a member of clan PA,"</a> <em>Biophysical Reviews</em>, 14, 1473–1485, 2022.</li>
     <li>N. Ienaga, <u>S. Takahata</u>, <u>K. Terayama</u>, D. Enomoto, H. Ishihara, H. Noda, H. Hagihara, <a href="https://doi.org/10.1155/2022/6952999">"Development and Verification of Postural Control Assessment Using Deep-Learning-Based Pose Estimators: Towards Clinical Applications,"</a> <em>Occupational Therapy International</em>, Vol.2022, 6952999, 2022.</li>
@@ -53,11 +54,11 @@ author_profile: true
     <li><u>K. Terayama</u>, K. Han, R. Katsube, I. Ohnuma, T. Abe, Y. Nose, R. Tamura, <a href="https://www.sciencedirect.com/science/article/pii/S1359646221006151">"Acceleration of phase diagram construction by machine learning incorporating Gibbs' phase rule,"</a> <em>Scripta Materialia</em>, Vol. 28, 114335, 2022.</li>
    </ol>
 </details>
-<br>
 
 # 2021
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>Xiaolin Sun, Ryo Tamura, Masato Sumita, Kenichi Mori, <u>Kei Terayama</u>, and Koji Tsuda, "Integrating Incompatible Assay Data Sets with Deep Preference Learning," *ACS Medicinal Chemistry Letters*, 13(1): 70-75, (2021). </li>
     <li>Y. Amamoto, H. Kikutake, K. Kojio, A. Takahara, and <u>K. Terayama</u>, "Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters," *Polymer Journal*, 53:1269-1279, (2021).</li>
@@ -82,11 +83,12 @@ author_profile: true
     <li>I. Fukuda, <u>K. Moritsugu</u> and Y. Fukunishi, "On ergodicity for multi-dimensional harmonic oscillator systems with Nose-Hoover type thermostat", Regular and Chaotic Dynamics. 26: 183-204 (2021).</li>
    </ol>
 </details>
-<br>
+
 
 # 2020
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>R. Shibukawa, S. Ishida, K. Yoshizoe, K. Wasa, K. Takasu, Y. Okuno, K. Terayama, and K. Tsuda, "CompRet: a comprehensive recommendation framework for chemical synthesis planning with algorithmic enumeration." Journal of Cheminformatics 12, 52, (2020).</li>
     <li>J. Zhang, K. Terayama, M. Sumita, K. Yoshizoe, K. Ito, J. Kikuchi, and K. Tsuda, "NMR-TS: de novo molecule identification from NMR spectra." STAM, 21, 1, 552-561 (2020).</li>
@@ -108,11 +110,12 @@ author_profile: true
     <li>浴本亨, 小甲裕一, 苙口友隆, 池口満徳 "X線小角散乱と分子動力学シミュレーションを組み合わせた生体分子の溶液構造解析" 分子シミュレーション学会誌"アンサンブル", 22, 3, 239-251 (2020).</li>
    </ol>
 </details>
-<br>
+
 
 # 2019
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>K. Moritsugu, T. Ito and A. Kidera, "Allosteric response to ligand binding: Molecular dynamics study of the N-terminal domains in IP3 receptor." Biophys Physicobiol. 16, 232-239 (2019).</li>
     <li>A. Singharoy, C. Chipot, T. Ekimoto, K. Suzuki, M. Ikeguchi, I. Yamato, and T. Murata, "Rotational mechanism model of the bacterial V1 motor based on structural and computational analyses." Front. Physiol. 10:46, 1-12 (2019).</li>
@@ -122,11 +125,12 @@ author_profile: true
     1.　T. Yamada, T. Hayashi, S. Hikiri, N. Kobayashi, H. Yanagawa, M. Ikeguchi, M. Katahira, T. Nagata, M. Kinoshita, "How Does the Recently Discovered Peptide MIP Exhibit Much Higher Binding Affinity than an Anticancer Protein p53 for an Oncoprotein MDM2?" J. Chem. Inf. Model., 59, 8, 3533-3544 (2019).</li>
    </ol>
 </details>
-<br>
+
 
 # 2018
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>Y. Matsunaga, T. Yamane, T. Terada, K. Moritsugu, H. Fujisaki, S. Murakami, M. Ikeguchi, and A. Kidera, "Energetics and conformational pathways of functional rotation in the multidrug transporter AcrB." eLIFE (2018) 7: e31715. DOI: 10.7554/eLife.31715.001 (2018).</li>
     <li>K. Moritsugu, T. Terada, H. Kokubo, S. Endo, T. Tanaka and A. Kidera, "Multiscale enhanced sampling of glucokinase: Regulation of the enzymatic reaction via a large scale domain motion." Journal of Chemical Physics 149, 072314. DOI: 10.1063/1.5027444 (2018).</li>
@@ -143,22 +147,24 @@ author_profile: true
     <li>Kajiwara Y, Yasuda S, Hikiri S, Hayashi T, Ikeguchi M, Murata T, Kinoshita M. , "Physical Origin of Thermostabilization by a Quadruple Mutation for the Adenosine A2a Receptor in the Active State." J Phys. Chem B. , 122(16):4418-4427., (2018).</li>
    </ol>
 </details>
-<br>
+
 
 # 2017
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>Y. Isaka, T. Ekimoto, Y. Kokabu, I. Yamato, T. Murata, M. Ikeguchi, "Rotation Mechanism of Molecular Motor V1-ATPase Studied by Multiscale Molecular Dynamics Simulation", Biophys. J., 112, 911-920 (2017).</li>
     <li>K. Moritsugu, T. Terada, A. Kidera, "Free-Energy Landscape of Protein-Ligand Interactions Coupled with Protein Structural Changes,", J. Phys. Chem. B, 121, 731-740 (2017).</li>
     <li>Satoshi Ishiyama, Atsuya Nishiyama, Yasushi Saeki, Kei Moritsugu, Daichi Morimoto, Luna Yamaguchi, Naoko Arai, Rumie Matsumura, Toru Kawakami, Yuichi Mishima, Hironobu Hojo, Shintaro Shimamura, Fuyuki Ishikawa, Shoji Tajima, Keiji Tanaka, Mariko Ariyoshi, Masahiro Shirakawa, Mitsunori Ikeguchi, Akinori Kidera, Isao Suetake, Kyohei Arita, and Makoto Nakanishi, "Structure of the H3 ubiquitin code/Dnmt1 reader module complex reveals the basis for DNA methylation maintenance." Molecular Cell, (2017) 68: 350-360. DOI: 10.1016/j.molcel.2017.09.037</li>
    </ol>
 </details>
-<br>
+
 
 # 2016
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>S. Hikiri, T. Yoshidome, M. Ikeguchi, "Computational Methods for Configurational Entropy using Internal and Cartesian Coordinates", J. Chem. Theory Compt., 12, 5990-6000 (2016).</li>
     <li>K. Moritsugu, T. Terada, A. Kidera, "Multiscale enhanced sampling for protein systems: An extension via adiabatic separation", Chem. Phys. Lett., 661, 279-283 (2016).</li>
@@ -169,11 +175,12 @@ author_profile: true
     <li>I. Fukuda, K. Moritsugu, "Coupled Nosé-Hoover Equations of Motions: coupling the physical system Nosé-Hoover equation and temperature system Nosé-Hoover equation", Phys. Rev. E, 93, 033306 (2016).</li>
    </ol>
 </details>
-<br>
+
 
 # 2015
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>T. Yoshidome, T. Oroguchi, M. Nakasako, M. Ikeguchi, "Classification of projection images of proteins with structural polymorphism by manifold: A simulation study for X-Ray Free-Electron Laser Diffraction Imaging", Phys. Rev. E, 92, 032710 (2015).</li>
     <li>T. Yoshidome, T. Ekimoto, N. Matubayasi, Y. Harano, M. Kinoshita, M. Ikeguchi, "An Accurate and Efficient Computation Method of the Hydration Free Energy of a Large, Complex Molecule", J. Chem. Phys., 142, 175101 (2015).</li>
@@ -185,11 +192,12 @@ author_profile: true
     <li>I. Fukuda, K. Moritsugu, "Double Density Dynamics: Dynamical Realization of Superstatistics", J. Phys. A, 48, 455001 (2015).</li>
    </ol>
 </details>
-<br>
+
 
 # 2014
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>R. Koike, M. Ota, A. Kidera, "Hierarchical description and extensive classification of protein structural changes by motion tree", J. Mol. Biol., 426, 752-762 (2014).</li>
     <li>K. Moritsugu, A. Kidera, J. C. Smith, "Solvent friction effects propagate over the entire protein molecule through low-frequency collective modes", J. Phys. Chem. B, 118, 8559-8565 (2014).</li>
@@ -198,11 +206,12 @@ author_profile: true
     <li>森次 圭 "マルチスケール手法によるタンパク質全原子構造サンプリング" 分子シミュレーション研究会会誌"アンサンブル" 16, 227-233 (2014).</li>
    </ol>
 </details>
-<br>
+
 
 # 2013
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>K. Saikusa, N. Kuwabara, Y. Kokabu, Y. Inoue, M. Sato, H. Iwasaki, T. Shimizu, M. Ikeguchi, S. Akashi, "Characterisation of an intrinsically disordered protein complex of Swi5-Sfr1 by ion mobility mass spectrometry and small-angle X-ray scattering", Analyst, 138, 1441-1449 (2013).</li>
     <li>Y. Ito, T. Yoshidome, N. Matubayasi, M. Kinoshita, M. Ikeguchi, "Molecular dynamics simulations of yeast F1-ATPase before and after 16° rotation of the γ subunit", J. Phys. Chem. B, 117, 3298-3307 (2013).</li>
@@ -214,11 +223,12 @@ author_profile: true
     <li>Y. Naritomi, S. Fuchigami, "Slow dynamics of a protein backbone in molecular dynamics simulation revealed by time-structure based independent component analysis", J. Chem. Phys., 139, 215102 (2013).</li>
    </ol>
 </details>
-<br>
+
 
 # 2012
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>T. Amemiya, R. Koike, A. Kidera, M. Ota, "PSCDB: a database for protein structural change upon ligand binding", Nucleic Acids Res., 40, D554-558 (2012).</li>
     <li>T. Terada, A. Kidera, "Comparative molecular dynamics simulation study of crystal environment effect on protein structure", J. Phys. Chem. B, 116, 6810-6818 (2012).</li>
@@ -234,11 +244,12 @@ author_profile: true
     <li>森次 圭 "粗視化モデルを用いたマルチスケールシミュレーションシステムの構築" 生物物理学会誌 52, 26-27 (2012).</li>
    </ol>
 </details>
-<br>
+
 
 # 2011
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>C. Motono, J. Nakata, R. Koike, K. Shimizu, M. Shirota, T. Amemiya, K. Tomii, N. Nagano, N. Sakaya, K. Misoo, M. Sato, A. Kidera, H. Hiroaki, T. Shirai, K. Kinoshita, T. Noguchi, M. Ota, "SAHG, a comprehensive database of predicted structures of all human proteins.", Nucleic Acids Res., 39, D487-493 (2011).</li>
     <li>T. Oroguchi, M. Ikeguchi, "Effects of ionic strength on SAXS data for proteins revealed by molecular dynamics simulations.", J. Chem. Phys., 134, 025102 (2011).</li>
@@ -254,11 +265,12 @@ author_profile: true
     <li>M. Yamamoto, K. Nakagawa, K. Fujiwara, A. Shimizu, M. Ikeguchi, M. Ikeguchi, "A native disulfide stabilizes non-native helical structures in partially folded states of equine β-lactoglobulin.", Biochemistry, 50, 10590-10597 (2011).</li>
    </ol>
 </details>
-<br>
+
 
 # 2010
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>S. Omori, S. Fuchigami, M. Ikeguchi, A. Kidera, "Latent dynamics of a protein molecule observed in dihedral angle space." J. Chem. Phys., 132, 115103 (2010).</li>
     H. Fujisaki, M. Shiga, A. Kidera, "Onsager-Machlup action-based path sampling and its combination with replica exchange for diffusive and multiple pathways." J. Chem. Phys., 132, 134101 (2010).</li>
@@ -277,11 +289,12 @@ author_profile: true
     <li>H. Yagi, H. Konno, T. Murakami-Fuse, A. Isu, T. Oroguchi, H. Akutsu, M. Ikeguchi, T. Hisabori, "Structural and functional analysis of the intrinsic inhibitor subunit ε of F1-ATPase from photosynthetic organisms." Biochem. J., 425, 85-94 (2010).</li>
    </ol>
 </details>
-<br>
+
 
 # 2009
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>S. Omori, S. Fuchigami, M. Ikeguchi, A. Kidera, "Linear response theory in dihedral angle space for protein structural change upon ligand binding." J. Comput. Chem., 30, 2602-2608 (2009).</li>
     <li>T. Oroguchi, H. Hashimoto, T. Shimizu, M. Sato, and M. Ikeguchi, "Intrinsic dynamics of restriction endonuclease EcoO109I studied by molecular dynamics simulations and X-Ray scattering data analysis." Biophys. J., 96, 2808-2822 (2009).</li>
@@ -289,11 +302,12 @@ author_profile: true
     <li>M. Ikeguchi, Water transport in aquaporins: molecular dynamics simulations. Frontiers in Bioscience, 14, 1283-1291 (2009).</li>
    </ol>
 </details>
-<br>
+
 
 # 2008
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>R. Koike, T. Amemiya, M. Ota, and A. Kidera, "Protein structural change upon ligand binding correlates with enzymatic reaction mechanism." J. Mol. Biol. 379, 397-401 (2008).</li>
     <li>T. Yamane, H. Okamura, M. Ikeguchi, Y. Nishimura, A. Kidera, "Water-mediated interactions between DNA and PhoB DNA-binding/transactivation domain: NMR-restrained molecular dynamics in explicit water environment." Proteins: Structure, Function, and Bioinformatics, 71, 1970-1983 (2008).</li>
@@ -301,11 +315,12 @@ author_profile: true
     <li>木寺詔紀, 池口満徳, アクアポリンの水透過過程の比較分子シミュレーション, 生化学, 80, 940-947 (2008).</li>
    </ol>
 </details>
-<br>
+
 
 # 2007
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>T. Oroguchi, M. Ikeguchi, M. Ota, K. Kuwajima, A. Kidera, "Unfolding pathways of goat α-lactalbumin as revealed in multiple alignment of molecular dynamics trajectories", J. Mol. Biol., 371, 1354-1364 (2007).</li>
     <li>M. Hashido, A. Kidera, M. Ikeguchi, "Water transport in aquaporins: osmotic permeability matrix analysis of molecular dynamics simulations", Biophys. J., 93, 373-385 (2007).</li>
@@ -324,11 +339,12 @@ author_profile: true
     <li>太田元規, 池口満徳, "タンパク質フォールディング博物学の曙", 生物物理, 46, 224-227 (2006).</li>
    </ol>
 </details>
-<br>
+
 
 # 2006
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>Y. Sugita, N. Miyashita, T. Yoda, M. Ikeguchi, C. Toyoshima, "Structural changes of the cytoplasmic domain of phospholamban by phosphorylation at Ser16: a molecular dynamics study", Biochemistry, 45, 11752-11761 (2006).</li>
     <li>S. Ki, F. Sugihara, K. Kasahara, H. Tochio, A. Okada-Marubayashi, S. Tomita, M. Morita, M. Ikeguchi, M. Shirakawa, T. Kokubo, "A novel magnetic resonance-based method to measure gene expression in living cells", Nucl. Acids Res., 34, e51 (2006).</li>
@@ -338,11 +354,12 @@ author_profile: true
     <li>太田元規, 池口満徳, "タンパク質フォールディング博物学の曙", 生物物理, 46, 224-227 (2006).</li>
    </ol>
 </details>
-<br>
+
 
 # 2005
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>T. Oroguchi, M. Ikeguchi, K. Saeki, K. Kamagata, Y. Sawano, M. Tanokura, A. Kidera, and K. Kuwajima, "Atomically detailed description of the unfolding of a-lactalbumin by the combined use of experiments and simulations", J. Mol. Biol. 354, 164 172 (2005).</li>
     <li>M. Hashido, M. Ikeguchi, and A. Kidera, "Comparative Simulations of Aquaporin Family: AQP1, AQPZ, AQP0 and GlpF", FEBS Lett. 579, 5549 5552 (2005).</li>
@@ -355,11 +372,12 @@ author_profile: true
     <li>木寺詔紀、池口満徳、 構造ダイナミクスの理論とシミュレーション、 タンパク質科学－構造・物性・機能 5.2、 化学同人 (2005).</li>
    </ol>
 </details>
-<br>
+
 
 # 2004
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>Y. Hioki, K. Ogasahara, S.J. Lee, J. Ma, M. Ishida, Y. Yamagata, Y. Matsuura, M. Ota, M. Ikeguchi, S. Kuramitsu and K. Yutani, "The crystal structure of the tryptophan synthase b2 subunit from the hyperthermophile Pyrococcus furiosus Investigation of stabilization factors", Eur. J. Biochem., 271, 2624-2635 (2004).</li>
     <li>M. Ikeguchi, "Partial Rigid-Body Dynamics in NPT, NPAT and NPγT Ensembles for Proteins and Membranes", J. Comput. Chem., 25, 529-541 (2004).</li>
@@ -371,11 +389,12 @@ author_profile: true
     <li>木寺詔紀、 ナノバイオロジー（書評）、 蛋白質核酸酵素 49, 2269-2270 (2004).</li>
    </ol>
 </details>
-<br>
+
 
 # 2003
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>Y. Akamatsu, D. Dziadkowiec, M. Ikeguchi, H. Shinagawa and H. Iwasaki, "Two different Swi5-containing protein complexes are involved in mating-type switching and recombination repair in fission yeast", Proc. Natl. Acad. Sci. USA, 100, 15770-15775 (2003).</li>
     <li>S. Nakamura, M. Ikeguchi, K. Shimizu, "Dynamical Analysis of tRNAGln-GlnRS Complex using Normal Mode Calculation", Chem. Phys. Lett., 372, 423-431 (2003).</li>
@@ -387,11 +406,12 @@ author_profile: true
     <li>木寺詔紀、池口満徳、"蛋白質機能発現のダイナミクス的側面"、日本物理学会誌、58, 246-253 (2003).</li>
    </ol>
 </details>
-<br>
+
 
 # 2002
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>S. Nakamura, D. Kyono, M. Ikeguchi, and K. Shimizu, "A New Method for Parallel Computation of Hessian Matrix of Conformational Energy Function in Internal Coordinates", J. Comput. Chem., 23, 463-469 (2002).</li>
     <li>J-G. Jee, T. Ikegami, M. Hashimoto, T. Kawabata, M. Ikeguchi, Takeshi Watanabe and M. Shirakawa, "Solution Structure of the Fibronectin Type III Domain from Bacillus circulans WL-12 Chitinase A1", J. Biol. Chem., 277, 1388-1397 (2002).</li>
@@ -404,11 +424,12 @@ author_profile: true
     <li>池口満徳、木寺詔紀、 化学フロンティア⑦ 生体系のコンピュータシミュレーション、 17章 イオンポンプ、能動輸送、岡崎進、岡本祐幸編、 化学同人 （2002）.</li>
    </ol>
 </details>
-<br>
+
 
 # 2001
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>S.-H. Chong, Y. Joti, A. Kidera, N. Go, A. Ostermann, A. Gassmann and F. Parak, "Dynamical transition of Myoglobin in a crystal. Comparative studies of X-ray crystallography and Mossbauer spectroscopy.", European Biophysics J. 30, 319-329 (2001).</li>
     <li>H. Yamashita and A. Kidera, "Environmental influence on electron scattering from a molecule.", Acta Cryst. Sect A 57, 518-525 (2001).</li>
@@ -428,11 +449,12 @@ author_profile: true
     <li>M. Yoshikawa, H. Iwasaki, K. Kinoshita and H. Shinagawa, "Two basic residues, Lys-107, and Lys-118, of RuvC resolvase are involved in critical contacts with the Holliday junction for its resolution," Genes to Cells, 5 803-813, (2000)</li>
    </ol>
 </details>
-<br>
+
 
 # 2000
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>N. Nakajima, J. Higo, A. Kidera, and H. Nakamura, "Free energy landscapes of short peptides by enhanced conformational sampling," J. Mol. Biol., 296, 197-218 (2000).</li>
     <li>A. R. Kinjo, A. Kidera, H. Nakamura, and K. Nishikawa, "Physico-chemical evaluation of protein folds predicted by threading," European Biophysics J., 30, 1-10 (2000).</li>
@@ -442,11 +464,12 @@ author_profile: true
     <li>M. Yoshikawa, H. Iwasaki, K. Kinoshita and H. Shinagawa, "Two basic residues, Lys-107, and Lys-118, of RuvC resolvase are involved in critical contacts with the Holliday junction for its resolution," Genes to Cells, 5 803-813, (2000)</li>
    </ol>
 </details>
-<br>
+
 
 # 1999
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>K. Kinoshita, A. Kidera, and N. Go, "Structural motif of phosphate binding site common to various protein superfamilies: All-against-all structural comparison of protein-mononucleotide complexes," Protein Engineering. 12, 11-14 (1999).</li>
     <li>K. Mitsuoka, T. Hirai, K. Murata, A. Miyazawa, A. Kidera, Y. Kimura, and Y. Fujiyoshi, "Charge distribution in the refined structure of bacteriorhodopsin based on electron crystallography,"J. Mol. Biol., 286, 861-882 (1999)</li>
@@ -462,11 +485,12 @@ author_profile: true
     <li>M. Sekijima, S. Takasaki, S. Nakamura, M. Ikeguchi and K. Shimizu, "Parsley: A Scalable Framework for Dependence-Driven Task Scheduling in Distributed-Memory Multiprocessor Systems," Proceedings of the IASTED International Conference PDCS, 800-805, (1999).</li>
    </ol>
 </details>
-<br>
+
 
 # 1998
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>H. Ishida, Y. Nagai, and A. Kidera, "Symplectic Integrators for Molecular Dynamics of Protein in Water," Chem. Phys. Lett. 282, 115-120 (1998).</li>
     <li>H. Shirai, N. Nakajima, J. Higo, A. Kidera, and H. Nakamura, "Conformational sampling of CDR-H3 in antibodies by multicanonical molecular dynamics simulation,"J. Mol. Biol. 278, 481-496 (1998)</li>
@@ -483,11 +507,12 @@ author_profile: true
     <li>T. Murata, M. Sekijima, H. Masaki, S. Nakamura, M. Ikeguchi and K. Shimizu, "Parallel Programming Environment with Dependence-Driven Subtask Scheduling: Design and Application to Molecular Dynamics Simulation," Proceedings of the 2nd IASTED International Conference PDCN, 650-653, (1998).</li>
    </ol>
 </details>
-<br>
+
 
 # 1997
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>A. Kidera, T. Higashira, Y. Ikeda, K. Urayama, and S. Kohjiya, "GPC analysis of polymer network formation: 2. Bifunctional PPG prepolymer/ crosslinker system," Polymer Bulletin 38, 461-468 (1997)</li>
     <li>Y. Kimura, D. G. Vassylyev, A. Miyazawa, A. Kidera, M. Matsushima, K. Mitsuoka, K. Murata, T. Hirai, and Y. Fujiyoshi, "Membrane surface structure and proton pathway of bacteriorhodopsin analyzed by electron crystallography", Nature 389, 206-211 (1997).</li>
@@ -499,11 +524,12 @@ author_profile: true
     <li>K. Shimizu, A. Oishi, H. Ashihara, M. Ikeguchi and S. Nakamura, "Design and Implementation of Parallel Programming Environment with Dynamic Resource Management Services," Proceedings of the 12th ISCA International Conference on Computers and Their Applications, 226-231, (1997).</li>
  </ol>
 </details>
-<br>
+
 
 # 1996
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>S. Kohjiya, Y. Takada, K. Urayama,, Y. Tezuka, and A. Kidera, "GPC analysis of polymer network formation: 1. Bifunctional siloxane monomer/crosslinker system", Bull.Chem.Soc.Jpn. 69, 565-574 (1996)</li>
     <li>T. Yamada and A. Kidera, "Tailoring echistatin to possess higher affinity for integrin ?IIb?3.", FEBS Lett. 387, 11-15 (1996).</li>
@@ -516,11 +542,12 @@ author_profile: true
     <li>H. Shirai, A. Kidera, and H. Nakamura, "Structural classification of CDR-H3 in antibodies", FEBS Lett. 399,1-8 (1996).</li>
    </ol>
 </details>
-<br>
+
 
 # 1995
 <details>
   <summary>クリックして表示/非表示</summary>
+  <p></p>
   <ol>
     <li>A. Kidera, "Enhanced conformational sampling in Monte Carlo simulations of proteins: Application to a constrained peptide", Proc. Nat. Acad. Sci. U.S.A. 92, 9886-9889 (1995).</li>
     <li>S. Nakamura, H. Hirose, M. Ikeguchi and J. Doi, "Conformational Energy Minimization using a Two-Stage Method," J. Phys. Chem., 99, 8374-8378, (1995).</li>
@@ -529,4 +556,3 @@ author_profile: true
     <li>H. Hirose, S. Nakamura, M. Ikeguchi, and J. Doi, "Improved Diffusion Equation Method for Large Molecules," in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 49-52, (1995)</li>
    </ol>
 </details>
-<br>
