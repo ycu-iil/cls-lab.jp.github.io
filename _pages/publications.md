@@ -338,10 +338,12 @@ H. Fujisaki, M. Shiga, A. Kidera, "Onsager-Machlup action-based path sampling an
 
 # 1995
 <details>
-<summary>クリックして展開<</summary>
-  1. A. Kidera, "Enhanced conformational sampling in Monte Carlo simulations of proteins: Application to a constrained peptide", Proc. Nat. Acad. Sci. U.S.A. 92, 9886-9889 (1995).
-  1. S. Nakamura, H. Hirose, M. Ikeguchi and J. Doi, "Conformational Energy Minimization using a Two-Stage Method," J. Phys. Chem., 99, 8374-8378, (1995).
-  1. M. Ikeguchi and J. Doi, "Direct Numerical Solution of the Ornstein-Zernike Integral Equation and Spatial Distribution of Water around Hydrophobic Molecules," J Chem. Phys., 102, 5011-5017, (1995).
-  1. T. Izumitani, K. Tazaki, T. Kawabata, M. Ikeguchi, J. Doi, "Conformational Path of TRP Repressor, in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 45-48, (1995)
-  1. H. Hirose, S. Nakamura, M. Ikeguchi, and J. Doi, "Improved Diffusion Equation Method for Large Molecules," in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 49-52, (1995)
+  <summary>クリックして表示/非表示</summary>
+  <ol>
+    <li>A. Kidera, "Enhanced conformational sampling in Monte Carlo simulations of proteins: Application to a constrained peptide", Proc. Nat. Acad. Sci. U.S.A. 92, 9886-9889 (1995).</li>
+    <li>S. Nakamura, H. Hirose, M. Ikeguchi and J. Doi, "Conformational Energy Minimization using a Two-Stage Method," J. Phys. Chem., 99, 8374-8378, (1995).</li>
+    <li>M. Ikeguchi and J. Doi, "Direct Numerical Solution of the Ornstein-Zernike Integral Equation and Spatial Distribution of Water around Hydrophobic Molecules," J Chem. Phys., 102, 5011-5017, (1995).</li>
+    <li>T. Izumitani, K. Tazaki, T. Kawabata, M. Ikeguchi, J. Doi, "Conformational Path of TRP Repressor, in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 45-48, (1995)</li>
+    <li>H. Hirose, S. Nakamura, M. Ikeguchi, and J. Doi, "Improved Diffusion Equation Method for Large Molecules," in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 49-52, (1995)</li>
+   </ol>
 </details>
