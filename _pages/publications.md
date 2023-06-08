@@ -71,7 +71,7 @@ author_profile: true
     <li>I. Fukuda, <u>K. Moritsugu</u> and Y. Fukunishi, "On ergodicity for multi-dimensional harmonic oscillator systems with Nose-Hoover type thermostat", Regular and Chaotic Dynamics. 26: 183-204 (2021).</li>
    </ol>
 </details>
-
+<br>
 
 # 2020
 <details>
@@ -97,7 +97,7 @@ author_profile: true
     <li>浴本亨, 小甲裕一, 苙口友隆, 池口満徳 "X線小角散乱と分子動力学シミュレーションを組み合わせた生体分子の溶液構造解析" 分子シミュレーション学会誌"アンサンブル", 22, 3, 239-251 (2020).</li>
    </ol>
 </details>
-
+<br>
 
 # 2019
 <details>
@@ -111,7 +111,7 @@ author_profile: true
     1.　T. Yamada, T. Hayashi, S. Hikiri, N. Kobayashi, H. Yanagawa, M. Ikeguchi, M. Katahira, T. Nagata, M. Kinoshita, "How Does the Recently Discovered Peptide MIP Exhibit Much Higher Binding Affinity than an Anticancer Protein p53 for an Oncoprotein MDM2?" J. Chem. Inf. Model., 59, 8, 3533-3544 (2019).</li>
    </ol>
 </details>
-
+<br>
 
 # 2018
 <details>
@@ -132,7 +132,7 @@ author_profile: true
     <li>Kajiwara Y, Yasuda S, Hikiri S, Hayashi T, Ikeguchi M, Murata T, Kinoshita M. , "Physical Origin of Thermostabilization by a Quadruple Mutation for the Adenosine A2a Receptor in the Active State." J Phys. Chem B. , 122(16):4418-4427., (2018).</li>
    </ol>
 </details>
-
+<br>
 
 # 2017
 <details>
@@ -143,7 +143,7 @@ author_profile: true
     <li>Satoshi Ishiyama, Atsuya Nishiyama, Yasushi Saeki, Kei Moritsugu, Daichi Morimoto, Luna Yamaguchi, Naoko Arai, Rumie Matsumura, Toru Kawakami, Yuichi Mishima, Hironobu Hojo, Shintaro Shimamura, Fuyuki Ishikawa, Shoji Tajima, Keiji Tanaka, Mariko Ariyoshi, Masahiro Shirakawa, Mitsunori Ikeguchi, Akinori Kidera, Isao Suetake, Kyohei Arita, and Makoto Nakanishi, "Structure of the H3 ubiquitin code/Dnmt1 reader module complex reveals the basis for DNA methylation maintenance." Molecular Cell, (2017) 68: 350-360. DOI: 10.1016/j.molcel.2017.09.037</li>
    </ol>
 </details>
-
+<br>
 
 # 2016
 <details>
@@ -158,7 +158,7 @@ author_profile: true
     <li>I. Fukuda, K. Moritsugu, "Coupled Nosé-Hoover Equations of Motions: coupling the physical system Nosé-Hoover equation and temperature system Nosé-Hoover equation", Phys. Rev. E, 93, 033306 (2016).</li>
    </ol>
 </details>
-
+<br>
 
 # 2015
 <details>
@@ -174,7 +174,7 @@ author_profile: true
     <li>I. Fukuda, K. Moritsugu, "Double Density Dynamics: Dynamical Realization of Superstatistics", J. Phys. A, 48, 455001 (2015).</li>
    </ol>
 </details>
-
+<br>
 
 # 2014
 <details>
@@ -187,7 +187,7 @@ author_profile: true
     <li>森次 圭 "マルチスケール手法によるタンパク質全原子構造サンプリング" 分子シミュレーション研究会会誌"アンサンブル" 16, 227-233 (2014).</li>
    </ol>
 </details>
-
+<br>
 
 # 2013
 <details>
@@ -203,7 +203,7 @@ author_profile: true
     <li>Y. Naritomi, S. Fuchigami, "Slow dynamics of a protein backbone in molecular dynamics simulation revealed by time-structure based independent component analysis", J. Chem. Phys., 139, 215102 (2013).</li>
    </ol>
 </details>
-
+<br>
 
 # 2012
 <details>
@@ -223,7 +223,7 @@ author_profile: true
     <li>森次 圭 "粗視化モデルを用いたマルチスケールシミュレーションシステムの構築" 生物物理学会誌 52, 26-27 (2012).</li>
    </ol>
 </details>
-
+<br>
 
 # 2011
 <details>
@@ -243,7 +243,7 @@ author_profile: true
     <li>M. Yamamoto, K. Nakagawa, K. Fujiwara, A. Shimizu, M. Ikeguchi, M. Ikeguchi, "A native disulfide stabilizes non-native helical structures in partially folded states of equine β-lactoglobulin.", Biochemistry, 50, 10590-10597 (2011).</li>
    </ol>
 </details>
-
+<br>
 
 # 2010
 <details>
@@ -266,7 +266,7 @@ author_profile: true
     <li>H. Yagi, H. Konno, T. Murakami-Fuse, A. Isu, T. Oroguchi, H. Akutsu, M. Ikeguchi, T. Hisabori, "Structural and functional analysis of the intrinsic inhibitor subunit ε of F1-ATPase from photosynthetic organisms." Biochem. J., 425, 85-94 (2010).</li>
    </ol>
 </details>
-
+<br>
 
 # 2009
 <details>
@@ -278,7 +278,7 @@ author_profile: true
     <li>M. Ikeguchi, Water transport in aquaporins: molecular dynamics simulations. Frontiers in Bioscience, 14, 1283-1291 (2009).</li>
    </ol>
 </details>
-
+<br>
 
 # 2008
 <details>
@@ -290,7 +290,7 @@ author_profile: true
     <li>木寺詔紀, 池口満徳, アクアポリンの水透過過程の比較分子シミュレーション, 生化学, 80, 940-947 (2008).</li>
    </ol>
 </details>
-
+<br>
 
 # 2007
 <details>
@@ -313,7 +313,7 @@ author_profile: true
     <li>太田元規, 池口満徳, "タンパク質フォールディング博物学の曙", 生物物理, 46, 224-227 (2006).</li>
    </ol>
 </details>
-
+<br>
 
 # 2005
 <details>
@@ -330,7 +330,7 @@ author_profile: true
     <li>木寺詔紀、池口満徳、 構造ダイナミクスの理論とシミュレーション、 タンパク質科学－構造・物性・機能 5.2、 化学同人 (2005).</li>
    </ol>
 </details>
-
+<br>
 
 # 2004
 <details>
@@ -346,7 +346,7 @@ author_profile: true
     <li>木寺詔紀、 ナノバイオロジー（書評）、 蛋白質核酸酵素 49, 2269-2270 (2004).</li>
    </ol>
 </details>
-
+<br>
 
 # 2003
 <details>
@@ -362,7 +362,7 @@ author_profile: true
     <li>木寺詔紀、池口満徳、"蛋白質機能発現のダイナミクス的側面"、日本物理学会誌、58, 246-253 (2003).</li>
    </ol>
 </details>
-
+<br>
 
 # 2002
 <details>
@@ -379,7 +379,7 @@ author_profile: true
     <li>池口満徳、木寺詔紀、 化学フロンティア⑦ 生体系のコンピュータシミュレーション、 17章 イオンポンプ、能動輸送、岡崎進、岡本祐幸編、 化学同人 （2002）.</li>
    </ol>
 </details>
-
+<br>
 
 # 2001
 <details>
@@ -403,7 +403,7 @@ author_profile: true
     <li>M. Yoshikawa, H. Iwasaki, K. Kinoshita and H. Shinagawa, "Two basic residues, Lys-107, and Lys-118, of RuvC resolvase are involved in critical contacts with the Holliday junction for its resolution," Genes to Cells, 5 803-813, (2000)</li>
    </ol>
 </details>
-
+<br>
 
 # 1999
 <details>
@@ -423,7 +423,7 @@ author_profile: true
     <li>M. Sekijima, S. Takasaki, S. Nakamura, M. Ikeguchi and K. Shimizu, "Parsley: A Scalable Framework for Dependence-Driven Task Scheduling in Distributed-Memory Multiprocessor Systems," Proceedings of the IASTED International Conference PDCS, 800-805, (1999).</li>
    </ol>
 </details>
-
+<br>
 
 # 1998
 <details>
@@ -444,7 +444,7 @@ author_profile: true
     <li>T. Murata, M. Sekijima, H. Masaki, S. Nakamura, M. Ikeguchi and K. Shimizu, "Parallel Programming Environment with Dependence-Driven Subtask Scheduling: Design and Application to Molecular Dynamics Simulation," Proceedings of the 2nd IASTED International Conference PDCN, 650-653, (1998).</li>
    </ol>
 </details>
-
+<br>
 
 # 1997
 <details>
@@ -460,7 +460,7 @@ author_profile: true
     <li>K. Shimizu, A. Oishi, H. Ashihara, M. Ikeguchi and S. Nakamura, "Design and Implementation of Parallel Programming Environment with Dynamic Resource Management Services," Proceedings of the 12th ISCA International Conference on Computers and Their Applications, 226-231, (1997).</li>
  </ol>
 </details>
-
+<br>
 
 # 1996
 <details>
@@ -477,7 +477,7 @@ author_profile: true
     <li>H. Shirai, A. Kidera, and H. Nakamura, "Structural classification of CDR-H3 in antibodies", FEBS Lett. 399,1-8 (1996).</li>
    </ol>
 </details>
-
+<br>
 
 # 1995
 <details>
@@ -490,3 +490,4 @@ author_profile: true
     <li>H. Hirose, S. Nakamura, M. Ikeguchi, and J. Doi, "Improved Diffusion Equation Method for Large Molecules," in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 49-52, (1995)</li>
    </ol>
 </details>
+<br>
