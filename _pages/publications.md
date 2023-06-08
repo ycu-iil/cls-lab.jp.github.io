@@ -19,9 +19,9 @@ author_profile: true
     <li>Y. Kurihara, <u>T. Ekimoto</u>, C. T. Gordon, Y. Uchijima, R. Sugiyama, T. Kitazawa, A. Iwase, R. Kotani, R. Asai, V. Pingault, <u>M. Ikeguchi</u>, J. Amiel, H. Kurihara, <a href="https://doi.org/10.1172/JCI151536">"Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding,"</a> <em>Journal of Clinical Investigation</em>, 2023.</li>
     <li>K. Sakaniwa, A. Fujimura, T. Shibata, H. Shigematsu, <u>T. Ekimoto</u>, M. Yamamoto, <u>M. Ikeguchi</u>, K. Miyake, U. Ohto, T. Shimizu, <a href="https://doi.org/10.1038/s41467-023-35844-2">"TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction,"</a> <em>Nature Communications</em>, 14, 164, 2023.</li>
     <li>K. Moritsugu, <u>T. Ekimoto</u>, <u>M. Ikeguchi</u>, <u>A. Kidera</u>, <a href="https://doi.org/10.1021/acs.jcim.2c00946">"Binding and Unbinding Pathways of Peptide Substrates on the SARS-CoV-2 3CL Protease,"</a> <em>Journal of Chemical Information and Modeling</em>, 63, 1, 240-250, 2023.</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 # 2022
 <details>
@@ -54,9 +54,9 @@ author_profile: true
     <li>Wei-Hsun Hu, Ta-Te Chen, Ryo Tamura, <u>Kei Terayama</u>, Siqian Wang, Ikumu Watanabe, Masanobu Naito, <a href="https://www.tandfonline.com/doi/full/10.1080/14686996.2021.2025426">"Topological alternation from structurally adaptable to mechanically stable crosslinked polymer,"</a> <em>Science and Technology of Advanced Materials</em>, Vol.23, No.1, pp.66-75, 2022.</li>
     <li><u>K. Terayama</u>, K. Mizuno, S. Tabeta, S. Sakamoto, Y. Sugimoto, K. Sugimoto, H. Fukami, M. Sakagami, L. A. Jimenez, <a href="https://doi.org/10.1111/2041-210X.13744">"Cost-effective seafloor habitat mapping using a portable speedy sea scanner and deep-learning-based segmentation: A sea trial at Pujada Bay, Philippines,"</a> <em>Methods in Ecology and Evolution</em>, Vol.13, No.2, pp.339-345, 2022.</li>
     <li><u>K. Terayama</u>, K. Han, R. Katsube, I. Ohnuma, T. Abe, Y. Nose, R. Tamura, <a href="https://www.sciencedirect.com/science/article/pii/S1359646221006151">"Acceleration of phase diagram construction by machine learning incorporating Gibbs' phase rule,"</a> <em>Scripta Materialia</em>, Vol. 28, 114335, 2022.</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 # 2021
 <details>
@@ -84,9 +84,9 @@ author_profile: true
     <li>H. Hagihara, N. Ienaga, <u>K. Terayama</u>, Y. Moriguchi, M. A. Sakagami, "Looking represents choosing in toddlers: Exploring the equivalence between multimodal measures in forced-choice tasks." Infancy. 26(1):148-167 (2021).</li>
     <li>N. Ienaga, K. Higuchi, T. Takashi, K. Gen, K. Tsuda, <u>K. Terayama</u>, "Vision-based egg quality prediction in Pacific bluefin tuna (Thunnus orientalis) by deep neural network." Sci Rep. 11(1):6 (2021).</li>
     <li>I. Fukuda, <u>K. Moritsugu</u> and Y. Fukunishi, "On ergodicity for multi-dimensional harmonic oscillator systems with Nose-Hoover type thermostat", Regular and Chaotic Dynamics. 26: 183-204 (2021).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2020
@@ -112,9 +112,9 @@ author_profile: true
     <li>H. Hagihara, N. Ienaga, D. Enomoto, S. Takahata, H. Ishihara, H. Noda, K. Tsuda, and K. Terayama, "Computer Vision-Based Approach for Quantifying Occupational Therapists' Qualitative Evaluations of Postural Control." Occup Ther Int, vol.2020, Article ID 8542191, 9 pages (2020).</li>
     <li>R. Kanada, A. Tokuhisa, K. Tsuda, Y. Okuno, K. Terayama, "Exploring Successful Parameter Region for Coarse-Grained Simulation of Biomolecules by Bayesian Optimization and Active Learning." Biomolecules, 10(3), 482, (2020).</li>
     <li>浴本亨, 小甲裕一, 苙口友隆, 池口満徳 "X線小角散乱と分子動力学シミュレーションを組み合わせた生体分子の溶液構造解析" 分子シミュレーション学会誌"アンサンブル", 22, 3, 239-251 (2020).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2019
@@ -128,9 +128,9 @@ author_profile: true
     <li>T. Ekimoto, Y. Kokabu, T. Oroguchi, M. Ikeguchi, "Combination of coarse-grained molecular dynamics simulations and small-angle x-ray scattering experiments." Biophys. Physicobiol. 16, 377-390 (2019).</li>
     <li>S Chiba, Y Okuno, T Honma, M Ikeguchi, "Force-field parametrization based on radial and energy distribution functions." J Comput. Chem., 5, 40, 29, 2577-2585 (2019).</li>
     1.　T. Yamada, T. Hayashi, S. Hikiri, N. Kobayashi, H. Yanagawa, M. Ikeguchi, M. Katahira, T. Nagata, M. Kinoshita, "How Does the Recently Discovered Peptide MIP Exhibit Much Higher Binding Affinity than an Anticancer Protein p53 for an Oncoprotein MDM2?" J. Chem. Inf. Model., 59, 8, 3533-3544 (2019).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2018
@@ -151,9 +151,9 @@ author_profile: true
     <li>S Hikiri, T Hayashi , M Ikeguchi , M Kinoshita. , "Statistical thermodynamics for the unexpectedly large difference between disaccharide stereoisomers in terms of solubility in water." Phys Chem Chem Phys , 20(36):23684-23693 , (2018).</li>
     <li>Isobe Y, Itagaki M, Ito Y, Naoe S, Kojima K, Ikeguchi M, Arita M. "Comprehensive analysis of the mouse cytochrome P450 family responsible for omega-3 epoxidation of eicosapentaenoic acid." Sci Rep , 8(1):7954. , (2018).</li>
     <li>Kajiwara Y, Yasuda S, Hikiri S, Hayashi T, Ikeguchi M, Murata T, Kinoshita M. , "Physical Origin of Thermostabilization by a Quadruple Mutation for the Adenosine A2a Receptor in the Active State." J Phys. Chem B. , 122(16):4418-4427., (2018).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2017
@@ -164,9 +164,9 @@ author_profile: true
     <li>Y. Isaka, T. Ekimoto, Y. Kokabu, I. Yamato, T. Murata, M. Ikeguchi, "Rotation Mechanism of Molecular Motor V1-ATPase Studied by Multiscale Molecular Dynamics Simulation", Biophys. J., 112, 911-920 (2017).</li>
     <li>K. Moritsugu, T. Terada, A. Kidera, "Free-Energy Landscape of Protein-Ligand Interactions Coupled with Protein Structural Changes,", J. Phys. Chem. B, 121, 731-740 (2017).</li>
     <li>Satoshi Ishiyama, Atsuya Nishiyama, Yasushi Saeki, Kei Moritsugu, Daichi Morimoto, Luna Yamaguchi, Naoko Arai, Rumie Matsumura, Toru Kawakami, Yuichi Mishima, Hironobu Hojo, Shintaro Shimamura, Fuyuki Ishikawa, Shoji Tajima, Keiji Tanaka, Mariko Ariyoshi, Masahiro Shirakawa, Mitsunori Ikeguchi, Akinori Kidera, Isao Suetake, Kyohei Arita, and Makoto Nakanishi, "Structure of the H3 ubiquitin code/Dnmt1 reader module complex reveals the basis for DNA methylation maintenance." Molecular Cell, (2017) 68: 350-360. DOI: 10.1016/j.molcel.2017.09.037</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2016
@@ -181,9 +181,9 @@ author_profile: true
     <li>Y. Anami, N. Shimizu, T. Ekimoto, D. Egawa, T. Itoh, M. Ikeguchi, K. Yamamoto, "Apo- and antagonist-binding structures of vitamin D receptor ligand-binding domain revealed by hybrid approach combining small-angle X-ray scattering and molecular dynamics", J. Med. Chem., 59, 7888-7900 (2016).</li>
     <li>H. Shimojo, A. Kawaguchi, T. Oda, N. Hashiguchi, S. Omori, K. Moritsugu, A. Kidera, K. Hiragami-Hamada, J. Nakayama, M. Sato, Y. Nishimura, "Extended string-like binding of the phosphorylated HP1α N-terminal tail to the lysine 9-methylated histone H3 tail", Sci. Rep., 6, 22527 (2016).</li>
     <li>I. Fukuda, K. Moritsugu, "Coupled Nosé-Hoover Equations of Motions: coupling the physical system Nosé-Hoover equation and temperature system Nosé-Hoover equation", Phys. Rev. E, 93, 033306 (2016).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2015
@@ -199,9 +199,9 @@ author_profile: true
     <li>K. Moritsugu, R. Koike, K. Yamada, H. Kato, A. Kidera, "Motion Tree delineates hierarchical structure of protein dynamics observed in molecular dynamics simulation", PLoS ONE, 10, e0131583 (2015).</li>
     <li>H. Fujisaki, K. Moritsugu, Y. Matsunaga, T. Morishita, L. Maragliano, "Extended phase-space methods for enhanced sampling in molecular simulations: a review", Frontiers in Bioengineering and Biotechnology, 3, 125 (2015).</li>
     <li>I. Fukuda, K. Moritsugu, "Double Density Dynamics: Dynamical Realization of Superstatistics", J. Phys. A, 48, 455001 (2015).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2014
@@ -214,9 +214,9 @@ author_profile: true
     <li>K. Moritsugu, T. Terada, A. Kidera, "Energy landscape of all-atom protein-protein interactions revealed by multiscale enhanced sampling", PLoS Comput. Biol., 10, e1003901 (2014).</li>
     <li>K. Moritsugu, T. Terada, A. Kidera, "Multiscale enhanced sampling driven by multiple coarse-grained models", Chem. Phys. Lett., 616, 20-24 (2014).</li>
     <li>森次 圭 "マルチスケール手法によるタンパク質全原子構造サンプリング" 分子シミュレーション研究会会誌"アンサンブル" 16, 227-233 (2014).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2013
@@ -232,9 +232,9 @@ author_profile: true
     <li>Y. Ida, A. Kidera, "The conserved Arg241-Glu439 salt bridge determines flexibility of the inositol 1,4,5-trisphosphate receptor binding core in the ligand-free state", Proteins, 81, 1699-1708 (2013).</li>
     <li>T. Yamane, S. Murakami, M. Ikeguchi, "Functional rotation induced by alternating protonation states in the multidrug transporter AcrB: All-atom molecular dynamics simulations", Biochemistry, 52, 7648-7658 (2013).</li>
     <li>Y. Naritomi, S. Fuchigami, "Slow dynamics of a protein backbone in molecular dynamics simulation revealed by time-structure based independent component analysis", J. Chem. Phys., 139, 215102 (2013).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2012
@@ -254,9 +254,9 @@ author_profile: true
     <li>M. Tanigawara, K. V. Tabata, Y. Ito, J. Ito, R. Watanabe, H. Ueno, M. Ikeguchi, H. Noji, "Role of the DELSEED loop in torque transmission of F1-ATPase", Biophys. J., 103, 970-978 (2012).</li>
     <li>Y. Matsunaga, R. Koike, M. Ota, J. R. Tame, A. Kidera, "Influence of structural symmetry on protein dynamics", PLoS One, 7, e50011 (2012).</li>
     <li>森次 圭 "粗視化モデルを用いたマルチスケールシミュレーションシステムの構築" 生物物理学会誌 52, 26-27 (2012).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2011
@@ -276,9 +276,9 @@ author_profile: true
     <li>K. M. Downard, Y. Kokabu, M. Ikeguchi, S. Akashi, "Homology-modelled structure of the βB2B3-crystallin heterodimer studied by ion mobility and radical probe MS.", FEBS J., 278, 4044-4054 (2011).</li>
     <li>Y. Kokabu, Y. Murayama, N. Kuwabara, T. Oroguchi, H. Hashimoto, Y. Tsutsui, N. Nozaki, S. Akashi, S. Unzai, T. Shimizu, H. Iwasaki, M. Sato, M. Ikeguchi, "Fission yeast Swi5-Sfr1 protein complex, an activator of Rad51 recombinase, forms an extremely elongated dogleg-shaped structure.", J. Biol. Chem., 286, 43569-43576 (2011).</li>
     <li>M. Yamamoto, K. Nakagawa, K. Fujiwara, A. Shimizu, M. Ikeguchi, M. Ikeguchi, "A native disulfide stabilizes non-native helical structures in partially folded states of equine β-lactoglobulin.", Biochemistry, 50, 10590-10597 (2011).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2010
@@ -301,9 +301,9 @@ author_profile: true
     <li>Y. Ito, M. Ikeguchi, "Structural fluctuation and concerted motions in F1-ATPase: a molecular dynamics study." J. Comput. Chem., in press.</li>
     <li>I. Yanagihara, K. Nakahira, T. Yamane, S. Kaieda, K. Mayanagi, D. Hamada, T. Fukui, K. Ohnishi, S.i. Kajiyama, T. Shimizu, M. Sato, T. Ikegami, M. Ikeguchi, T. Honda, H. Hashimoto, "Structure and Functional Characterization of Vibrio parahaemolyticus Thermostable Direct Hemolysin (TDH). J. Biol. Chem., in press.</li>
     <li>H. Yagi, H. Konno, T. Murakami-Fuse, A. Isu, T. Oroguchi, H. Akutsu, M. Ikeguchi, T. Hisabori, "Structural and functional analysis of the intrinsic inhibitor subunit ε of F1-ATPase from photosynthetic organisms." Biochem. J., 425, 85-94 (2010).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2009
@@ -315,9 +315,9 @@ author_profile: true
     <li>T. Oroguchi, H. Hashimoto, T. Shimizu, M. Sato, and M. Ikeguchi, "Intrinsic dynamics of restriction endonuclease EcoO109I studied by molecular dynamics simulations and X-Ray scattering data analysis." Biophys. J., 96, 2808-2822 (2009).</li>
     <li>T. Yoshidome, K. Oda, Y. Harano, R. Roth, Y. Sugita, M. Ikeguchi, M. Kinoshita, "Free-energy function based on an all-atom model for proteins." Proteins: Structure, Function, and Bioinformatics, 77, 950-961 (2009).</li>
     <li>M. Ikeguchi, Water transport in aquaporins: molecular dynamics simulations. Frontiers in Bioscience, 14, 1283-1291 (2009).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2008
@@ -329,9 +329,9 @@ author_profile: true
     <li>T. Yamane, H. Okamura, M. Ikeguchi, Y. Nishimura, A. Kidera, "Water-mediated interactions between DNA and PhoB DNA-binding/transactivation domain: NMR-restrained molecular dynamics in explicit water environment." Proteins: Structure, Function, and Bioinformatics, 71, 1970-1983 (2008).</li>
     <li>池口満徳, "水を輸送する分子マシン アクアポリンの分子シミュレーション", "最新分子マシン ナノで働く"高度な機械"を目指して", 化学同人編集部, 化学同人, 132-137 (2008).</li>
     <li>木寺詔紀, 池口満徳, アクアポリンの水透過過程の比較分子シミュレーション, 生化学, 80, 940-947 (2008).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2007
@@ -354,9 +354,9 @@ author_profile: true
     <li>杉田有治, 池口満徳, "脂質二重膜・膜蛋白質の分子動力学計算", 物性研究, 86, 157-197 (2006).</li>
     <li>池口満徳, 木寺詔紀, "蛋白質構造変化の源はゆらぎ-分子結合に伴う蛋白質立体構造変化の理論-", 蛋白質核酸酵素, 51, 268-273 (2006).</li>
     <li>太田元規, 池口満徳, "タンパク質フォールディング博物学の曙", 生物物理, 46, 224-227 (2006).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2006
@@ -370,9 +370,9 @@ author_profile: true
     <li>杉田有治, 池口満徳, "脂質二重膜・膜蛋白質の分子動力学計算", 物性研究, 86, 157-197 (2006).</li>
     <li>池口満徳, 木寺詔紀, "蛋白質構造変化の源はゆらぎ-分子結合に伴う蛋白質立体構造変化の理論-", 蛋白質核酸酵素, 51, 268-273 (2006).</li>
     <li>太田元規, 池口満徳, "タンパク質フォールディング博物学の曙", 生物物理, 46, 224-227 (2006).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2005
@@ -389,9 +389,9 @@ author_profile: true
     <li>木寺詔紀、 二重動的計画法、分子動力学・モンテカルロ法、弾性ネットワーク、 バイオインフォマティクス事典、 共立出版 （2005）.</li>
     <li>木寺詔紀、 蛋白質間相互作用、 生物物理学ハンドブック、 朝倉書店 II-10 (2005).</li>
     <li>木寺詔紀、池口満徳、 構造ダイナミクスの理論とシミュレーション、 タンパク質科学－構造・物性・機能 5.2、 化学同人 (2005).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2004
@@ -407,9 +407,9 @@ author_profile: true
     <li>J. G. Kim, Y. Fukunishi, A. Kidera and H. Nakamura, "Generalized simulated tempering realized on expanded ensembles of non-Boltzmann weights.", J. Chem. Phys. 121, 5590-5601 (2004).</li>
     <li>M. Ota, M. Ikeguchi and A. Kidera, "Phylogeny of protein folding trajectories reveals a unique pathway to native structure.", Proc. Natl. Acad. Sci. USA 101, 17658-17663 (2004).</li>
     <li>木寺詔紀、 ナノバイオロジー（書評）、 蛋白質核酸酵素 49, 2269-2270 (2004).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2003
@@ -425,9 +425,9 @@ author_profile: true
     <li>K. Moritsugu, O. Miyashita and A. Kidera, "Temperature dependence of vibrational energy transfer in a protein molecule.", J. Phys. Chem. B 107, 3309-3317 (2003).</li>
     <li>J. G. Kim, Y. Fukunishi, A. Kidera and H. Nakamura, "Determination of multicanonical weight based on a stochastic model of sampling dynamics.", Physical Review E 68, 021110 1-8 (2003).</li>
     <li>木寺詔紀、池口満徳、"蛋白質機能発現のダイナミクス的側面"、日本物理学会誌、58, 246-253 (2003).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2002
@@ -444,9 +444,9 @@ author_profile: true
     <li>木寺詔紀、 立体構造の類似性を知る、 あなたにも役立つ　バイオインフォマティクス　第8章、 共立出版　61-68 (2002).</li>
     <li>木寺詔紀、 タンパク質結晶構造解析に見るダイナミクス、 シリーズ・ニューバイオ フィジックス II「生物物理学とはなにか　－未解決問題への挑戦－」第1章1-2タンパク質、 共立出版 (2002).</li>
     <li>池口満徳、木寺詔紀、 化学フロンティア⑦ 生体系のコンピュータシミュレーション、 17章 イオンポンプ、能動輸送、岡崎進、岡本祐幸編、 化学同人 （2002）.</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2001
@@ -470,9 +470,9 @@ author_profile: true
     <li>K. Moritsugu, O. Miyashita and A. Kidera, "Vibrational Energy Transfer in a Protein Molecule," Phys. Rev. Lett., 85, 3970-3973 (2000).</li>
     <li>S. Takasaki, M. Sekijima, S. Nakamura, M. Ikeguchi and K. Shimizu, "Scheduling Policy and Mechanism of Parsley, A Parallel Programming Environment," Proceedings of 12th IASTED International Conference PDCS, 605-610, (2000).</li>
     <li>M. Yoshikawa, H. Iwasaki, K. Kinoshita and H. Shinagawa, "Two basic residues, Lys-107, and Lys-118, of RuvC resolvase are involved in critical contacts with the Holliday junction for its resolution," Genes to Cells, 5 803-813, (2000)</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 2000
@@ -486,9 +486,9 @@ author_profile: true
     <li>K. Moritsugu, O. Miyashita and A. Kidera, "Vibrational Energy Transfer in a Protein Molecule," Phys. Rev. Lett., 85, 3970-3973 (2000).</li>
     <li>S. Takasaki, M. Sekijima, S. Nakamura, M. Ikeguchi and K. Shimizu, "Scheduling Policy and Mechanism of Parsley, A Parallel Programming Environment," Proceedings of 12th IASTED International Conference PDCS, 605-610, (2000).</li>
     <li>M. Yoshikawa, H. Iwasaki, K. Kinoshita and H. Shinagawa, "Two basic residues, Lys-107, and Lys-118, of RuvC resolvase are involved in critical contacts with the Holliday junction for its resolution," Genes to Cells, 5 803-813, (2000)</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 1999
@@ -508,9 +508,9 @@ author_profile: true
     <li>S. Nakamura, M. Ikeguchi and K. Shimizu, "Structural Modeling of DNA Mini-Hairpin Molecules with Various Loop Sequences," Chem. Phys. Lett., 308, 267-273 (1999).</li>
     <li>M. Ikeguchi, S. Nakamura, and K. Shimizu, "Hydrophobic Effects: Roles of Water and Denaturants," in "Old and New Views of Protein Folding", Proceedings of Taniguchi International Symposium, Elsevier Science B.V., 195-204 (1999).</li>
     <li>M. Sekijima, S. Takasaki, S. Nakamura, M. Ikeguchi and K. Shimizu, "Parsley: A Scalable Framework for Dependence-Driven Task Scheduling in Distributed-Memory Multiprocessor Systems," Proceedings of the IASTED International Conference PDCS, 800-805, (1999).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 1998
@@ -531,9 +531,9 @@ author_profile: true
     <li>S. Shimizu, M. Ikeguchi, S. Nakamura and K. Shimizu, "Molecular Volume, Surface Area, and Curvature Dependence of the Configurational Entropy Change upon Solvation: Effects of Molecular Bonding," Chem. Phys. Lett., 284, 235-246, (1998).</li>
     <li>J. Sagara, S. Shimizu, T. Kawabata, S. Nakamura, M. Ikeguchi and K. Shimizu, "The Use of Sequence Comparison to Detect Identities in tRNA Genes," Nucleic Acid Research, 26, 1974-1979 (1998).</li>
     <li>T. Murata, M. Sekijima, H. Masaki, S. Nakamura, M. Ikeguchi and K. Shimizu, "Parallel Programming Environment with Dependence-Driven Subtask Scheduling: Design and Application to Molecular Dynamics Simulation," Proceedings of the 2nd IASTED International Conference PDCN, 650-653, (1998).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 1997
@@ -549,8 +549,9 @@ author_profile: true
     <li>N. Nakajima, J. Higo, A. Kidera, and H. Nakamura, "Flexible docking of a ligand peptide to a receptor protein by multicanocnical molecular dynamics simulation", Chem. Phys. Lett., 278, 297-301 (1997) .</li>
     <li>S. Shimizu, M. Ikeguchi and K. Shimizu, "Extracting Contact Free Energy from Solubility: Excluded Volume Effects of Polymers in Continuum Space," Chem. Phys. Lett., 268, 93-100 (1997).</li>
     <li>K. Shimizu, A. Oishi, H. Ashihara, M. Ikeguchi and S. Nakamura, "Design and Implementation of Parallel Programming Environment with Dynamic Resource Management Services," Proceedings of the 12th ISCA International Conference on Computers and Their Applications, 226-231, (1997).</li>
- </ol>
+  </ol>
 </details>
+<p></p>
 
 
 # 1996
@@ -567,9 +568,9 @@ author_profile: true
     <li>N. Nakajima, H. Nakamura, and A. Kidera, "Multicanonical ensemble generated by molecular dynamics simulation for enhanced conformational sampling of peptides", J. Phys. Chem. 101, 817-824 (1996)</li>
     <li>T. Ookawa, D. Namihira, N. Komoda, A. Kidera, H. Nakamura, "Protein structure classification by structure transformation", Proc.IEEE International Joint Symposia on Intelligence and Systems, 23-29 (1996) November 4-5, 1996. Rockville, Maryland, IEEE Comput. Soc. Press</li>
     <li>H. Shirai, A. Kidera, and H. Nakamura, "Structural classification of CDR-H3 in antibodies", FEBS Lett. 399,1-8 (1996).</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
 
 
 # 1995
@@ -582,6 +583,6 @@ author_profile: true
     <li>M. Ikeguchi and J. Doi, "Direct Numerical Solution of the Ornstein-Zernike Integral Equation and Spatial Distribution of Water around Hydrophobic Molecules," J Chem. Phys., 102, 5011-5017, (1995).</li>
     <li>T. Izumitani, K. Tazaki, T. Kawabata, M. Ikeguchi, J. Doi, "Conformational Path of TRP Repressor, in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 45-48, (1995)</li>
     <li>H. Hirose, S. Nakamura, M. Ikeguchi, and J. Doi, "Improved Diffusion Equation Method for Large Molecules," in "Perspective on Protein Engineering & Complementary Technologies", Mayflower Worldwide Limited, 49-52, (1995)</li>
-   </ol>
-   <p></p>
+  </ol>
 </details>
+<p></p>
