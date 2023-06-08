@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010), [2009](#2009), [2008](#2008), [2007](#2007), [2006](#2006), [2005](#2005), [2004](#2004), [2003](#2003), [2002](#2002), [2001](#2001), [2000](#2000), [1999](#1999), [1998](#1998), [1997](#1997), [1999](#1996), [1995](#1995) 
+[2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010), [2009](#2009), [2008](#2008), [2007](#2007), [2006](#2006), [2005](#2005), [2004](#2004), [2003](#2003), [2002](#2002), [2001](#2001), [2000](#2000), [1999](#1999), [1998](#1998), [1997](#1997), [1996](#1996), [1995](#1995) 
 
 
 # 2023
@@ -326,6 +326,20 @@ author_profile: true
 </details>
 <br>
 
+# 2006
+<details>
+  <summary>クリックして表示/非表示</summary>
+  <ol>
+    <li>Y. Sugita, N. Miyashita, T. Yoda, M. Ikeguchi, C. Toyoshima, "Structural changes of the cytoplasmic domain of phospholamban by phosphorylation at Ser16: a molecular dynamics study", Biochemistry, 45, 11752-11761 (2006).</li>
+    <li>S. Ki, F. Sugihara, K. Kasahara, H. Tochio, A. Okada-Marubayashi, S. Tomita, M. Morita, M. Ikeguchi, M. Shirakawa, T. Kokubo, "A novel magnetic resonance-based method to measure gene expression in living cells", Nucl. Acids Res., 34, e51 (2006).</li>
+    <li>池口満徳, 木寺詔紀, "タンパク質構造変化の理論：平衡ゆらぎと線形応答理論", 生物物理, 46, 275-278 (2006).</li>
+    <li>杉田有治, 池口満徳, "脂質二重膜・膜蛋白質の分子動力学計算", 物性研究, 86, 157-197 (2006).</li>
+    <li>池口満徳, 木寺詔紀, "蛋白質構造変化の源はゆらぎ-分子結合に伴う蛋白質立体構造変化の理論-", 蛋白質核酸酵素, 51, 268-273 (2006).</li>
+    <li>太田元規, 池口満徳, "タンパク質フォールディング博物学の曙", 生物物理, 46, 224-227 (2006).</li>
+   </ol>
+</details>
+<br>
+
 # 2005
 <details>
   <summary>クリックして表示/非表示</summary>
@@ -408,6 +422,20 @@ author_profile: true
     # 2000</li>
     <li>N. Nakajima, J. Higo, A. Kidera, and H. Nakamura, "Free energy landscapes of short peptides by enhanced conformational sampling," J. Mol. Biol., 296, 197-218 (2000).</li>
     <li>A. R. Kinjo, A. Kidera, H. Nakamura, and K. Nishikawa, "Physico-chemical evaluation of protein folds predicted by threading," European Biophysics J., 30, 1-10 (2000)</li>
+    <li>Y. Ikeda, M. Inaki, A. Kidera, and H. Hayashi, "Physically crosslinked elastomers prepared from oligomeric polyolefins with mesogenic units.," J. Polymer Science, Part B: Plymer Physics, 38, 2247-2253 (2000).</li>
+    <li>K. Moritsugu, O. Miyashita and A. Kidera, "Vibrational Energy Transfer in a Protein Molecule," Phys. Rev. Lett., 85, 3970-3973 (2000).</li>
+    <li>S. Takasaki, M. Sekijima, S. Nakamura, M. Ikeguchi and K. Shimizu, "Scheduling Policy and Mechanism of Parsley, A Parallel Programming Environment," Proceedings of 12th IASTED International Conference PDCS, 605-610, (2000).</li>
+    <li>M. Yoshikawa, H. Iwasaki, K. Kinoshita and H. Shinagawa, "Two basic residues, Lys-107, and Lys-118, of RuvC resolvase are involved in critical contacts with the Holliday junction for its resolution," Genes to Cells, 5 803-813, (2000)</li>
+   </ol>
+</details>
+<br>
+
+# 2000
+<details>
+  <summary>クリックして表示/非表示</summary>
+  <ol>
+    <li>N. Nakajima, J. Higo, A. Kidera, and H. Nakamura, "Free energy landscapes of short peptides by enhanced conformational sampling," J. Mol. Biol., 296, 197-218 (2000).</li>
+    <li>A. R. Kinjo, A. Kidera, H. Nakamura, and K. Nishikawa, "Physico-chemical evaluation of protein folds predicted by threading," European Biophysics J., 30, 1-10 (2000).</li>
     <li>Y. Ikeda, M. Inaki, A. Kidera, and H. Hayashi, "Physically crosslinked elastomers prepared from oligomeric polyolefins with mesogenic units.," J. Polymer Science, Part B: Plymer Physics, 38, 2247-2253 (2000).</li>
     <li>K. Moritsugu, O. Miyashita and A. Kidera, "Vibrational Energy Transfer in a Protein Molecule," Phys. Rev. Lett., 85, 3970-3973 (2000).</li>
     <li>S. Takasaki, M. Sekijima, S. Nakamura, M. Ikeguchi and K. Shimizu, "Scheduling Policy and Mechanism of Parsley, A Parallel Programming Environment," Proceedings of 12th IASTED International Conference PDCS, 605-610, (2000).</li>
