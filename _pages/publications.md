@@ -14,6 +14,7 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
+    <li><u>S. Ishida</u>, T. Aasawat, M. Sumita, M. Katouda, <u>T. Yoshizawa</u>, K. Yoshizoe, K. Tsuda, <u>K. Terayama</u>. <a href="https://doi.org/10.1002/wcms.1680">"ChemTSv2: Functional molecular design using de novo molecule generator,"</a> <em>WIREs Computational Molecular Science</em>, e1680, 2023.</li>
     <li>G. Deffrennes, <u>K. Terayama</u>, T. Abe, E. Ogamino, R. Tamura. <a href="https://doi.org/10.1016/j.matdes.2023.112111">"A framework to predict binary liquidus by combining machine learning and CALPHAD assessments,"</a> <em>Materials & Design</em>, 112111, 2023.</li>
     <li>S. Matsumoto, <u>S. Ishida</u>, <u>K. Terayama</u>, Y. Okuno. <a href="https://doi.org/10.2142/biophysico.bppb-v20.0022">"Quantitative analysis of protein dynamics using a deep learning technique combined with experimental cryo-EM density data and MD simulations,"</a> <em>Biophysics and Physicobiology</em>, e200022, 2023.</li>
     <li><u>高畑 脩平</u>, 榎本 大貴, 田村 亮太, 野田 遥, <u>石田 祥一</u>, <u>寺山 慧</u>. 読み書き困難児の包括的・網羅的スクリーニング検査の開発にむけた予備的研究. 日本発達系作業療法学会誌 10(1), 15-23, 2023.</li>
