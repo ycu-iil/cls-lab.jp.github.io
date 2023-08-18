@@ -10,6 +10,8 @@ author_profile: true
 
 # 過去のNews
 
+- 【研究】禾研（横浜市大）との共同研究で、卒業生の 下地恵令奈 さんの卒業・修士論文研究が、「Hybrid in vitro/in silico analysis of low-affinity protein-protein interactions that regulate signal transduction by Sema6D」として[*Protein Science*](https://onlinelibrary.wiley.com/doi/10.1002/pro.4452)誌に掲載されました！[2022/10/3]
+
 - 【研究】卒業生 大崎和さんの修士論文研究が 「3D-RISM-AI: Machine learning approach to predict protein-ligand binding affinity using 3D-RISM」として[*The Journal of Physical Chemistry B*](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03384)誌に掲載されました！ [2022/8/17]
 
 - 【研究】清水研（東大）との共同研究「Structure of SARS-CoV-2 membrane protein essential for virus assembly」が[*Nature communications*](https://www.nature.com/articles/s41467-022-32019-3)誌に掲載されました。[2022/8/5]
