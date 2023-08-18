@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【研究】薬から材料まで様々な有機小分子を設計できる分子設計人工知能パッケージChemTSv2を開発し、公開しました！本研究成果は、[*WIREs Computational Molecular Science*](https://doi.org/10.1002/wcms.1680)誌に掲載されました。（[解説](https://www.yokohama-cu.ac.jp/news/2023/20230818terayama.html)）[2023/8/18]
+
 - 【学生】本研究室に新たに修士課程4名、博士後期課程4名が配属されました。本年度も宜しくお願い致します！[2023/4/6]
 
 - 【学生】令和4年度修了・卒業式が行われ、本研究室から学部生4名、修士課程3名が卒業されました。ご卒業された皆様おめでとうございます! [2023/3/24]
@@ -28,8 +30,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【学生の活躍・研究】吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！[研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)で紹介されました。[2022/11/24]
 
 - 【学生の活躍・研究】中川真由子さん(M2)が情報計算科学生物(CBI)学会2022年大会でエクセレントポスター賞を受賞しました! [研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221116nakagawa.html)で紹介されました。 [2022/11/16]
-
-- 【研究】禾研（横浜市大）との共同研究で、卒業生の 下地恵令奈 さんの卒業・修士論文研究が、「Hybrid in vitro/in silico analysis of low-affinity protein-protein interactions that regulate signal transduction by Sema6D」として[*Protein Science*](https://onlinelibrary.wiley.com/doi/10.1002/pro.4452)誌に掲載されました！[2022/10/3]
 
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
