@@ -14,6 +14,7 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
+    <li>S. Nojima, <u>T. Kadoi</u>, A. Suzuki, <u>C. Kato</u>, <u>S. Ishida</u>, K. Kido, K. Fujita, Y. Okuno, M. Hirokawa, <u>K. Terayama</u>, E. Morii. <a href="https://doi.org/10.1016/j.modpat.2023.100296">"Deep Learning-Based Differential Diagnosis of Follicular Thyroid Tumors Using Histopathological Images"</a> <em>Modern Pathology</em>, 36(11), 100296, 2023.</li>
     <li><u>Y. Murakami</u>, <u>S. Ishida</u>, Y. Demizu, <u>K. Terayama</u>. <a href="https://doi.org/10.1039/D3DD00090G">"Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation,"</a> <em>Digital Discovery</em>, 2023.</li>
     <li><u>S. Ishida</u>, T. Aasawat, M. Sumita, M. Katouda, <u>T. Yoshizawa</u>, K. Yoshizoe, K. Tsuda, <u>K. Terayama</u>. <a href="https://doi.org/10.1002/wcms.1680">"ChemTSv2: Functional molecular design using de novo molecule generator,"</a> <em>WIREs Computational Molecular Science</em>, e1680, 2023.</li>
     <li>G. Deffrennes, <u>K. Terayama</u>, T. Abe, E. Ogamino, R. Tamura. <a href="https://doi.org/10.1016/j.matdes.2023.112111">"A framework to predict binary liquidus by combining machine learning and CALPHAD assessments,"</a> <em>Materials & Design</em>, 112111, 2023.</li>
