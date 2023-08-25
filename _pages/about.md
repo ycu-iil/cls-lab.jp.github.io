@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+-  【学生の活躍・研究】村上優貴さん(M2)が筆頭著者の論文が "Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation" として*Digital Discovery*誌に掲載されました！([解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230824murakamiyuuki.html?channel=main))
+
 - 【研究】薬から材料まで様々な有機小分子を設計できる分子設計人工知能パッケージChemTSv2を開発し、公開しました！本研究成果は、[*WIREs Computational Molecular Science*](https://doi.org/10.1002/wcms.1680)誌に掲載されました。（[解説](https://www.yokohama-cu.ac.jp/news/2023/20230818terayama.html)）[2023/8/18]
 
 - 【学生】本研究室に新たに修士課程4名、博士後期課程4名が配属されました。本年度も宜しくお願い致します！[2023/4/6]
