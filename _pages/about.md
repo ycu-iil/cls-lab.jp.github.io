@@ -15,7 +15,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
-- 【学生】村上優貴さん(M2)が2024年度採用分日本学術振興会特別研究員（DC1）に採用が内定しました。
+- 【学生】村上優貴さん(M2)が2024年度採用分日本学術振興会特別研究員（DC1）に採用内定しました。
 
 -  【学生の活躍・研究】村上優貴さん(M2)が筆頭著者の論文が "Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation" として*Digital Discovery*誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230824murakamiyuuki.html?channel=main)）[2023/8/24]
 
