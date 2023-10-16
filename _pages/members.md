@@ -5,7 +5,7 @@ permalink: /members/
 author_profile: true
 ---
 
-2023年04月1日現在  
+2023年10月1日現在  
 
 # スタッフ
 - 教授 池口満徳 [(個人ページ)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Ikeguchi/index.html)<br>
