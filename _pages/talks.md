@@ -108,6 +108,30 @@ author_profile: true
 
 ## 2023
 
+- AI時代の分子シミュレーション (Molecular Simulation in the AI Era)
+  - 〇池口満徳
+  - 情報計算科学生物学会2023年大会(CBI2023)、IL01-04、タワーホール船堀、2023年10月23-26日
+ 
+- マルコフ状態遷移モデルを用いた上皮成長因子受容体キナーゼの活性化メカニズムの研究 (A study of activation mechanism of epidermal growth factor receptor kinase using Markov state model)
+  - 〇井上雅郎
+  - 情報計算科学生物学会2023年大会(CBI2023)、S01-01、タワーホール船堀、2023年10月23-26日
+
+- 複合現実空間で体験する化学反応ネットワークの対話操作 (Exploring Chemical Reaction Network Through Mixed-Reality Interaction)
+  - 〇石田祥一
+  - 情報計算科学生物学会2023年大会(CBI2023)、FS04-02、タワーホール船堀、2023年10月23-26日
+ 
+- Multi-objective Molecular Structure Generation Using Dynamic Applicability Domains Adaptation
+  - 〇Tatsuya Yoshizawa, Shoich Ishida, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama
+  - 情報計算科学生物学会2023年大会(CBI2023)、O03-03、タワーホール船堀、2023年10月23-26日
+ 
+- Evaluation of MD-based high-throughput screening methods using supercomputer Fugaku
+  - 〇Tomoya Nabetani, Toru Ekimoto, Tsutomu Yamane, Mitsunori Ikeguchi
+  - 情報計算科学生物学会2023年大会(CBI2023)、P01-06、タワーホール船堀、2023年10月23-26日
+ 
+- Binding Pathway of Hydroxycarboxylic acid receptor 2 (HCAR2) ― Niacin Explored by Tree-Search Molecular Dynamics (TS-MD)
+  - 〇Yukina Nakai, Toru Ekimoto, Tsutomu Yamane, Kei Terayama, Sam-Yong Park, Mitsunori Ikeguchi
+  - 情報計算科学生物学会2023年大会(CBI2023)、P01-07、タワーホール船堀、2023年10月23-26日
+
 - RNAとタンパク質を用いた液-液相分離実験に関するデータベース構築と予測モデル開発
   - 〇陳佳盈、石田祥一、寺山慧
   - 第23回蛋白質科学会年会、1P-048、名古屋、2023年7月5日-7日
