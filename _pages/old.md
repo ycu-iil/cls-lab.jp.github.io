@@ -10,6 +10,10 @@ author_profile: true
 
 # 過去のNews
 
+- 【学生の活躍・研究】星野小百合さん(B4)、吉澤竜哉さん(M1)が第50回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（[受賞コメント](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html)）[2023/1/11]
+
+- 【学生の活躍・研究】吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！[研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)で紹介されました。[2022/11/24]
+
 - 【学生の活躍・研究】中川真由子さん(M2)が情報計算科学生物(CBI)学会2022年大会でエクセレントポスター賞を受賞しました! [研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221116nakagawa.html)で紹介されました。 [2022/11/16]
 
 - 【研究】禾研（横浜市大）との共同研究で、卒業生の 下地恵令奈 さんの卒業・修士論文研究が、「Hybrid in vitro/in silico analysis of low-affinity protein-protein interactions that regulate signal transduction by Sema6D」として[*Protein Science*](https://onlinelibrary.wiley.com/doi/10.1002/pro.4452)誌に掲載されました！[2022/10/3]
