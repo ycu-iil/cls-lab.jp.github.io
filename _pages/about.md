@@ -15,7 +15,7 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
-- 【研究】構造創薬科学研究室朴先生との共同研究が[*Nature Communications*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628104/)誌に掲載されました。[2023/11/6]
+- 【研究】構造創薬科学研究室朴先生との共同研究が[*Nature Communications*](https://doi.org/10.1038/s41467-023-42764-8)誌に掲載されました。[2023/11/6]
 
 - 【研究】客員研究員 山根努先生（理研・RCCS）の論文が[*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/24/20/15423)誌に掲載されました。[2023/10/21]
 
