@@ -15,11 +15,15 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
-- 【学生】村上優貴さん(M2)が2024年度採用分日本学術振興会特別研究員（DC1）に採用内定しました。[2023/9/28]
+- 【研究】構造創薬科学研究室朴先生との共同研究が[*Nature Communications*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628104/)誌に掲載されました。[2023/11/6]
 
--  【学生の活躍・研究】門井辰夢さん（M1）が筆頭著者の論文が"Deep Learning-Based Differential Diagnosis of Follicular Thyroid Tumors Using Histopathological Images"として、*Modern Pathology＊誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230831kadoi.html)）[2023/8/31]
+- 【研究】客員研究員 山根努先生（理研・RCCS）の論文が[*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/24/20/15423)誌に掲載されました。[2023/10/21]
 
--  【学生の活躍・研究】村上優貴さん(M2)が筆頭著者の論文が "Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation" として*Digital Discovery*誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230824murakamiyuuki.html?channel=main)）[2023/8/24]
+- 【学生】村上優貴さん(M2)が2024年度採用分日本学術振興会特別研究員（DC1）に採用内定しました！[2023/9/28]
+
+-  【学生の活躍・研究】門井辰夢さん（M1）が筆頭著者の論文が"Deep Learning-Based Differential Diagnosis of Follicular Thyroid Tumors Using Histopathological Images"として、[*Modern Pathology*](https://doi.org/10.1016/j.modpat.2023.100296)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230831kadoi.html)）[2023/8/31]
+
+-  【学生の活躍・研究】村上優貴さん(M2)が筆頭著者の論文が "Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation" として[*Digital Discovery*](https://doi.org/10.1039/D3DD00090G)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230824murakamiyuuki.html?channel=main)）[2023/8/24]
 
 - 【研究】薬から材料まで様々な有機小分子を設計できる分子設計人工知能パッケージChemTSv2を開発し、公開しました！本研究成果は、[*WIREs Computational Molecular Science*](https://doi.org/10.1002/wcms.1680)誌に掲載されました。（[解説](https://www.yokohama-cu.ac.jp/news/2023/20230818terayama.html)）[2023/8/18]
 
@@ -30,10 +34,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【研究】清水研（東大）との共同研究「TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction」が[*Nature communications*](https://doi.org/10.1038/s41467-023-35844-2)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi_NC.html)） [2023/1/17]
 
 - 【研究】栗原研（東大）との共同研究「Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding」が[*Journal of Clinical Investigation*](https://doi.org/10.1172/JCI151536)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi.html)）[2023/1/13]
-
-- 【学生の活躍・研究】星野小百合さん(B4)、吉澤竜哉さん(M1)が第50回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（[受賞コメント](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html)）[2023/1/11]
-
-- 【学生の活躍・研究】吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！[研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)で紹介されました。[2022/11/24]
 
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
