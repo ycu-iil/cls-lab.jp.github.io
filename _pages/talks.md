@@ -108,6 +108,43 @@ author_profile: true
 
 ## 2023
 
+
+- 複数の特性予測モデルの信頼性を考慮した分子の多目的最適化
+  - 〇吉澤竜哉、石田祥一、佐藤朋広、大田雅照、本間光貴、寺山慧
+  - 第51回構造活性相関シンポジウム、KO04、日本薬学会長井記念ホール、2023年11月20日-21日
+
+- 分子動力学シミュレーションによるITK阻害剤の立体構造選択性の解析
+  - 〇小川直樹、大田雅照、池口満徳
+  - 第51回構造活性相関シンポジウム、KO07、日本薬学会長井記念ホール、2023年11月20日-21日
+
+- スーパーコンピュータ富岳を用いたMDベースのハイスループットスクリーニング
+  - 〇鍋谷朋哉、浴本亨、山根努、池口満徳
+  - 第51回構造活性相関シンポジウム、KP13、日本薬学会長井記念ホール、2023年11月20日-21日
+
+- 膜内切断プロテアーゼRsePの分子動力学シミュレーション
+  - 〇田中健太、浴本亨、山根努、禾晃和、池口満徳
+  - 第51回構造活性相関シンポジウム、KP14、日本薬学会長井記念ホール、2023年11月20日-21日
+
+- Multiple ligands docking を用いた STING を標的とした新規ヒット化合物の探索
+  - 〇戸板太陽、石田祥一、浴本亨、池口満徳、出水庸介、辻厳一郎、寺山慧
+  - 第51回構造活性相関シンポジウム、KP15、日本薬学会長井記念ホール、2023年11月20日-21日
+
+- 木探索分子動力学法 (TS-MD) によるヒドロキシカルボン酸受容体 (HCAR2) ― ナイアシン結合過程の探索
+  - 〇中居雪菜、浴本亨、山根努、寺山慧、朴三用、池口満徳
+  - 第51回構造活性相関シンポジウム、KP16、日本薬学会長井記念ホール、2023年11月20日-21日
+
+- Evaluation of MD-based high-throughput screening methods using supercomputer Fugaku
+  - 〇Tomoya Nabetani, Toru Ekimoto, Tsutomu Yamane, Mitsunori Ikeguchi
+  - 第61回日本生物物理学会年会、1Pos213、名古屋国際会議場、2023年11月14日-16日
+
+- 脂質二重膜における大腸菌 site-2 protease RseP の分子動力学シミュレーション （Molecular dynamics simulations of E. coli site-2 protease RseP in the lipid bilayer）
+  - 〇Kenta Tanaka, Toru Ekimoto, Tsutomu Yamane, Terukazu Nogi, Mitsunori Ikeguchi
+  - 第61回日本生物物理学会年会、2Pos185、名古屋国際会議場、2023年11月14日-16日
+
+- Binding Pathway of Hydroxycarboxylic acid receptor 2 (HCAR2) ― Niacin Explored by Tree- Search Molecular Dynamics (TS-MD)
+  - 〇Yukina Nakai, Toru Ekimoto, Tsutomu Yamane, Kei Terayama, Sam-Yong Park, Mitsunori Ikeguchi
+  - 第61回日本生物物理学会年会、3Pos188、名古屋国際会議場、2023年11月14日-16日
+
 - AI時代の分子シミュレーション (Molecular Simulation in the AI Era)
   - 〇池口満徳
   - 情報計算科学生物学会2023年大会(CBI2023)、IL01-04、タワーホール船堀、2023年10月23-26日
