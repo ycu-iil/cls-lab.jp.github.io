@@ -172,6 +172,10 @@ author_profile: true
 - Binding Pathway of Hydroxycarboxylic acid receptor 2 (HCAR2) ― Niacin Explored by Tree-Search Molecular Dynamics (TS-MD)
   - 〇Yukina Nakai, Toru Ekimoto, Tsutomu Yamane, Kei Terayama, Sam-Yong Park, Mitsunori Ikeguchi
   - 情報計算科学生物学会2023年大会(CBI2023)、P01-07、タワーホール船堀、2023年10月23日-26日
+ 
+- Type51R-body構成要素の構造予測
+  - 〇大枝弘明、浴本亨、山根努、上野隆史、池口満徳
+  - 第４回発動分子科学研究会、P-15、協働大町ビル、2023年9月20日-21日
 
 - RNAとタンパク質を用いた液-液相分離実験に関するデータベース構築と予測モデル開発
   - 〇陳佳盈、石田祥一、寺山慧
