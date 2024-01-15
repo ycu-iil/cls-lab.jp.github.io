@@ -145,29 +145,33 @@ author_profile: true
   - 〇Yukina Nakai, Toru Ekimoto, Tsutomu Yamane, Kei Terayama, Sam-Yong Park, Mitsunori Ikeguchi
   - 第61回日本生物物理学会年会、3Pos188、名古屋国際会議場、2023年11月14日-16日
 
+- 高周波超音波と深層学習を組み合わせたアサリの個体数・分布把握法の確立に向けて
+  - 〇門井辰夢、石田祥一、寺山慧、小野里祥吾、水野勝紀、多部田茂、鷲山裕史、上原陽平、齋藤禎ー、岡本一利、阪本真吾、杉本裕介
+  - 海洋調査技術学会 第35回研究成果発表会、ポスター発表3、東京海洋大学越中島キャンパス、2023年11月7日-8日
+
 - AI時代の分子シミュレーション (Molecular Simulation in the AI Era)
   - 〇池口満徳
   - 情報計算科学生物学会2023年大会(CBI2023)、IL01-04、タワーホール船堀、2023年10月23-26日
  
 - マルコフ状態遷移モデルを用いた上皮成長因子受容体キナーゼの活性化メカニズムの研究 (A study of activation mechanism of epidermal growth factor receptor kinase using Markov state model)
   - 〇井上雅郎
-  - 情報計算科学生物学会2023年大会(CBI2023)、S01-01、タワーホール船堀、2023年10月23-26日
+  - 情報計算科学生物学会2023年大会(CBI2023)、S01-01、タワーホール船堀、2023年10月23日-26日
 
 - 複合現実空間で体験する化学反応ネットワークの対話操作 (Exploring Chemical Reaction Network Through Mixed-Reality Interaction)
   - 〇石田祥一
-  - 情報計算科学生物学会2023年大会(CBI2023)、FS04-02、タワーホール船堀、2023年10月23-26日
+  - 情報計算科学生物学会2023年大会(CBI2023)、FS04-02、タワーホール船堀、2023年10月23日-26日
  
 - Multi-objective Molecular Structure Generation Using Dynamic Applicability Domains Adaptation
   - 〇Tatsuya Yoshizawa, Shoich Ishida, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama
-  - 情報計算科学生物学会2023年大会(CBI2023)、O03-03、タワーホール船堀、2023年10月23-26日
+  - 情報計算科学生物学会2023年大会(CBI2023)、O03-03、タワーホール船堀、2023年10月23日-26日
  
 - Evaluation of MD-based high-throughput screening methods using supercomputer Fugaku
   - 〇Tomoya Nabetani, Toru Ekimoto, Tsutomu Yamane, Mitsunori Ikeguchi
-  - 情報計算科学生物学会2023年大会(CBI2023)、P01-06、タワーホール船堀、2023年10月23-26日
+  - 情報計算科学生物学会2023年大会(CBI2023)、P01-06、タワーホール船堀、2023年10月23日-26日
  
 - Binding Pathway of Hydroxycarboxylic acid receptor 2 (HCAR2) ― Niacin Explored by Tree-Search Molecular Dynamics (TS-MD)
   - 〇Yukina Nakai, Toru Ekimoto, Tsutomu Yamane, Kei Terayama, Sam-Yong Park, Mitsunori Ikeguchi
-  - 情報計算科学生物学会2023年大会(CBI2023)、P01-07、タワーホール船堀、2023年10月23-26日
+  - 情報計算科学生物学会2023年大会(CBI2023)、P01-07、タワーホール船堀、2023年10月23日-26日
 
 - RNAとタンパク質を用いた液-液相分離実験に関するデータベース構築と予測モデル開発
   - 〇陳佳盈、石田祥一、寺山慧
