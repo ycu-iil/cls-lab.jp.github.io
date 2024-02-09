@@ -10,6 +10,8 @@ author_profile: true
 
 # 過去のNews
 
+- 【研究】栗原研（東大）との共同研究「Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding」が[*Journal of Clinical Investigation*](https://doi.org/10.1172/JCI151536)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi.html)）[2023/1/13]
+
 - 【学生の活躍・研究】星野小百合さん(B4)、吉澤竜哉さん(M1)が第50回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（[受賞コメント](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html)）[2023/1/11]
 
 - 【学生の活躍・研究】吉澤竜哉さん(M1)が筆頭著者の論文が「Selective Inhibitor Design for Kinase Homologs Using Multiobjective Monte Carlo Tree Search」として[*Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00787)誌に掲載されました！[研究科のHP](http://www.tsurumi.yokohama-cu.ac.jp/news/20221124yoshizawa.html)で紹介されました。[2022/11/24]
