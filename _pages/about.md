@@ -35,9 +35,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 - 【研究】清水研（東大）との共同研究「TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction」が[*Nature communications*](https://doi.org/10.1038/s41467-023-35844-2)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi_NC.html)） [2023/1/17]
 
-- 【研究】栗原研（東大）との共同研究「Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding」が[*Journal of Clinical Investigation*](https://doi.org/10.1172/JCI151536)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi.html)）[2023/1/13]
-
-
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
 
