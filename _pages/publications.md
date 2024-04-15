@@ -14,7 +14,7 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
-    <li><u>K.-Y. Chin</u>, </u>S. Ishida</u>, Y. Sasaki, </u>K. Terayama</u>. <a href="https://doi.org/10.1186/s12859-024-05764-z">"Predicting condensate formation of protein and RNA under various environmental conditions"</a>, <em>BMC Bioinformatics</em>, 25, 143, 2024.</li>
+    <li><u>K.-Y. Chin</u>, <u>S. Ishida</u>, Y. Sasaki, <u>K. Terayama</u>. <a href="https://doi.org/10.1186/s12859-024-05764-z">"Predicting condensate formation of protein and RNA under various environmental conditions"</a>, <em>BMC Bioinformatics</em>, 25, 143, 2024.</li>
   </ol>
 </details>
 <p></p>
