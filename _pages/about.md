@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+-  【学生の活躍・研究】陳佳盈さん（D2）が筆頭著者の論文が"Predicting condensate formation of protein and RNA under various environmental conditions"として、[*BMC Bioinformatics*](https://doi.org/10.1186/s12859-024-05764-z)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2024/20240430chin_publication.html)）[2024/4/30]
+
 - 【学生の活躍】鍋谷朋哉さん（B4）、吉澤竜哉さん（M2）が第51回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（受賞コメント: [鍋谷さん](https://www.yokohama-cu.ac.jp/news/2023/20240202nabetani.html), [吉澤さん](https://www.yokohama-cu.ac.jp/news/2023/20240131yoshizawa.html)）[2024/2/9]
 
 - 【研究】構造創薬科学研究室 朴先生との共同研究が[*Nature Communications*](https://doi.org/10.1038/s41467-023-42764-8)誌に掲載されました。[2023/11/6]
