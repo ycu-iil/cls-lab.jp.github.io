@@ -15,9 +15,9 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
-- 【研究】社会人博士　小川直樹さんが筆頭著者の論文が[_Journal of Chemical Information and Modeling_誌](https://doi.org/10.1021/acs.jcim.3c01352)に掲載されました。[2024/5/15]
+- 【研究】社会人博士　小川直樹さんが筆頭著者の論文が[*Journal of Chemical Information and Modeling*誌](https://doi.org/10.1021/acs.jcim.3c01352)に掲載されました。[2024/5/15]
 
-- 【研究】特任助教　井上先生らの論文が[_Journal of Chemical Information and Modeling_誌](https://doi.org/10.1021/acs.jcim.4c00172)に掲載されました。[2024/5/15]
+- 【研究】特任助教　井上先生らの論文が[*Journal of Chemical Information and Modeling*誌](https://doi.org/10.1021/acs.jcim.4c00172)に掲載されました。[2024/5/15]
 
 -  【学生の活躍・研究】陳佳盈さん（D2）が筆頭著者の論文が"Predicting condensate formation of protein and RNA under various environmental conditions"として、[*BMC Bioinformatics*](https://doi.org/10.1186/s12859-024-05764-z)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2024/20240430chin_publication.html)）[2024/4/30]
 
