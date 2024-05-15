@@ -15,6 +15,10 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【研究】社会人博士　小川直樹さんが筆頭著者の論文が[_Journal of Chemical Information and Modeling_誌](https://doi.org/10.1021/acs.jcim.3c01352)に掲載されました。[2024/5/15]
+
+- 【研究】特任助教　井上先生らの論文が[_Journal of Chemical Information and Modeling_誌](https://doi.org/10.1021/acs.jcim.4c00172)に掲載されました。[2024/5/15]
+
 -  【学生の活躍・研究】陳佳盈さん（D2）が筆頭著者の論文が"Predicting condensate formation of protein and RNA under various environmental conditions"として、[*BMC Bioinformatics*](https://doi.org/10.1186/s12859-024-05764-z)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2024/20240430chin_publication.html)）[2024/4/30]
 
 - 【学生の活躍】鍋谷朋哉さん（B4）、吉澤竜哉さん（M2）が第51回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（受賞コメント: [鍋谷さん](https://www.yokohama-cu.ac.jp/news/2023/20240202nabetani.html), [吉澤さん](https://www.yokohama-cu.ac.jp/news/2023/20240131yoshizawa.html)）[2024/2/9]
@@ -30,12 +34,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 -  【学生の活躍・研究】村上優貴さん（M2）が筆頭著者の論文が "Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation" として[*Digital Discovery*](https://doi.org/10.1039/D3DD00090G)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230824murakamiyuuki.html?channel=main)）[2023/8/24]
 
 - 【研究】薬から材料まで様々な有機小分子を設計できる分子設計人工知能パッケージChemTSv2を開発し、公開しました！本研究成果は、[*WIREs Computational Molecular Science*](https://doi.org/10.1002/wcms.1680)誌に掲載されました。（[解説](https://www.yokohama-cu.ac.jp/news/2023/20230818terayama.html)）[2023/8/18]
-
-- 【学生】本研究室に新たに修士課程4名、博士後期課程4名が配属されました。本年度も宜しくお願い致します！[2023/4/6]
-
-- 【学生】令和4年度修了・卒業式が行われ、本研究室から学部生4名、修士課程3名が卒業されました。ご卒業された皆様おめでとうございます! [2023/3/24]
-
-- 【研究】清水研（東大）との共同研究「TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction」が[*Nature communications*](https://doi.org/10.1038/s41467-023-35844-2)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi_NC.html)） [2023/1/17]
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
