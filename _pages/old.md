@@ -10,6 +10,12 @@ author_profile: true
 
 # 過去のNews
 
+- 【学生】本研究室に新たに修士課程4名、博士後期課程4名が配属されました。本年度も宜しくお願い致します！[2023/4/6]
+
+- 【学生】令和4年度修了・卒業式が行われ、本研究室から学部生4名、修士課程3名が卒業されました。ご卒業された皆様おめでとうございます! [2023/3/24]
+
+- 【研究】清水研（東大）との共同研究「TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction」が[*Nature communications*](https://doi.org/10.1038/s41467-023-35844-2)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi_NC.html)） [2023/1/17]
+
 - 【研究】栗原研（東大）との共同研究「Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding」が[*Journal of Clinical Investigation*](https://doi.org/10.1172/JCI151536)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/news/2022/202301ikeguchi.html)）[2023/1/13]
 
 - 【学生の活躍・研究】星野小百合さん(B4)、吉澤竜哉さん(M1)が第50回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（[受賞コメント](http://www.tsurumi.yokohama-cu.ac.jp/news/20230111hoshino_yoshizawa.html)）[2023/1/11]
