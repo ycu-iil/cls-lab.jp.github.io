@@ -14,7 +14,8 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
-    <li>M. Inoue, T. Ekimoto, T. Yamane, M. Ikeguchi. <a href="https://doi.org/10.1021/acs.jcim.4c00172">"Computational Analysis of Activation of Dimerized Epidermal Growth Factor Receptor Kinase Using the String Method and Markov State Model"</a>, <em>Journal of Chemical Information and Modeling</em>, 64, 9, 3884-3895, 2024.</li>
+    <li>K. Mizuno, <u>K. Terayama</u>, <u>S. Ishida</u>, J. A. Godbold, M. Solan. <a href="https://doi.org/10.1098/rsos.240042">"Combining three-dimensional acoustic coring and a convolutional neural network to quantify species contributions to benthic ecosystems"</a>, <em>Royal Society Open Science</em>, 11, 6, 11240042, 2024.</li>
+    <li><u>M. Inoue</u>, <u>T. Ekimoto</u>, T. Yamane, <u>M. Ikeguchi</u>. <a href="https://doi.org/10.1021/acs.jcim.4c00172">"Computational Analysis of Activation of Dimerized Epidermal Growth Factor Receptor Kinase Using the String Method and Markov State Model"</a>, <em>Journal of Chemical Information and Modeling</em>, 64, 9, 3884-3895, 2024.</li>
     <li><u>K.-Y. Chin</u>, <u>S. Ishida</u>, Y. Sasaki, <u>K. Terayama</u>. <a href="https://doi.org/10.1186/s12859-024-05764-z">"Predicting condensate formation of protein and RNA under various environmental conditions"</a>, <em>BMC Bioinformatics</em>, 25, 143, 2024.</li>
   </ol>
 </details>
