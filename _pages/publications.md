@@ -14,6 +14,8 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
+    <li>N. Sato, A. Takahashi, S. Kiyohara, <u>K. Terayama</u>, R. Tamura, F. Oba, <a href="https://doi.org/10.1002/aisy.202400253">"Target Material Property-Dependent Cluster Analysis of Inorganic Compounds"</a>, <em>Advanced Intelligent Systems</em>, 2400253, 2024.</li>
+    <li>R. Tamura, H. Morito, G. Deffrennes, M. Naito, Y. Nose, T. Abe, <u>Kei Terayama</u>, <a href="https://doi.org/10.1038/s43246-024-00580-7">"AIPHAD, an active learning web application for visual understanding of phase diagrams"</a>, <em>Communications Materials</em>, 5, 139, 2024.</li>
     <li>K. Mizuno, <u>K. Terayama</u>, <u>S. Ishida</u>, J. A. Godbold, M. Solan. <a href="https://doi.org/10.1098/rsos.240042">"Combining three-dimensional acoustic coring and a convolutional neural network to quantify species contributions to benthic ecosystems"</a>, <em>Royal Society Open Science</em>, 11, 6, 11240042, 2024.</li>
     <li><u>M. Inoue</u>, <u>T. Ekimoto</u>, T. Yamane, <u>M. Ikeguchi</u>. <a href="https://doi.org/10.1021/acs.jcim.4c00172">"Computational Analysis of Activation of Dimerized Epidermal Growth Factor Receptor Kinase Using the String Method and Markov State Model"</a>, <em>Journal of Chemical Information and Modeling</em>, 64, 9, 3884-3895, 2024.</li>
     <li><u>K.-Y. Chin</u>, <u>S. Ishida</u>, Y. Sasaki, <u>K. Terayama</u>. <a href="https://doi.org/10.1186/s12859-024-05764-z">"Predicting condensate formation of protein and RNA under various environmental conditions"</a>, <em>BMC Bioinformatics</em>, 25, 143, 2024.</li>
@@ -27,7 +29,7 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
-    <li> N. Ogawa, M.Ohta, M. Ikeguchi. <a href="https://doi.org/10.1021/acs.jcim.3c01352">Conformational Selectivity of ITK Inhibitors: Insights from Molecular Dynamics Simulations</a>, <em>Journal of Chemical Information and Modeling</em>, 63, 24, 7860-7872, 2023.</li>
+    <li> N. Ogawa, M. Ohta, M. Ikeguchi. <a href="https://doi.org/10.1021/acs.jcim.3c01352">Conformational Selectivity of ITK Inhibitors: Insights from Molecular Dynamics Simulations</a>, <em>Journal of Chemical Information and Modeling</em>, 63, 24, 7860-7872, 2023.</li>
     <li>Y. Shimizu, M. Ohta, <u>S. Ishida</u>, <u>K. Terayama</u>, M. Osawa, T. Honma, K. Ikeda, <a href="https://doi.org/10.1186/s13321-023-00791-z">AI-driven molecular generation of not-patented pharmaceutical compounds using world open patent data</a>, <em>Journal of Cheminformatics</em>, 15, 120, 2023.</li>
     <li>H. Ohtomo, <u>T. Yamane</u>, T. Oda, N. Kodera, J. Kurita, Y. Tsunaka, R. Amyot, <u>M. Ikeguchi</u>, Y. Nishimura, <a href="https://doi.org/10.1016/j.jmb.2023.168189">"Dynamic Solution Structures of Whole Human NAP1 Dimer Bound to One and Two Histone H2A-H2B Heterodimers Obtained by Integrative Methods"</a>, <em>Journal of Molecular Biology</em>, 435(15), 168189, 2023. </li>
     <li>J.-H. Park, K. Kawakami, N. Ishimoto, T. Ikuta, M. Ohki, <u>T. Ekimoto</u>, <u>M, Ikeguchi</u>, D.-S. Lee, Y.-H. Lee, J.R. H Tame, A. Inoue, S.-Y. Park. <a href="https://doi.org/10.1038/s41467-023-42764-8">"Structural basis for ligand recognition and signaling of hydroxy-carboxylic acid receptor 2"</a>, <em>Nature Communications</em>, 14, 7150, 2023.</li>
