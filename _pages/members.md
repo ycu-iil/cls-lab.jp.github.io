@@ -5,7 +5,7 @@ permalink: /members/
 author_profile: true
 ---
 
-2024年7月1日現在
+2024年9月19日現在
 
 # スタッフ
 - 教授 池口満徳 [(個人ページ)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Ikeguchi/index.html)<br>
@@ -35,13 +35,14 @@ author_profile: true
 - M2 大枝弘明, 菊池碧
 - M1 高橋怜見衣, 鍋谷朋哉, 信澤蓮
 - B4 宇佐美里桜, 下山彩
+- B3 上床真菜, 坊垣綾亮
 
 # 学生 (寺山グループ)
 - D3 高畑脩平 [(藍野大学 医療保健学部 助教, 個人ページ)](https://researchmap.jp/takahatashuhei)
 - D2 陳佳盈
 - D1 村上優貴, 吉澤竜哉, 吉村貴一
 - M2 門井辰夢, 星野小百合
-- M1 戸板太陽
+- M1 沖翔太郎, 戸板太陽
 - B4 庵和人, 富田ひかり, 新居孝玄
 
 # 過去の所属者(敬称略, 年号は年度)
