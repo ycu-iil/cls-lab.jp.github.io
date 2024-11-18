@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+-  【学生の活躍・研究】門井辰夢さん（M2）が筆頭著者の論文が"Development of a method for estimating asari clam distribution by combining three-dimensional acoustic coring system and deep neural network"として、[*Scientific Reports*](https://www.nature.com/articles/s41598-024-77893-7)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2024/20241113kadoi.html)）[2024/11/13]
+
 - 【研究】構造創薬科学研究室 朴先生と感染研 渡士先生との共同研究が*Nature Communication*誌にアクセプトになりました。[2024/10/22]
   
 - 【研究】LINCコンソーシアムWG04-tf-kbddの産学連携研究が[*Journal of the American Chemical Society*](https://pubs.acs.org/doi/10.1021/jacs.4c04648)誌にアクセプトになりました。[2024/10/22]
@@ -32,8 +34,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【研究】構造創薬科学研究室 朴先生との共同研究が[*Nature Communications*](https://doi.org/10.1038/s41467-023-42764-8)誌に掲載されました。[2023/11/6]
 
 - 【研究】客員研究員 山根努先生（理研・RCCS）の論文が[*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/24/20/15423)誌に掲載されました。[2023/10/21]
-
-- 【学生】村上優貴さん（M2）が2024年度採用分日本学術振興会特別研究員（DC1）に採用内定しました！[2023/9/28]
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
