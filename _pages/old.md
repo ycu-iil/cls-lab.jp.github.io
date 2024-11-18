@@ -10,6 +10,12 @@ author_profile: true
 
 # 過去のNews
 
+-  【学生の活躍・研究】門井辰夢さん（M1）が筆頭著者の論文が"Deep Learning-Based Differential Diagnosis of Follicular Thyroid Tumors Using Histopathological Images"として、[*Modern Pathology*](https://doi.org/10.1016/j.modpat.2023.100296)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230831kadoi.html)）[2023/8/31]
+
+-  【学生の活躍・研究】村上優貴さん（M2）が筆頭著者の論文が "Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation" として[*Digital Discovery*](https://doi.org/10.1039/D3DD00090G)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230824murakamiyuuki.html?channel=main)）[2023/8/24]
+
+- 【研究】薬から材料まで様々な有機小分子を設計できる分子設計人工知能パッケージChemTSv2を開発し、公開しました！本研究成果は、[*WIREs Computational Molecular Science*](https://doi.org/10.1002/wcms.1680)誌に掲載されました。（[解説](https://www.yokohama-cu.ac.jp/news/2023/20230818terayama.html)）[2023/8/18]
+
 - 【学生】本研究室に新たに修士課程4名、博士後期課程4名が配属されました。本年度も宜しくお願い致します！[2023/4/6]
 
 - 【学生】令和4年度修了・卒業式が行われ、本研究室から学部生4名、修士課程3名が卒業されました。ご卒業された皆様おめでとうございます! [2023/3/24]
