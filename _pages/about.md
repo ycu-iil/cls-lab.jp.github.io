@@ -15,6 +15,12 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【研究】構造創薬科学研究室 朴先生と感染研 渡士先生との共同研究が*Nature Communication*誌にアクセプトになりました。[2024/10/22]
+  
+- 【研究】LINCコンソーシアムWG04-tf-kbddの産学連携研究が[*Journal of the American Chemical Society*](https://pubs.acs.org/doi/10.1021/jacs.4c04648)誌にアクセプトになりました。[2024/10/22]
+
+- 【研究】東大 清水先生との共同研究で、卒業生の鈴木南美さん、斎藤悠里さん、野村真沙美さんの卒業研究の成果が*Bulletins of Pharmaceutical Society of Japan*誌にアクセプトになりました。[2024/10/22]
+
 - 【研究】社会人博士　小川直樹さんが筆頭著者の論文が[*Journal of Chemical Information and Modeling*誌](https://doi.org/10.1021/acs.jcim.3c01352)に掲載されました。[2024/5/15]
 
 - 【研究】特任助教　井上先生らの論文が[*Journal of Chemical Information and Modeling*誌](https://doi.org/10.1021/acs.jcim.4c00172)に掲載されました。[2024/5/15]
@@ -28,12 +34,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【研究】客員研究員 山根努先生（理研・RCCS）の論文が[*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/24/20/15423)誌に掲載されました。[2023/10/21]
 
 - 【学生】村上優貴さん（M2）が2024年度採用分日本学術振興会特別研究員（DC1）に採用内定しました！[2023/9/28]
-
--  【学生の活躍・研究】門井辰夢さん（M1）が筆頭著者の論文が"Deep Learning-Based Differential Diagnosis of Follicular Thyroid Tumors Using Histopathological Images"として、[*Modern Pathology*](https://doi.org/10.1016/j.modpat.2023.100296)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230831kadoi.html)）[2023/8/31]
-
--  【学生の活躍・研究】村上優貴さん（M2）が筆頭著者の論文が "Design of antimicrobial peptides containing non-proteinogenic amino acids using multi-objective Bayesian optimisation" として[*Digital Discovery*](https://doi.org/10.1039/D3DD00090G)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230824murakamiyuuki.html?channel=main)）[2023/8/24]
-
-- 【研究】薬から材料まで様々な有機小分子を設計できる分子設計人工知能パッケージChemTSv2を開発し、公開しました！本研究成果は、[*WIREs Computational Molecular Science*](https://doi.org/10.1002/wcms.1680)誌に掲載されました。（[解説](https://www.yokohama-cu.ac.jp/news/2023/20230818terayama.html)）[2023/8/18]
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
