@@ -163,6 +163,38 @@ author_profile: true
 - Applications of Tree-Search-MD to drug target proteins: conformational changes between inactive and active structures of a kinase and a ligand binding to a GPCR
   - Yukina Nakai, 〇Toru Ekimoto, Tsutomu Yamane, Masao Inoue, Naoki Ogawa, Sun-Yong Park, Kei Terayama, Mitsunori Ikeguchi
   - 第21回国際生物物理会議・第62回日本生物物理学会合同年会（IUPAB2024）、28P-199、国立京都国際会館（京都府京都市）、2024年6月24日-28日
+ 
+- Mechanisms of Type-51 R-body conformational changes revealed by in silico methods
+  - 〇大枝弘明、浴本亨、山根努、菊池幸祐、伊達弘貴 、上野隆史、池口満徳
+  - CBI学会2024年大会、P01-18、タワーホール船堀、2024年10月28日-31日
+
+- De novo PROTAC linker design to enhance cell membrane permeability based on a data-driven method
+  - 〇Yuki Murakami, Shoichi Ishida, Yosuke Demizu, Kei Terayama
+  - CBI学会2024年大会、P07-06、タワーホール船堀、2024年10月28日-31日
+ 
+- Lead generation of a V-ATPase inhibitor using molecular generative AI
+  - 〇Taiyo Toita, Kano Suzuki, Shoichi Ishida, Akira Katsuyama, Satoshi Ichikawa, Masateru Ohta, Mitsunori Ikeguchi, Takeshi Murata, Kei Terayama
+  - CBI学会2024年大会、P07-18、タワーホール船橋、2024年10月28日-31日
+
+- 分子生成AIによるV-ATPase阻害剤の最適化
+  - 戸板太陽、鈴木花野、石田祥一、勝山彬、市川聡、大田雅照、池口満徳、村田武士、〇寺山慧
+  - 第52回構造活性相関シンポジウム、KP03、川崎市産業振興会館、2024年12月12日-13日
+
+- インシリコ解析によるType-51 R-bodyのpH依存的な構造変化機構の解明
+  - 〇大枝弘明、浴本亨、山根努、菊池幸祐、伊達弘貴 、上野隆史、池口満徳
+  - 第52回構造活性相関シンポジウム、KP14、川崎市産業振興会館、2024年12月12日-13日
+
+- 細胞膜透過性を考慮したPROTACリンカー生成AIの開発
+  - 〇村上優貴、石田祥一、出水庸介、寺山慧
+  - 第52回構造活性相関シンポジウム、KP15、川崎市産業振興会館、2024年12月12日-13日
+
+- 大規模言語モデルを用いて専門的な技術の解決策を出力するための手法開発
+  - 〇富田ひかり、中村伸宏、石田祥一、神谷利夫、寺山慧
+  - 第34回日本MRS年次大会、A1-P16-018、産業貿易センタービル他、2024年12月16日-18日
+
+- 生成AIと分子シミュレーションの融合による機能性有機分子の設計
+  - 〇寺山慧
+  - 第34回日本MRS年次大会、A1-I16-007、産業貿易センタービル他、2024年12月16日-18日
 
 
 ## 2023
