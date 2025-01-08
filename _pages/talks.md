@@ -175,6 +175,14 @@ author_profile: true
 - Lead generation of a V-ATPase inhibitor using molecular generative AI
   - 〇Taiyo Toita, Kano Suzuki, Shoichi Ishida, Akira Katsuyama, Satoshi Ichikawa, Masateru Ohta, Mitsunori Ikeguchi, Takeshi Murata, Kei Terayama
   - CBI学会2024年大会、P07-18、タワーホール船橋、2024年10月28日-31日
+ 
+- ChemTSv2を利用した機能分子設計
+  - 〇寺山慧
+  - CBI学会2024年大会、SP03-01、タワーホール船橋、2024年10月28日-31日
+ 
+- ChemTSv2を利用した分子設計のチュートリアル
+  - 〇石田祥一
+  - CBI学会2024年大会、SP03-02、タワーホール船橋、2024年10月28日-31日
 
 - 分子生成AIによるV-ATPase阻害剤の最適化
   - 戸板太陽、鈴木花野、石田祥一、勝山彬、市川聡、大田雅照、池口満徳、村田武士、〇寺山慧
