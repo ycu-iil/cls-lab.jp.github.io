@@ -6,12 +6,20 @@ author_profile: true
 ---
 
 - [口頭発表賞・ポスター賞](#口頭発表賞ポスター賞)
-  - [2023受賞](#2023受賞), [2022受賞](#2022受賞), [2021受賞](#2021受賞), [2020受賞](#2020受賞), [2019受賞](#2019受賞)
+  - [2024受賞](#2024受賞),　[2023受賞](#2023受賞), [2022受賞](#2022受賞), [2021受賞](#2021受賞), [2020受賞](#2020受賞), [2019受賞](#2019受賞)
 - [口頭発表・ポスター発表](#口頭発表ポスター発表)
   - [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018)
 - [他大学のセミナーでの発表](#他大学のセミナーでの発表)
 
 # 口頭発表賞・ポスター賞
+
+
+## 2024受賞
+
+1. 11月　第52回構造活性相関シンポジウム SAR Presentation Award（ポスター）村上優貴
+  - 発表演題：細胞膜透過性を考慮したPROTACリンカー生成AIの開発
+  - 著者：村上優貴、石田祥一、出水庸介、寺山慧
+
 
 ## 2023受賞
 
@@ -164,8 +172,12 @@ author_profile: true
   - Yukina Nakai, 〇Toru Ekimoto, Tsutomu Yamane, Masao Inoue, Naoki Ogawa, Sun-Yong Park, Kei Terayama, Mitsunori Ikeguchi
   - 第21回国際生物物理会議・第62回日本生物物理学会合同年会（IUPAB2024）、28P-199、国立京都国際会館（京都府京都市）、2024年6月24日-28日
  
+- Cross-reactvity of T cell receptors against HCoV through three-dimensional structure prediction
+  - 〇Ao Kikuchi, Toru Ekimoto, Tsutomu Yamane, Shuntaro Chiba, Kanako Shimizu, Shin-ichiro Fujii, Mitsunori Ikeguchi
+  - CBI学会2024年大会、P01-04、タワーホール船堀、2024年10月28日-31日
+
 - Mechanisms of Type-51 R-body conformational changes revealed by in silico methods
-  - 〇大枝弘明、浴本亨、山根努、菊池幸祐、伊達弘貴 、上野隆史、池口満徳
+  - 〇Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
   - CBI学会2024年大会、P01-18、タワーホール船堀、2024年10月28日-31日
 
 - De novo PROTAC linker design to enhance cell membrane permeability based on a data-driven method
@@ -183,6 +195,10 @@ author_profile: true
 - ChemTSv2を利用した分子設計のチュートリアル
   - 〇石田祥一
   - CBI学会2024年大会、SP03-02、タワーホール船橋、2024年10月28日-31日
+
+- 立体構造予測によるHCoVに対するT細胞受容体の交差反応の研究
+  - 菊池碧、浴本亨、山根努、千葉峻太朗、清水佳奈子、藤井眞一郎、〇池口満徳
+  - 第52回構造活性相関シンポジウム、KP02、川崎市産業振興会館、2024年12月12日-13日
 
 - 分子生成AIによるV-ATPase阻害剤の最適化
   - 戸板太陽、鈴木花野、石田祥一、勝山彬、市川聡、大田雅照、池口満徳、村田武士、〇寺山慧
