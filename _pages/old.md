@@ -10,6 +10,8 @@ author_profile: true
 
 # 過去のNews
 
+- 【研究】客員研究員 山根努先生（理研・RCCS）の論文が[*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/24/20/15423)誌に掲載されました。[2023/10/21]
+
 - 【学生】村上優貴さん（M2）が2024年度採用分日本学術振興会特別研究員（DC1）に採用内定しました！[2023/9/28]
 
 -  【学生の活躍・研究】門井辰夢さん（M1）が筆頭著者の論文が"Deep Learning-Based Differential Diagnosis of Follicular Thyroid Tumors Using Histopathological Images"として、[*Modern Pathology*](https://doi.org/10.1016/j.modpat.2023.100296)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2023/20230831kadoi.html)）[2023/8/31]
