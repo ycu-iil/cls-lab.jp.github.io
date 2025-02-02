@@ -40,7 +40,7 @@ author_profile: true
 # 学生 (寺山グループ)
 - D3 高畑脩平 [(藍野大学 医療保健学部 助教, 個人ページ)](https://researchmap.jp/takahatashuhei)
 - D2 陳佳盈
-- D1 村上優貴, 吉澤竜哉, 吉村貴一
+- D1 村上優貴, 吉澤竜哉 ([個人ページ](https://tyszw.github.io/)), 吉村貴一
 - M2 門井辰夢, 星野小百合
 - M1 沖翔太郎, 戸板太陽
 - B4 庵和人, 富田ひかり, 新居孝玄
