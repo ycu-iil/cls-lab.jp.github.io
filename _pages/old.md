@@ -10,6 +10,8 @@ author_profile: true
 
 # 過去のNews
 
+- 【研究】構造創薬科学研究室 朴先生との共同研究が[*Nature Communications*](https://doi.org/10.1038/s41467-023-42764-8)誌に掲載されました。[2023/11/6]
+
 - 【研究】客員研究員 山根努先生（理研・RCCS）の論文が[*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/24/20/15423)誌に掲載されました。[2023/10/21]
 
 - 【学生】村上優貴さん（M2）が2024年度採用分日本学術振興会特別研究員（DC1）に採用内定しました！[2023/9/28]
