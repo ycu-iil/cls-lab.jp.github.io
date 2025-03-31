@@ -12,6 +12,8 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
+    <li><u>S. Ishida</u>, T. Sato, T. Honma, <u>K. Terayama</u>, <a href="https://doi.org/10.1186/s13321-025-00984-8">"Large language models open new way of AI-assisted molecule design for chemists"</a>, <em>Journal of  Cheminformatics</em>, 17, 36, 2025.</li>
+    <li>S. Matsumoto, Y. Isaka, R. Kanada, B. Ma, M. Araki, S. Chiba, A. Tokuhisa, H. Iwata, <u>S. Ishida</u>, Y. Akinaga, <u>K. Terayama</u>, R. Kojima, Y. Harada, K. Takemura, T. Honma, A. Kitao, Y. Okuno, <a href="https://doi.org/10.1093/pnasnexus/pgaf094">"Precision spatiotemporal analysis of large-scale compound–protein interactions through molecular dynamics simulation"</a>, <em>PNAS Nexus</em>, 4, 3, pgaf094, 2025.</li>
     <li><u>T. Yoshizawa</u>, <u>S. Ishida</u>, T. Sato, M. Ohta, T. Honma, <u>K. Terayama</u>, <a href="https://doi.org/10.1038/s41467-025-57582-3">"A data-driven generative strategy to avoid reward hacking in multi-objective molecular design"</a>, <em>Nature Communications</em>, 16, 2409, 2025.</li>
     <li>M. Sumita, <u>K. Terayama</u>, <u>S. Ishida</u>, K. Suga, S. Saito, K. Tsuda, <a href="https://doi.org/10.1002/jcc.70017">"QCforever2: Advanced Automation of Quantum Chemistry Computations"</a>, <em>Journal of Computational Chemistry</em>, 45, e70017, 2025. </li>
   </ol>
