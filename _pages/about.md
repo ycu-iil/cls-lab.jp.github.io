@@ -15,6 +15,8 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【研究】特任講師 石田先生らの論文が、"Large language models open new way of AI-assisted molecule design for chemists"として[*Journal of Cheminformatics*](https://doi.org/10.1186/s13321-025-00984-8)誌に掲載されました！
+
 - 【学生の活躍・研究】吉澤竜哉さん（D1）が筆頭著者の論文が"A data-driven generative strategy to avoid reward hacking in multi-objective molecular design"として、[*Nature Communications*](https://doi.org/10.1038/s41467-025-57582-3)誌に掲載されました！（[プレスリリース](https://www.yokohama-cu.ac.jp/res-portal/news/2024/20250314terayama.html)）[2025/3/14]
 
 - 【学生の活躍】村上優貴さん（D1）が第52回構造活性相関シンポジウムにてSAR Presentation Awardを受賞しました！（[コメント](https://www.tsurumi.yokohama-cu.ac.jp/news/20250114murakami.html)）[2025/1/15]
