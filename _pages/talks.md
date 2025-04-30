@@ -8,7 +8,7 @@ author_profile: true
 - [口頭発表賞・ポスター賞](#口頭発表賞ポスター賞)
   - [2024受賞](#2024受賞), [2023受賞](#2023受賞), [2022受賞](#2022受賞), [2021受賞](#2021受賞), [2020受賞](#2020受賞), [2019受賞](#2019受賞)
 - [口頭発表・ポスター発表](#口頭発表ポスター発表)
-  - [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018)
+  - [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018)
 - [他大学のセミナーでの発表](#他大学のセミナーでの発表)
 
 # 口頭発表賞・ポスター賞
@@ -131,7 +131,78 @@ author_profile: true
 
 #  口頭発表・ポスター発表
 
+## 2025
+
+- 細胞膜透過性を加味したPROTACリンカー生成AIの開発
+  - 〇村上 優貴、石田 祥一、大田 雅照、本間 光貴、出水 庸介、寺山 慧
+  - 日本薬学会第145年会、27P-am130S、福岡国際会議場 他、2025年3月26日-29日
+
+
 ## 2024
+
+- 大規模言語モデルを用いて専門的な技術の解決策を出力するための手法開発
+  - 〇富田ひかり、中村伸宏、石田祥一、神谷利夫、寺山慧
+  - 第34回日本MRS年次大会、A1-P16-018、産業貿易センタービル他、2024年12月16日-18日
+
+- 生成AIと分子シミュレーションの融合による機能性有機分子の設計
+  - 〇寺山慧
+  - 第34回日本MRS年次大会、A1-I16-007、産業貿易センタービル他、2024年12月16日-18日
+    
+- 立体構造予測によるHCoVに対するT細胞受容体の交差反応の研究
+  - 菊池碧、浴本亨、山根努、千葉峻太朗、清水佳奈子、藤井眞一郎、〇池口満徳
+  - 第52回構造活性相関シンポジウム、KP02、川崎市産業振興会館、2024年12月12日-13日
+
+- 分子生成AIによるV-ATPase阻害剤の最適化
+  - 戸板太陽、鈴木花野、石田祥一、勝山彬、市川聡、大田雅照、池口満徳、村田武士、〇寺山慧
+  - 第52回構造活性相関シンポジウム、KP03、川崎市産業振興会館、2024年12月12日-13日
+
+- インシリコ解析によるType-51 R-bodyのpH依存的な構造変化機構の解明
+  - 〇大枝弘明、浴本亨、山根努、菊池幸祐、伊達弘貴 、上野隆史、池口満徳
+  - 第52回構造活性相関シンポジウム、KP14、川崎市産業振興会館、2024年12月12日-13日
+
+- 細胞膜透過性を考慮したPROTACリンカー生成AIの開発
+  - 〇村上優貴、石田祥一、出水庸介、寺山慧
+  - 第52回構造活性相関シンポジウム、KP15、川崎市産業振興会館、2024年12月12日-13日
+    
+- Cross-reactvity of T cell receptors against HCoV through three-dimensional structure prediction
+  - 〇Ao Kikuchi, Toru Ekimoto, Tsutomu Yamane, Shuntaro Chiba, Kanako Shimizu, Shin-ichiro Fujii, Mitsunori Ikeguchi
+  - CBI学会2024年大会、P01-04、タワーホール船堀、2024年10月28日-31日
+
+- Mechanisms of Type-51 R-body conformational changes revealed by in silico methods
+  - 〇Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
+  - CBI学会2024年大会、P01-18、タワーホール船堀、2024年10月28日-31日
+
+- De novo PROTAC linker design to enhance cell membrane permeability based on a data-driven method
+  - 〇Yuki Murakami, Shoichi Ishida, Yosuke Demizu, Kei Terayama
+  - CBI学会2024年大会、P07-06、タワーホール船堀、2024年10月28日-31日
+ 
+- Lead generation of a V-ATPase inhibitor using molecular generative AI
+  - 〇Taiyo Toita, Kano Suzuki, Shoichi Ishida, Akira Katsuyama, Satoshi Ichikawa, Masateru Ohta, Mitsunori Ikeguchi, Takeshi Murata, Kei Terayama
+  - CBI学会2024年大会、P07-18、タワーホール船橋、2024年10月28日-31日
+ 
+- ChemTSv2を利用した機能分子設計
+  - 〇寺山慧
+  - CBI学会2024年大会、SP03-01、タワーホール船橋、2024年10月28日-31日
+ 
+- ChemTSv2を利用した分子設計のチュートリアル
+  - 〇石田祥一
+  - CBI学会2024年大会、SP03-02、タワーホール船橋、2024年10月28日-31日
+ 
+- Information extraction from liquid-liquid phase separation-related articles using large language model
+  - 〇Chin Ka Yin, Shoichi Ishida, Yukio Sasaki, Kei Terayama
+  - 1st Asia & Pacific Bioinformatics Joint Conference, 24-XIV-14, Naha Culture Arts Theater NAHArt, 2024.10.22-25
+
+- MD-based in silico screening using supercomputer Fugaku
+  - 〇Tomoya Nabetani, Toru Ekimoto, Tsutomu Yamane, Mitsunori Ikeguchi
+  - 第21回国際生物物理会議・第62回日本生物物理学会合同年会（IUPAB2024）、27P-212、国立京都国際会館（京都府京都市）、2024年6月24日-28日
+
+- Applications of Tree-Search-MD to drug target proteins: conformational changes between inactive and active structures of a kinase and a ligand binding to a GPCR
+  - Yukina Nakai, 〇Toru Ekimoto, Tsutomu Yamane, Masao Inoue, Naoki Ogawa, Sun-Yong Park, Kei Terayama, Mitsunori Ikeguchi
+  - 第21回国際生物物理会議・第62回日本生物物理学会合同年会（IUPAB2024）、28P-199、国立京都国際会館（京都府京都市）、2024年6月24日-28日
+
+- 高周波超音波と深層学習を組み合わせたアサリの分布推定手法の開発
+  - 〇門井辰夢、石田祥一、寺山慧、小野里祥吾、水野勝紀、多部田茂、鷲山裕史、上原陽平、齋藤禎一、岡本一利、阪本真吾、杉本裕介
+  - 海洋音響学会 第40回研究発表会、24-6、東京大学生産技術研究所/オンライン、2024年6月13-14日
 
 - 大規模言語モデルを用いた液-液相分離関連論文の情報抽出手法の開発
   - 〇陳佳盈、石田祥一、佐々木幸生、寺山慧
@@ -165,65 +236,6 @@ author_profile: true
   - 〇池口満徳
   - 第24回日本蛋白質科学会年会、WS4-4、札幌コンベンションセンター、2024年6月11-13日
 
-- 高周波超音波と深層学習を組み合わせたアサリの分布推定手法の開発
-  - 〇門井辰夢、石田祥一、寺山慧、小野里祥吾、水野勝紀、多部田茂、鷲山裕史、上原陽平、齋藤禎一、岡本一利、阪本真吾、杉本裕介
-  - 海洋音響学会 第40回研究発表会、24-6、東京大学生産技術研究所/オンライン、2024年6月13-14日
-
-- MD-based in silico screening using supercomputer Fugaku
-  - 〇Tomoya Nabetani, Toru Ekimoto, Tsutomu Yamane, Mitsunori Ikeguchi
-  - 第21回国際生物物理会議・第62回日本生物物理学会合同年会（IUPAB2024）、27P-212、国立京都国際会館（京都府京都市）、2024年6月24日-28日
-
-- Applications of Tree-Search-MD to drug target proteins: conformational changes between inactive and active structures of a kinase and a ligand binding to a GPCR
-  - Yukina Nakai, 〇Toru Ekimoto, Tsutomu Yamane, Masao Inoue, Naoki Ogawa, Sun-Yong Park, Kei Terayama, Mitsunori Ikeguchi
-  - 第21回国際生物物理会議・第62回日本生物物理学会合同年会（IUPAB2024）、28P-199、国立京都国際会館（京都府京都市）、2024年6月24日-28日
- 
-- Cross-reactvity of T cell receptors against HCoV through three-dimensional structure prediction
-  - 〇Ao Kikuchi, Toru Ekimoto, Tsutomu Yamane, Shuntaro Chiba, Kanako Shimizu, Shin-ichiro Fujii, Mitsunori Ikeguchi
-  - CBI学会2024年大会、P01-04、タワーホール船堀、2024年10月28日-31日
-
-- Mechanisms of Type-51 R-body conformational changes revealed by in silico methods
-  - 〇Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
-  - CBI学会2024年大会、P01-18、タワーホール船堀、2024年10月28日-31日
-
-- De novo PROTAC linker design to enhance cell membrane permeability based on a data-driven method
-  - 〇Yuki Murakami, Shoichi Ishida, Yosuke Demizu, Kei Terayama
-  - CBI学会2024年大会、P07-06、タワーホール船堀、2024年10月28日-31日
- 
-- Lead generation of a V-ATPase inhibitor using molecular generative AI
-  - 〇Taiyo Toita, Kano Suzuki, Shoichi Ishida, Akira Katsuyama, Satoshi Ichikawa, Masateru Ohta, Mitsunori Ikeguchi, Takeshi Murata, Kei Terayama
-  - CBI学会2024年大会、P07-18、タワーホール船橋、2024年10月28日-31日
- 
-- ChemTSv2を利用した機能分子設計
-  - 〇寺山慧
-  - CBI学会2024年大会、SP03-01、タワーホール船橋、2024年10月28日-31日
- 
-- ChemTSv2を利用した分子設計のチュートリアル
-  - 〇石田祥一
-  - CBI学会2024年大会、SP03-02、タワーホール船橋、2024年10月28日-31日
-
-- 立体構造予測によるHCoVに対するT細胞受容体の交差反応の研究
-  - 菊池碧、浴本亨、山根努、千葉峻太朗、清水佳奈子、藤井眞一郎、〇池口満徳
-  - 第52回構造活性相関シンポジウム、KP02、川崎市産業振興会館、2024年12月12日-13日
-
-- 分子生成AIによるV-ATPase阻害剤の最適化
-  - 戸板太陽、鈴木花野、石田祥一、勝山彬、市川聡、大田雅照、池口満徳、村田武士、〇寺山慧
-  - 第52回構造活性相関シンポジウム、KP03、川崎市産業振興会館、2024年12月12日-13日
-
-- インシリコ解析によるType-51 R-bodyのpH依存的な構造変化機構の解明
-  - 〇大枝弘明、浴本亨、山根努、菊池幸祐、伊達弘貴 、上野隆史、池口満徳
-  - 第52回構造活性相関シンポジウム、KP14、川崎市産業振興会館、2024年12月12日-13日
-
-- 細胞膜透過性を考慮したPROTACリンカー生成AIの開発
-  - 〇村上優貴、石田祥一、出水庸介、寺山慧
-  - 第52回構造活性相関シンポジウム、KP15、川崎市産業振興会館、2024年12月12日-13日
-
-- 大規模言語モデルを用いて専門的な技術の解決策を出力するための手法開発
-  - 〇富田ひかり、中村伸宏、石田祥一、神谷利夫、寺山慧
-  - 第34回日本MRS年次大会、A1-P16-018、産業貿易センタービル他、2024年12月16日-18日
-
-- 生成AIと分子シミュレーションの融合による機能性有機分子の設計
-  - 〇寺山慧
-  - 第34回日本MRS年次大会、A1-I16-007、産業貿易センタービル他、2024年12月16日-18日
 
 
 ## 2023
