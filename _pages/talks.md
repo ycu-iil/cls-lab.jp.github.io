@@ -19,6 +19,7 @@ author_profile: true
 1. 11月　第52回構造活性相関シンポジウム SAR Presentation Award（ポスター）村上優貴
   - 発表演題：細胞膜透過性を考慮したPROTACリンカー生成AIの開発
   - 著者：村上優貴、石田祥一、出水庸介、寺山慧
+  - 受賞コメント([リンク](https://www.tsurumi.yokohama-cu.ac.jp/news/20250114murakami.html))
 
 1. 11月　第52回構造活性相関シンポジウム SAR Presentation Award（ポスター）寺山慧
   - 発表演題：分子生成AIによるV-ATPase阻害剤の最適化
