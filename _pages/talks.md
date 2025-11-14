@@ -13,6 +13,12 @@ author_profile: true
 
 # 口頭発表賞・ポスター賞
 
+## 2025受賞
+
+1. 3月　薬学会第145年会 学生優秀発表賞　村上優貴
+  - 発表演題：細胞膜透過性を加味したPROTACリンカー生成AIの開発
+  - 著者：村上優貴、石田祥一、大田雅照、本間光貴、出水庸介、寺山慧
+  - 受賞コメント([リンク](https://www.yokohama-cu.ac.jp/news/2025/20250509murakami.html))
 
 ## 2024受賞
 
@@ -132,6 +138,70 @@ author_profile: true
 #  口頭発表・ポスター発表
 
 ## 2025
+
+- Machine Learning Assessment of TCR–pHLA Interactions Using AlphaFold-Based Structural Models
+  - 〇Mana Uwatoko, Toru Ekimoto, Masao Inoue, Tsutomu Yamane, Shuntaro Chiba, Mitsunori Ikeguchi
+  - CBI学会2025年大会、P01-09、タワーホール船堀、2025年10月27日-30日
+
+- Collective behavior of the Type 51 R-body predicted by AlphaFold 3
+  - 〇Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
+  - CBI学会2025年大会、P01-14、タワーホール船堀、2025年10月27日-30日
+
+- Inhibitor Screening of RseP and Elucidation of the molecular basis of substrate selectivity using AlphaFold3
+  - 〇Remii Takahashi、Hiroaki Oheda、Masao Inoue、Toru Ekimoto、Tsutomu Yamane、Yohei Hizukuri、Terukazu Nogi、Yoshinori Akiyama、Mitsunori Ikeguchi
+  - CBI学会2025年大会、P01-24、タワーホール船堀、2025年10月27日-30日
+
+- Data-driven Design of PROTAC Linkers to enhance Cell Membrane Permeability
+  - 〇Yuki Murakami, Shoichi Ishida, Nobuo Cho, Hitomi Yuki, Masateru Ohta, Teruki Honma, Yosuke Demizu, Kei Terayama
+  - CBI学会2025年大会、P06-10、タワーホール船堀、2025年10月27日-30日
+
+- Enhancing Protein-Protein Interaction Affinity Prediction with TabPFN and Rosetta-Based Structural Descriptors
+  - 〇Tomoya Nabetani, Toru Ekimoto, Masao Inoue, Tsutomu Yamane, Mitsunori Ikeguchi
+  - CBI学会2025年大会、P10-10、タワーホール船堀、2025年10月27日-30日
+
+- Activity prediction-driven optimization of a V-ATPase inhibitor using molecular generative AI
+  - 〇Taiyo Toita, Kano Suzuki, Shoichi Ishida, Sora Yamazaki, Akira Katsuyama, Satoshi Ichikawa, Masateru Ohta, Mitsunori Ikeguchi, Takeshi Murata, Kei Terayama
+  - CBI学会2025年大会、P10-17、タワーホール船堀、2025年10月27日-30日
+
+- Molecule Generation with Boltz-2: A Case Study on Kinase Inhibitor Design
+  - 〇Tatsuya Yoshizawa, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama
+  - CBI学会2025年大会、P10-19、タワーホール船堀、2025年10月27日-30日
+
+- Mechanism of Type-51 R-body conformational change based on structural predictions using AlphaFold 3
+  - 〇Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
+  - 第63回日本生物物理学会年会、2Pos162、奈良県コンベンションセンター、2025年9月24日-26日
+
+- In Silico Screening of RseP Inhibitor Candidates and Elucidation of the molecular basis of substrate selectivity by Structure Prediction
+  - 〇Remii Takahashi、Hiroaki Oheda、Masao Inoue、Toru Ekimoto、Tsutomu Yamane、Yohei Hizukuri、Terukazu Nogi、Yoshinori Akiyama、Mitsunori Ikeguchi
+  - 第63回日本生物物理学会年会、2Pos164、奈良県コンベンションセンター、2025年09月24日-26日
+
+- Quantitative Structure–Activity Relationships for Human Galectin-3 Inhibitors: Insights from Quantum Chemical Interaction Energy Terms
+  - 〇増田友秀、渡邉千鶴、加藤幸一郎、本間光貴、大田雅照、池口満徳
+  - 第53回構造活性相関シンポジウム、KO06、近畿大学東大阪キャンパス、2025年9月4日-5日
+
+- Elucidation of R-body polymerization and structural change mechanisms using AlphaFold 3
+  - 〇Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
+  - 第53回構造活性相関シンポジウム、KP2-01、近畿大学東大阪キャンパス、2025年9月4日-5日
+
+- 活性予測モデルを用いた分子生成AIによるV-ATPase阻害剤の最適化戦略
+  - 〇戸板太陽、鈴木花野、石田祥一、山﨑奏空、勝山彬、市川聡、大田雅照、池口満徳、村田武士、寺山慧
+  - 第53回構造活性相関シンポジウム、KP2-04、近畿大学東大阪キャンパス、2025年9月4日-5日
+
+- Screening of RseP Inhibitors and Analysis of Substrate Selection Mechanism Using AlphaFold3 and Molecular Docking
+  - 〇Remii Takahashi、Hiroaki Oheda、Masao Inoue、Toru Ekimoto、Tsutomu Yamane、Yohei Hizukuri、Terukazu Nogi、Yoshinori Akiyama、Mitsunori Ikeguchi
+  - 第53回構造活性相関シンポジウム、KP2-07、近畿大学東大阪キャンパス、2025年9月4日-5日
+
+- 拡散モデルに基づく結合親和性予測を用いた分子生成
+  - 〇吉澤竜哉、佐藤朋広、大田雅照、本間光貴、寺山慧
+  - 第53回構造活性相関シンポジウム、KP2-10、近畿大学東大阪キャンパス、2025年9月4日-5日
+
+- Mechanisms of Type-51 R-body conformational changes revealed by AlphaFold 3
+  - 〇Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
+  - 第25回日本蛋白質科学会年会、2P-056、アクリエひめじ、2025年6月18日-20日
+
+- Discovery of RseP inhibitors using in silico screening and analysis of substrate recognition mechanism
+  - 〇Remii Takahashi、Hiroaki Oheda、Masao Inoue、Toru Ekimoto、Tsutomu Yamane、Yohei Hizukuri、Terukazu Nogi、Yoshinori Akiyama、Mitsunori Ikeguchi
+  - 第25回日本蛋白質科学会年、3P-037、アクリエひめじ、2025年6月18日-20日
 
 - 細胞膜透過性を加味したPROTACリンカー生成AIの開発
   - 〇村上 優貴、石田 祥一、大田 雅照、本間 光貴、出水 庸介、寺山 慧
