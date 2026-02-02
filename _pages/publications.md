@@ -5,7 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-[2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010), [2009](#2009), [2008](#2008), [2007](#2007), [2006](#2006), [2005](#2005), [2004](#2004), [2003](#2003), [2002](#2002), [2001](#2001), [2000](#2000), [1999](#1999), [1998](#1998), [1997](#1997), [1996](#1996), [1995](#1995) 
+[2026](#2026), [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011), [2010](#2010), [2009](#2009), [2008](#2008), [2007](#2007), [2006](#2006), [2005](#2005), [2004](#2004), [2003](#2003), [2002](#2002), [2001](#2001), [2000](#2000), [1999](#1999), [1998](#1998), [1997](#1997), [1996](#1996), [1995](#1995) 
+
+# 2026
+<details open>
+  <summary>クリックして表示/非表示</summary>
+  <p></p>
+  <ol>
+    <li>K. Matsuzawa, <u>T. Ekimoto</u>, C. Kobayashi, K. Shionoya, J. Mifune, T. Morita, J. S. Takeuchi, S. Y. Park, <u>M. Ikeguchi</u>, C. Sureau, A. Kawaguchi, K. Watashi, <a href="https://doi.org/10.1371/journal.ppat.1013824">“Structural mapping of NTCP distinguishes its dual functionality as a hepatitis B virus receptor and bile acid transporter”</a>, <em>PLoS Pathogens</em>, 22, 1, e1013824, 2026.</li>
+    <li>C. Kobayashi, <u>T. Ekimoto</u>, K. Ooka, J. Mifune, K. Matsuzawa, L. Que, Y. Li, A. Kusunoki, T. Morita, K. Shionoya, M. Nagano, K. Wakae, M. Isogawa, M. Muramatsu, U. Ohto, N. Nomura, S. Y. Park, C. Sureau, M. Arai, <u>M. Ikeguchi</u>, K. Watashi, <a href="https://doi.org/10.1038/s41467-025-68062-z">“Multistep receptor binding of the hepatitis B virus preS1 domain”</a>, <em>Nature Communications</em>, 17, 102, 2026.</li>
+
+  </ol>
+</details>
+<p></p>
 
 # 2025
 <details open>
@@ -28,7 +40,7 @@ author_profile: true
 
 
 # 2024
-<details open>
+<details>
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
