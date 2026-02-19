@@ -13,7 +13,6 @@ author_profile: true
   <p></p>
   <ol>
     <li><u>Y. Murakami</u>, <u>S. Ishida</u>, <u>N. Cho</u>, H. Yuki, M. Ohta, T. Honma, Y. Demizu, <u>K. Terayama</u>, <a href="https://doi.org/10.1021/jacsau.6c00033">"Data-Driven Design of PROTAC Linkers to Improve PROTAC Cell Membrane Permeability"</a>, <em>JACS Au</em>, 2026.</li>
-<li>M. Mekuchi, S. Soma, T. Asakura, H. Furuita, T. Shimizu, T. Sanda, T. Yamaguchi, Y. Fujikura, K. Sakata, <u>K. Terayama</u>, J. Kikuchi, M. Yasuike, <a href="https://doi.org/10.1016/j.csbr.2025.100077">"Dietary Tryptophan’s Effect on Lipid Metabolism in the Leopard Coral Grouper Plectropomus leopardus"</a>, <em>Computational and Structural Biotechnology Reports</em>, 2, 100077, 2025.</li>
     <li>K. Matsuzawa, <u>T. Ekimoto</u>, C. Kobayashi, K. Shionoya, J. Mifune, T. Morita, J. S. Takeuchi, S. Y. Park, <u>M. Ikeguchi</u>, C. Sureau, A. Kawaguchi, K. Watashi, <a href="https://doi.org/10.1371/journal.ppat.1013824">“Structural mapping of NTCP distinguishes its dual functionality as a hepatitis B virus receptor and bile acid transporter”</a>, <em>PLoS Pathogens</em>, 22, 1, e1013824, 2026.</li>
     <li>C. Kobayashi, <u>T. Ekimoto</u>, K. Ooka, J. Mifune, K. Matsuzawa, L. Que, Y. Li, A. Kusunoki, T. Morita, K. Shionoya, M. Nagano, K. Wakae, M. Isogawa, M. Muramatsu, U. Ohto, N. Nomura, S. Y. Park, C. Sureau, M. Arai, <u>M. Ikeguchi</u>, K. Watashi, <a href="https://doi.org/10.1038/s41467-025-68062-z">“Multistep receptor binding of the hepatitis B virus preS1 domain”</a>, <em>Nature Communications</em>, 17, 102, 2026.</li>
 
