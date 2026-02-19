@@ -144,6 +144,14 @@ author_profile: true
 
 ## 2025
 
+- Machine learning-based PROTAC linker design method to enhance cell membrane permeability
+  - 〇Yuki Murakami, Shoichi Ishida, Masateru Ohta, Teruki Honma, Yosuke Demizu, Kei Terayama
+  - The International Chemical Congress of Pacific Basin Societies 2025, Hawaii, 2025/12/15-20
+
+- A generative strategy for reliable data-driven design of functional molecules
+  - 〇Tatsuya Yoshizawa, Shoichi Ishida, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama
+  - The International Chemical Congress of Pacific Basin Societies 2025, Hawaii, 2025/12/15-20
+
 - Machine Learning Assessment of TCR–pHLA Interactions Using AlphaFold-Based Structural Models
   - 〇Mana Uwatoko, Toru Ekimoto, Masao Inoue, Tsutomu Yamane, Shuntaro Chiba, Mitsunori Ikeguchi
   - CBI学会2025年大会、P01-09、タワーホール船堀、2025年10月27日-30日
