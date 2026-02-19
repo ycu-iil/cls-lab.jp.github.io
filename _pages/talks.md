@@ -15,6 +15,11 @@ author_profile: true
 
 ## 2025受賞
 
+1. 10月 情報計算化学生物学会(CBI学会) 2025年大会 Best Poster Award 吉澤竜哉
+  - 発表演題：Molecule Generation with Boltz-2: A Case Study on Kinase Inhibitor Design
+  - 著者：吉澤竜哉、佐藤朋広、大田雅照、本間光貴、寺山慧
+  - 受賞コメント([リンク](https://www.tsurumi.yokohama-cu.ac.jp/news/20251119yoshizawa.html))
+
 1. 3月　薬学会第145年会 学生優秀発表賞　村上優貴
   - 発表演題：細胞膜透過性を加味したPROTACリンカー生成AIの開発
   - 著者：村上優貴、石田祥一、大田雅照、本間光貴、出水庸介、寺山慧
