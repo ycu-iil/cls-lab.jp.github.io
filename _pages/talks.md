@@ -20,6 +20,11 @@ author_profile: true
   - 著者：吉澤竜哉、佐藤朋広、大田雅照、本間光貴、寺山慧
   - 受賞コメント([リンク](https://www.tsurumi.yokohama-cu.ac.jp/news/20251119yoshizawa.html))
 
+1. 9月　第53回構造活性相関シンポジウム SAR Presentation Award（ポスター）大枝 弘明
+  - 発表演題：Elucidation of R-body polymerization and structural change mechanisms using AlphaFold 3
+  - 著者：Hiroaki Oheda, Toru Ekimoto, Tsutomu Yamane, Kosuke Kikuchi, Koki Date, Takafumi Ueno, Mitsunori Ikeguchi
+  - 受賞コメント([リンク](https://www.tsurumi.yokohama-cu.ac.jp/news/20260213oeda.html))
+
 1. 3月　薬学会第145年会 学生優秀発表賞　村上優貴
   - 発表演題：細胞膜透過性を加味したPROTACリンカー生成AIの開発
   - 著者：村上優貴、石田祥一、大田雅照、本間光貴、出水庸介、寺山慧
