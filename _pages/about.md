@@ -15,7 +15,13 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
 
+- 【学生の活躍・研究】村上優貴さん（D2）が筆頭著者の論文が"Data-Driven Design of PROTAC Linkers to Improve PROTAC Cell Membrane Permeability"として、[*JACS Au*](https://doi.org/10.1021/jacsau.6c00033)誌に掲載されました！（[コメント・解説](https://www.yokohama-cu.ac.jp/news/2025/20260220murakami.html)）[2026/2/20]
+
+- 【学生の活躍】大枝弘明さん（D1）が第53回構造活性相関シンポジウムでSAR Presentation Awardを受賞しました !（[コメント](https://www.tsurumi.yokohama-cu.ac.jp/news/20260213oeda.html)）[2026/2/13]
+
 - 【研究】感染研渡士先生、横浜市大朴先生との共同研究結果が[*PLOS pathogens*](https://doi.org/10.1371/journal.ppat.1013824)誌と[*Nature Communications*](https://doi.org/10.1038/s41467-025-68062-z)誌で出版されました！[2026/2/2]
+
+- 【学生の活躍】吉澤竜哉さん（D2）がCBI学会2025年大会にてBest Poster Awardを受賞しました！（[コメント](https://www.tsurumi.yokohama-cu.ac.jp/news/20251119yoshizawa.html)）[2025/11/19]
 
 - 【研究】特任講師 石田先生らの論文が、"Large language models open new way of AI-assisted molecule design for chemists"として[*Journal of Cheminformatics*](https://doi.org/10.1186/s13321-025-00984-8)誌に掲載されました！
 
@@ -32,10 +38,6 @@ English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 - 【研究】東大 清水先生との共同研究で、卒業生の鈴木南美さん、斎藤悠里さん、野村真沙美さんの卒業研究の成果が*Bulletins of Pharmaceutical Society of Japan*誌にアクセプトになりました。[2024/10/22]
 
 - 【研究】社会人博士　小川直樹さんが筆頭著者の論文が[*Journal of Chemical Information and Modeling*誌](https://doi.org/10.1021/acs.jcim.3c01352)に掲載されました。[2024/5/15]
-
-- 【研究】特任助教　井上先生らの論文が[*Journal of Chemical Information and Modeling*誌](https://doi.org/10.1021/acs.jcim.4c00172)に掲載されました。[2024/5/15]
-
--  【学生の活躍・研究】陳佳盈さん（D2）が筆頭著者の論文が"Predicting condensate formation of protein and RNA under various environmental conditions"として、[*BMC Bioinformatics*](https://doi.org/10.1186/s12859-024-05764-z)誌に掲載されました！（[解説・コメント](https://www.yokohama-cu.ac.jp/news/2024/20240430chin_publication.html)）[2024/4/30]
 
 - 過去のNewsは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/old/)
 
