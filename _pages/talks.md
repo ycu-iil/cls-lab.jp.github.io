@@ -147,6 +147,12 @@ author_profile: true
 
 #  口頭発表・ポスター発表
 
+## 2026
+
+- PROTAC-TS : 細胞膜透過性を考慮したPROTACリンカー生成AI
+  - 〇村上 優貴、石田 祥一、長 展生、幸 瞳、大田 雅照、本間 光貴、出水 庸介、寺山 慧
+  - 日本薬学会第146年会、GS05-3、関西大学 千里山キャンパス、2026年3月26日-29日
+    
 ## 2025
 
 - Machine learning-based PROTAC linker design method to enhance cell membrane permeability
