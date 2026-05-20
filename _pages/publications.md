@@ -54,6 +54,7 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
+    <li>M. Inoue, T. Hayashi, S. Yasuda, M. Kato, M. Ikeguchi, T. Murata, M. Kinoshita, "Statistical-Mechanics Analyses on Thermodynamics of Protein Folding Constructed by Privalov and Co-Workers", <em>J. Phys. Chem. B</em>, 2024, 128, 41, 10110-10125.</li>
     <li>A. Koizumi, G. Deffrennes, <u>K. Terayama</u>, R. Tamura, <a href="https://doi.org/10.1038/s41598-024-76800-4">"Performance of uncertainty-based active learning for efficient approximation of black-box functions in materials science"</a>, <em>Scientific Reports</em>, 14, 27019, 2024.</li>
     <li>F. Oba, T. Nagai, R. Katsube, Y. Mochizuki, M. Tsuji, G. Deffrennes, K. Hanzawa, A. Nakano, A. Takahashi, <u>K. Terayama</u>, R. Tamura, H. Hiramatsu, Y. Nose, H. Taniguchi, <a href="https://doi.org/10.1080/14686996.2024.2423600">"Theoretical and data-driven approaches to semiconductors and dielectrics: from prediction to experiment"</a>, <em>Science and Technology of Advanced Materials</em>, 2024.</li>
     <li><u>T. Kadoi</u>, K. Mizuno, <u>S. Ishida</u>, S. Onozato, H. Washiyama, Y. Uehara, Y. Saito, K. Okamoto, S. Sakamoto, Y. Sugimoto, <u>K. Terayama</u>, <a href="https://doi.org/10.1038/s41598-024-77893-7">"Development of a method for estimating asari clam distribution by combining three-dimensional acoustic coring system and deep neural network"</a>, <em>Scientific Reports</em>, 14, 26467, 2024.</li>
