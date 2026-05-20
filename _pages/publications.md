@@ -29,6 +29,10 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
+    <li>H. Ogawa, M. Ohta, M. Ikeguchi, "In silico-driven protocol for hit-to-lead optimization: a case study on PDE9A inhibitors", <em>J. Comput. Aided Mol. Des.</em>, 2025, 40, 24.</li>
+<li>H. N. Wu, J. Fujita, Y. Nakura, M. Inoue, K. Suzuki, T. Ekimoto, B. Yin, Y. Fukuda, K. Harada, T. Inoue, M. Ikeguchi, K. Namba, I. Yanagihara, "Structural Analysis and Molecular Dynamics Simulations of Urease From Ureaplasma parvum", <em>J. Mol. Biol.</em>, 2025, 437, 169368.</li>
+<li>T. Masuda, C. Watanabe, K. Kato, T. Honma, M. Ohta, M. Ikeguchi, "Quantitative Structure−Activity Relationships for Human Galectin-3 Inhibitors: Insights from Quantum Chemical Interaction Energy Terms", <em>J. Chem. Inf. Model.</em>, 2025, 65, 12, 6287-6297.</li>
+<li>D. Kozai, M. Inoue, S. Suzuki, A. Kamegawa, K. Nishikawa, H. Suzuki, T. Ekimoto, M. Ikeguchi, Y. Fujiyoshi, "Narrowed pore conformations of aquaglyceroporins AQP3 and GlpF", <em>Nat. Commun.</em>, 2025, 16, 2653.</li>
     <li>M. Mekuchi, S. Soma, T. Asakura, H. Furuita, T. Shimizu, T. Sanda, T. Yamaguchi, Y. Fujikura, K. Sakata, <u>K. Terayama</u>, J. Kikuchi, M. Yasuike, <a href="https://doi.org/10.1016/j.csbr.2025.100077">"Dietary Tryptophan’s Effect on Lipid Metabolism in the Leopard Coral Grouper Plectropomus leopardus"</a>, <em>Computational and Structural Biotechnology Reports</em>, 2, 100077, 2025.</li>
     <li><u>H. Tomita</u>, N. Nakamura, <u>S. Ishida</u>, T. Kamiya, <u>K. Terayama</u>, <a href="https://doi.org/10.1038/s43246-025-00946-5">”Extracting effective solutions hidden in large language models via generated comprehensive specialists: case studies in developing electronic devices"</a>, <em>Communications Materials</em>, 6, 207, 2025.</li>
     <li>R. Hatsumi, T. Takashi, <u>K. Terayama</u>, Y. Kuroda, N. Ienaga, <a href="https://doi.org/10.1007/s10499-025-02267-3">"Monocular burst swimming detection in Pacific bluefin tuna (Thunnus orientalis) using deep learning enhanced by ellipse fitting"</a>, <em>Aquaculture International</em>, 33, 571, 2025.</li>
