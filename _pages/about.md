@@ -14,7 +14,8 @@ redirect_from:
 English page is [here](https://ycu-iil.github.io/cls-lab.en.github.io/).
 
 # 研究室News
-
+- 【学生の活躍】大枝弘明さん（D2）がAI for Science萌芽的挑戦研究創出事業 (SPReAD 1000)に採択されました！
+  
 - 【学生の活躍・研究】村上優貴さん（D2）が筆頭著者の論文が"Data-Driven Design of PROTAC Linkers to Improve PROTAC Cell Membrane Permeability"として、[*JACS Au*](https://doi.org/10.1021/jacsau.6c00033)誌に掲載されました！（[コメント・解説](https://www.yokohama-cu.ac.jp/news/2025/20260220murakami.html)）[2026/2/20]
 
 - 【学生の活躍】大枝弘明さん（D1）が第53回構造活性相関シンポジウムでSAR Presentation Awardを受賞しました !（[コメント](https://www.tsurumi.yokohama-cu.ac.jp/news/20260213oeda.html)）[2026/2/13]
