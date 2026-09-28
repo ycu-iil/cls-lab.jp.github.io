@@ -12,6 +12,8 @@ author_profile: true
   <summary>クリックして表示/非表示</summary>
   <p></p>
   <ol>
+    <li>S. Fujii, Y. Murakami, T. Yoshizawa, S. Ishida, N. Cho, M. Ohta, T. Honma, K. Yoshizoe, M. Sumita, K. Tsuda, <u>K. Terayama</u>, <a href="https://doi.org/10.1038/s42004-026-02172-7">"Generalizing molecular design via flexible search space control"</a>, <em>Communications Chemistry</em>, 2026.</li>
+    <li>S. Fujii, R. Tamura, M. Sumita, <u>K. Terayama</u>, <a href="https://doi.org/10.1039/D6DD00294C">"Efficient and scalable expansion of property limits via novelty-guided exploration"</a>, <em>Digital Discovery</em>, 2026.</li>
     <li>K. Suga, H. Takahashi, <u>K. Terayama</u>, M. Sumita, S. Saito, <a href="https://doi.org/10.1021/acs.jcim.6c00213">"Defining a Chemical Space of π-Conjugated Hydrocarbons by Unit-Based Construction"</a>, <em>Journal of Chemical Information and Modeling</em>, 2026.</li>
     <li><u>K. Y. Chin</u>, <u>S. Fujii</u>, <u>S. Ishida</u>, <u>K. Terayama</u>, <a href="https://doi.org/10.1038/s41598-026-47277-0">"Assessing the performance of multimodal large language models in experimental information extraction from liquid–liquid phase separation literature"</a>, <em>Scientific Reports</em>, 2026.</li>
     <li><u>A. Marzuq</u>, Y. Yamada, <u>K. Terayama</u>, Y. Kakehi, S. Maeda, <a href="https://doi.org/10.35848/1347-4065/ae536f">"Bayesian optimization of binary fluorine-based dielectric mixtures for high-power electrohydrodynamic pumps"</a>, <em>Japanese Journal of Applied Physics</em>, 65, 070901, 2026.</li>
