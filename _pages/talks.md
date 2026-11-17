@@ -13,6 +13,10 @@ author_profile: true
 
 # 口頭発表賞・ポスター賞
 
+## 2026受賞
+1. 10月 情報計算化学生物学会(CBI学会) 2026年大会 ポスター賞・学生発表奨励賞 吉澤竜哉
+ - 発表演題：Molecule Generation with Boltz-2: A Case Study on Kinase Inhibitor Design
+ - 著者：Tatsuya Yoshizawa, Satoru Fujii, Nobuo Cho, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama.
 ## 2025受賞
 
 1. 10月 情報計算化学生物学会(CBI学会) 2025年大会 Best Poster Award 吉澤竜哉
@@ -148,6 +152,22 @@ author_profile: true
 #  口頭発表・ポスター発表
 
 ## 2026
+- 創薬における汎用大規模言語モデルの分子変換能力の評価
+  - 〇吉澤竜哉, 藤井慧, 長展生, 佐藤朋広, 大田雅照, 本間光貴, 寺山慧.
+  - 第54回構造活性相関シンポジウム、KP-05、文部科学省研究交流センター、2026年11月12-13日
+  
+- 脂質分子との共予測による AlphaFold 3膜タンパク質構造予測精度改善手法の提案
+  - ◯大枝 弘明, 井上 雅郎, 浴本 亨, 山根 努, 池口 満徳
+  - 第54回構造活性相関シンポジウム, KP-01, 文部科学省研究交流センター, 2026/11/12-13
+  
+- Can General-Purpose LLMs Edit Molecules Like Medicinal Chemists?
+  - 〇Tatsuya Yoshizawa, Satoru Fujii, Nobuo Cho, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama.
+  - CBI学会2026年大会、P09-19、タワーホール船堀、2026年10月26日–29日
+  
+- Co-Prediction with Lipid Molecules Modulates AlphaFold 3 Models of Full-Length Single-Pass Membrane Proteins
+  - ◯Hiroaki Oheda, Masao Inoue, Toru Ekimoto, Tsutomu Yamane, Mitsunori Ikeguchi
+  - CBI学会2026年大会, P01-24, タワーホール船堀, 2026/10/26-29
+
 - 膜タンパク質に対する新規構造予測手法の提案と評価
   - 〇大枝弘明、井上雅郎、浴本亨、山根努、池口満徳
   - 第26回日本蛋白質科学会、P-143、とりぎん文化会館、2026年6月17日-19日
