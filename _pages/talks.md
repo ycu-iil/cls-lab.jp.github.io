@@ -152,6 +152,10 @@ author_profile: true
 #  口頭発表・ポスター発表
 
 ## 2026
+- 大規模言語モデルによるクロマトグラフィー精製条件予測
+  - 〇平野碧, 村上優貴, 江上倖生, 長展生, 山崎寛人, 隅田真人, 石田祥一, 木幡愛, 金原数, 寺山慧.
+  - 第54回構造活性相関シンポジウム、KP-07、文部科学省研究交流センター、2026年11月12-13日
+  
 - 三者複合体評価に基づくPROTACのリガンドとリンカーの統合設計
   - 〇村上優貴, 藤井慧, 長展生, 大田雅照, 本間光貴, 出水庸介, 寺山慧.
   - 第54回構造活性相関シンポジウム、KP-21、文部科学省研究交流センター、2026年11月12-13日
@@ -164,13 +168,17 @@ author_profile: true
   - ◯大枝 弘明, 井上 雅郎, 浴本 亨, 山根 努, 池口 満徳
   - 第54回構造活性相関シンポジウム, KP-01, 文部科学省研究交流センター, 2026/11/12-13
 
+Prediction of Chromatographic Purification Conditions Using Large Language Models
+  - 〇平野碧, 村上優貴, 江上倖生, 長展生, 山崎寛人, 隅田真人, 石田祥一, 木幡愛, 金原数, 寺山慧.
+  - CBI学会2026年大会、P02-13、タワーホール船堀、2026年10月26-29日
+  
 - From Building Blocks to PROTACs: Multi-Objective Whole-PROTAC Optimization through Ligand-Linker Recombination with Ternary Complex Evaluation
   - 〇村上優貴, 藤井慧, 長展生, 大田雅照, 本間光貴, 出水庸介, 寺山慧.
   - CBI学会2026年大会、P09-14、タワーホール船堀、2026年10月26-29日
   
 - Can General-Purpose LLMs Edit Molecules Like Medicinal Chemists?
   - 〇Tatsuya Yoshizawa, Satoru Fujii, Nobuo Cho, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama.
-  - CBI学会2026年大会、P09-19、タワーホール船堀、2026年10月26日–29日
+  - CBI学会2026年大会、P09-19、  タワーホール船堀、2026年10月26日–29日
   
 - Co-Prediction with Lipid Molecules Modulates AlphaFold 3 Models of Full-Length Single-Pass Membrane Proteins
   - ◯Hiroaki Oheda, Masao Inoue, Toru Ekimoto, Tsutomu Yamane, Mitsunori Ikeguchi
