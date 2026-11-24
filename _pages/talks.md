@@ -152,6 +152,10 @@ author_profile: true
 #  口頭発表・ポスター発表
 
 ## 2026
+- 三者複合体評価に基づくPROTACのリガンドとリンカーの統合設計
+  - 〇村上優貴, 藤井慧, 長展生, 大田雅照, 本間光貴, 出水庸介, 寺山慧.
+  - 第54回構造活性相関シンポジウム、KP-21、文部科学省研究交流センター、2026年11月12-13日
+    
 - 創薬における汎用大規模言語モデルの分子変換能力の評価
   - 〇吉澤竜哉, 藤井慧, 長展生, 佐藤朋広, 大田雅照, 本間光貴, 寺山慧.
   - 第54回構造活性相関シンポジウム、KP-05、文部科学省研究交流センター、2026年11月12-13日
@@ -159,6 +163,10 @@ author_profile: true
 - 脂質分子との共予測による AlphaFold 3膜タンパク質構造予測精度改善手法の提案
   - ◯大枝 弘明, 井上 雅郎, 浴本 亨, 山根 努, 池口 満徳
   - 第54回構造活性相関シンポジウム, KP-01, 文部科学省研究交流センター, 2026/11/12-13
+
+- From Building Blocks to PROTACs: Multi-Objective Whole-PROTAC Optimization through Ligand-Linker Recombination with Ternary Complex Evaluation
+  - 〇村上優貴, 藤井慧, 長展生, 大田雅照, 本間光貴, 出水庸介, 寺山慧.
+  - CBI学会2026年大会、P09-14、タワーホール船堀、2026年10月26-29日
   
 - Can General-Purpose LLMs Edit Molecules Like Medicinal Chemists?
   - 〇Tatsuya Yoshizawa, Satoru Fujii, Nobuo Cho, Tomohiro Sato, Masateru Ohta, Teruki Honma, Kei Terayama.
